@@ -1,0 +1,457 @@
+[
+  {
+    "season": "2025",
+    "competition": "Super League 2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 20.5,
+      "total": 41
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Liga 1 2024/2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 22.5,
+      "total": 45
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "AFC Champions League Elite 2024/2025 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 32
+    },
+    "fouls": {
+      "avgPerGame": 26.75,
+      "total": 214
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "AFC Asian Cup 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification Asia 2026 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 2.63,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 11.88,
+      "total": 95
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "AFC Champions League Elite 2023/2024 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 34
+    },
+    "fouls": {
+      "avgPerGame": 24.88,
+      "total": 199
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Arab Club Championship 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 16,
+      "total": 16
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "ASEAN Championship 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 34
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "AFC Champions League Elite 2022 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 21
+    },
+    "fouls": {
+      "avgPerGame": 19.86,
+      "total": 139
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Friendly International 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Olympic Games 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "AFC Champions League Elite 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "AFC Champions League Elite 2020 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 31.13,
+      "total": 249
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification Asia 2022 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 21
+    },
+    "fouls": {
+      "avgPerGame": 18.11,
+      "total": 163
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "World Cup U20 2019 Poland (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 27.5,
+      "total": 55
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Afc Championship U23 2020 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "AFC Champions League Elite 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "AFC Asian Cup 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Indian Super League 2018/2019 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5.25,
+      "total": 21
+    },
+    "fouls": {
+      "avgPerGame": 30.75,
+      "total": 123
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "ASEAN Championship 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 37,
+      "total": 37
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Play-offs 1/2 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "AFC Champions League Elite 2018 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 2.4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23.2,
+      "total": 116
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Friendly International 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Premier League 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "AFC Champions League Elite 2017 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 2.89,
+      "total": 26
+    },
+    "fouls": {
+      "avgPerGame": 23.89,
+      "total": 215
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "ASEAN Championship 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Premier League 2016/2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "AFC Champions League Elite 2016 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 18
+    },
+    "fouls": {
+      "avgPerGame": 10.17,
+      "total": 61
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "AFC Champions League Two 2016 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 12,
+      "total": 24
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "WC Qualification Asia 2018 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 2.4,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 6.2,
+      "total": 31
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "AFC Champions League Two 2015 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "AFC Champions League Elite 2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "ASEAN Championship 2014 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "AFC Champions League Two 2014 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Friendly International 2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

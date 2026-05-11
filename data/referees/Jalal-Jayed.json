@@ -1,0 +1,301 @@
+[
+  {
+    "season": "2025",
+    "competition": "Africa Cup of Nations 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 90
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "World Cup U20 2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 27.5,
+      "total": 110
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Botola Pro 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 33,
+      "total": 33
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Botola Pro 2024/2025 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 13,
+      "total": 78
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "CAF Champions League 2024/2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 12,
+      "total": 24
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Africa Cup of Nations Qualifications 2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6.5,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 46
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup of Nations 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 34
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "CAF World Cup Qualifiers 2026 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 2.4,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 28.8,
+      "total": 144
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Botola Pro 2023/2024 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 4.23,
+      "total": 55
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 325
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CAF Champions League 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CAF Confederations Cup 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 32.5,
+      "total": 65
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa U23 Cup of Nations 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup Of Nations U20 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 13.5,
+      "total": 27
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "CAF Champions League 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Botola Pro 2022/2023 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup of Nations Qualifications 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Friendly International 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "CAF Confederations Cup 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 39,
+      "total": 39
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Botola Pro 2021/2022 (",
+    "fixtures": 15,
+    "cards": {
+      "avgPerGame": 3.8,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Botola Pro 2020/2021 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 51
+    },
+    "fouls": {
+      "avgPerGame": 9.58,
+      "total": 115
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "CAF Champions League 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Botola Pro 2019/2020 (",
+    "fixtures": 15,
+    "cards": {
+      "avgPerGame": 3.87,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 26.47,
+      "total": 397
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "CAF World Cup Qualifiers 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  }
+]

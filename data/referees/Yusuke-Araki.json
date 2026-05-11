@@ -1,0 +1,977 @@
+[
+  {
+    "season": "2026",
+    "competition": "J2/J3 100 Year Vision League 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "J1 100 Year Vision League 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Stars League 2025/2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 42
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "AFC Champions League Two 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "AFC Champions League Elite 2025/2026 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 100
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Emperor Cup 2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 1.75,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 19.25,
+      "total": 77
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "J-League Cup 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "J1 League 2025 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 2.85,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21.85,
+      "total": 284
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Premier League 2 Division One 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "AFC Champions League Two 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "AFC Champions League Elite 2024/2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 17
+    },
+    "fouls": {
+      "avgPerGame": 20.25,
+      "total": 81
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Ekstraklasa 2024/2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 69
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Emperor Cup 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "UAE-Qatar Super Shield 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "US Open Cup 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "J-League Cup 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "J2-League 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "J1 League 2024 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 40
+    },
+    "fouls": {
+      "avgPerGame": 23.56,
+      "total": 377
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "AFC Asian Cup 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 50
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Friendly International 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 16,
+      "total": 16
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification Asia 2026 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 3.56,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 12.89,
+      "total": 116
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "AFC Champions League Elite 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 50
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Liga 1 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 28.5,
+      "total": 57
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "World Cup U20 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 16.5,
+      "total": 33
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Emperor Cup 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "J-League Cup 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "J2-League 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "J1 League 2023 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 2.44,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21.11,
+      "total": 190
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Super Cup 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Friendly International 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "ASEAN Championship 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Premier League International Cup 2022/2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Premier League 2 Division One 2022/2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 14.33,
+      "total": 43
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "AFC Championship U23 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 40
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Emperor Cup 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "AFC Champions League Two 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "AFC Champions League Elite 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 12,
+      "total": 12
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "J1 League 2022 (",
+    "fixtures": 14,
+    "cards": {
+      "avgPerGame": 2.43,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 21.86,
+      "total": 306
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Club Friendlies 1 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Friendly International 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Emperor Cup 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "J-League Cup 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "J2-League 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 11.5,
+      "total": 23
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "J1 League 2021 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 2.58,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 20.42,
+      "total": 388
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Super Cup 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "J2-League 2020 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 2.29,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 14,
+      "total": 98
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "J1 League 2020 (",
+    "fixtures": 20,
+    "cards": {
+      "avgPerGame": 2.45,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 22.25,
+      "total": 445
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "J-League Cup 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "AFC Champions League Two 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "AFC Champions League Elite 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification Asia 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 13,
+      "total": 13
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "FA Cup 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "J-League Cup 2019 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 23.67,
+      "total": 71
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Super League 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 50
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "J2-League 2019 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 26.67,
+      "total": 80
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "J1 League 2019 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 1.27,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 21.18,
+      "total": 233
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "AFC Champions League Two 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Emperor Cup 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "J-League Cup 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 15,
+      "total": 30
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "J2-League 2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.67,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 38.33,
+      "total": 115
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "J1 League 2018 (",
+    "fixtures": 14,
+    "cards": {
+      "avgPerGame": 2.86,
+      "total": 40
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 336
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "AFC Champions League Two 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 27.5,
+      "total": 55
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Friendly International 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "1. Liga 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Ekstraklasa 2017/2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 33,
+      "total": 66
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "J-League Cup 2017 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 5.33,
+      "total": 16
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "J2-League 2017 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 2.6,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 25.6,
+      "total": 128
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "J1 League 2017 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 2.86,
+      "total": 20
+    },
+    "fouls": {
+      "avgPerGame": 23.43,
+      "total": 164
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Emperor Cup 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "J-League Cup 2016 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 8.67,
+      "total": 26
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "J2-League 2016 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 0.89,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "J1 League 2016 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 2.44,
+      "total": 22
+    },
+    "fouls": {
+      "avgPerGame": 22.22,
+      "total": 200
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "J2-League 2015 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 8.13,
+      "total": 130
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "CFA Group B 2013/2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "J2-League 2013 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

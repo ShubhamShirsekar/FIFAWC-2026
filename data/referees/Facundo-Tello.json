@@ -1,0 +1,977 @@
+[
+  {
+    "season": "2026",
+    "competition": "WC Qualification Intercontinental Playoffs 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Copa Sudamericana 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Copa Libertadores 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Liga Profesional de Fútbol 2026 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 4.88,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 24.38,
+      "total": 195
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Copa Argentina 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Super Cup 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 10,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Pro League 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "UAE Pro League 2025/2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 56
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "FIFA Club World Cup 2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 20.5,
+      "total": 41
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Copa Sudamericana 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "OFC Champions League 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Primera B Nacional 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Copa Libertadores 2025 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 22.67,
+      "total": 136
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Liga Profesional de Fútbol 2025 (",
+    "fixtures": 26,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 27.12,
+      "total": 705
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Copa Argentina 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Pro League 2024/2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23.67,
+      "total": 71
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "European Championship 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 46
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa Sudamericana 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 11,
+      "total": 11
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Recopa Sudamericana 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa Libertadores 2024 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 5.22,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24.56,
+      "total": 221
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa Argentina 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Liga Profesional de Fútbol 2024 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 6.11,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 26.39,
+      "total": 475
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa de la Superliga 2024 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 5.11,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 28.22,
+      "total": 254
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Trofeo de Campeones 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Kings Cup 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification South America 2026 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 3.86,
+      "total": 27
+    },
+    "fouls": {
+      "avgPerGame": 25.43,
+      "total": 178
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "League Cup 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 34
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Pro League 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 22.5,
+      "total": 45
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa Sudamericana 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.67,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 24.33,
+      "total": 73
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa Libertadores 2023 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 4.78,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26.56,
+      "total": 239
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Liga Profesional de Fútbol 2023 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 5.52,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 24.83,
+      "total": 571
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa de la Superliga 2023 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 6.09,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 308
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "World Cup 2022 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.67,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 21.67,
+      "total": 65
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Trofeo de Campeones 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 10,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "UAE Pro League 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Copa Sudamericana 2022 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 23.33,
+      "total": 70
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Recopa Sudamericana 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Liga Profesional de Fútbol 2022 (",
+    "fixtures": 30,
+    "cards": {
+      "avgPerGame": 5.77,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 27.5,
+      "total": 825
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Copa Libertadores 2022 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 6.17,
+      "total": 37
+    },
+    "fouls": {
+      "avgPerGame": 28.5,
+      "total": 171
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Torneos De Verano 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Arab Cup 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1.5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 7.5,
+      "total": 15
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Pro League 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 13,
+      "total": 13
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa Sudamericana 2021 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 28.25,
+      "total": 113
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa Libertadores 2021 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 3.2,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 27.8,
+      "total": 139
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Liga Profesional de Fútbol 2021 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 5.61,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 30.43,
+      "total": 700
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Liga Profesional de Fútbol 2020/2021 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 104
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification South America 2022 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26.75,
+      "total": 107
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa Sudamericana 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa Libertadores 2020 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 20
+    },
+    "fouls": {
+      "avgPerGame": 32.4,
+      "total": 162
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "CONMEBOL Pre-Olympic Tournament 2020 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa Argentina 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Liga Profesional de Fútbol 2019/2020 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 5.81,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 31.25,
+      "total": 500
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa de la Superliga 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 28.5,
+      "total": 57
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Sudamericana 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.5,
+      "total": 51
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Libertadores 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 24.5,
+      "total": 49
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "South American Championship U20 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Argentina 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Primera B Nacional 2018/2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Liga Profesional de Fútbol 2018/2019 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 29.92,
+      "total": 389
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Copa Argentina 2018 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.75,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24.25,
+      "total": 97
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Primera B Nacional 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Liga Profesional de Fútbol 2017/2018 (",
+    "fixtures": 15,
+    "cards": {
+      "avgPerGame": 6.47,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 29.07,
+      "total": 436
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Copa Argentina 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Liga Profesional de Fútbol 2016/2017 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 4.78,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 32.39,
+      "total": 583
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Primera B Nacional 2016/2017 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 4.63,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Copa Argentina 2015/2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Torneo Federal A 2015/2016 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Liga Profesional de Fútbol 2015 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 6.8,
+      "total": 34
+    },
+    "fouls": {
+      "avgPerGame": 34.4,
+      "total": 172
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Copa Argentina 2014/2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Torneo Federal A 2014/2015 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Primera B Nacional 2014/2015 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Torneo Federal A 2013/2014 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Primera B Nacional 2013/2014 (",
+    "fixtures": 15,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Torneo Federal A 2012/2013 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Primera B Nacional 2012/2013 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

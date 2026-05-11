@@ -1,0 +1,691 @@
+[
+  {
+    "season": "2025",
+    "competition": "Africa Cup of Nations 2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 58
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Ligue 1 2025/2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "FIFA Club World Cup 2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 46
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "FIFA Intercontinental Cup 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "CAF Confederations Cup 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 36,
+      "total": 36
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Africa Cup of Nations Qualifications 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 96
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Algeria Cup 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 36
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup of Nations 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 34.5,
+      "total": 69
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "CAF World Cup Qualifiers 2026 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 23.25,
+      "total": 93
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "African Football League 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Ligue 1 2023/2024 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 4.36,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CAF Champions League 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 64
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CAF Confederations Cup 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 68
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "FIFA Intercontinental Cup 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Algeria Cup 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "World Cup 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 48
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Caf Super Cup 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "CAF Confederations Cup 2022/2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 22.33,
+      "total": 67
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Ligue 1 2022/2023 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 4.44,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup of Nations Qualifications 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 27.67,
+      "total": 83
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "FIFA Intercontinental Cup 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 31.5,
+      "total": 63
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Africa Cup of Nations 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 33.5,
+      "total": 67
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Kings Cup 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 9,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 30
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Ligue 1 2021/2022 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 26
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Super Cup 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 32
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "CAF Confederations Cup 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 53,
+      "total": 53
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "CAF Champions League 2021/2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 10,
+      "total": 20
+    },
+    "fouls": {
+      "avgPerGame": 34.5,
+      "total": 69
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Caf Super Cup 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "CAF Champions League 2020/2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 37.5,
+      "total": 75
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Ligue 1 2020/2021 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 4.73,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "CAF Confederations Cup 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 40,
+      "total": 40
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Pro League 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "FIFA Intercontinental Cup 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "CAF World Cup Qualifiers 2022 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.75,
+      "total": 19
+    },
+    "fouls": {
+      "avgPerGame": 21.25,
+      "total": 85
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Arab Club Championship 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Ligue 1 2019/2020 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 5.29,
+      "total": 37
+    },
+    "fouls": {
+      "avgPerGame": 6.57,
+      "total": 46
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "CAF Champions League 2019/2020 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 24
+    },
+    "fouls": {
+      "avgPerGame": 45.33,
+      "total": 136
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Africa Cup of Nations 2019 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 42.25,
+      "total": 169
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "World Cup U20 2019 Poland (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 28.33,
+      "total": 85
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "CAF Champions League 2018/2019 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 38.33,
+      "total": 115
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "CAF Confederations Cup 2018/2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 50
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Ligue 1 2018/2019 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 4.1,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 3.5,
+      "total": 35
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Arab Club Championship 2018/2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 44,
+      "total": 44
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "CAF Champions League 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "CAF Confederations Cup 2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 13,
+      "total": 39
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Ligue 1 2017/2018 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 2.31,
+      "total": 37
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "African Nations Championship 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 58
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "CAF Confederations Cup 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 9,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Algeria Cup 2016/2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Ligue 1 2016/2017 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 3.38,
+      "total": 44
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Ligue 1 2015/2016 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Ligue 1 2014/2015 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Ligue 1 2013/2014 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

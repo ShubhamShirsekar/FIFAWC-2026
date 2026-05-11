@@ -1,0 +1,847 @@
+[
+  {
+    "season": "2026",
+    "competition": "Copa Sudamericana 2026 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.33,
+      "total": 76
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Copa Libertadores 2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 19.5,
+      "total": 39
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Liga BetPlay 2026 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 4.77,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 17.69,
+      "total": 230
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Copa Sudamericana 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Copa Libertadores 2025 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 5.71,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 189
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Primera B 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 16.33,
+      "total": 49
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Liga BetPlay 2025 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 6.57,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 25.43,
+      "total": 585
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Pro League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa Sudamericana 2024 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.75,
+      "total": 15
+    },
+    "fouls": {
+      "avgPerGame": 21.75,
+      "total": 87
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa Colombia 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 9,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Recopa Sudamericana 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa Libertadores 2024 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 5.57,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 22.43,
+      "total": 157
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Primera B 2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 14,
+      "total": 42
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Liga BetPlay 2024 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 5.89,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 25.42,
+      "total": 483
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification South America 2026 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 6.6,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 27.4,
+      "total": 137
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa Sudamericana 2023 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 4.29,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 25.43,
+      "total": 178
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Superliga 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa Libertadores 2023 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 23.4,
+      "total": 117
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Liga BetPlay 2023 (",
+    "fixtures": 24,
+    "cards": {
+      "avgPerGame": 6.42,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 27.13,
+      "total": 651
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Copa Sudamericana 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Copa Libertadores 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 42
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Primera B 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Liga BetPlay 2022 (",
+    "fixtures": 22,
+    "cards": {
+      "avgPerGame": 6.36,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 22.64,
+      "total": 498
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa America 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Recopa Sudamericana 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 10,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 38,
+      "total": 38
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa Sudamericana 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.67,
+      "total": 17
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 66
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa Colombia 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa Libertadores 2021 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 6.5,
+      "total": 26
+    },
+    "fouls": {
+      "avgPerGame": 29.75,
+      "total": 119
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Primera B 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Liga BetPlay 2021 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 5.3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 24.87,
+      "total": 572
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification South America 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa Colombia 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 39,
+      "total": 39
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa Sudamericana 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 37,
+      "total": 37
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Liga BetPlay 2020 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 5.56,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 28.56,
+      "total": 257
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa Libertadores 2020 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 31.2,
+      "total": 156
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Kings Cup 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 37,
+      "total": 37
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "World Cup U17 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa America 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Colombia 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 12.5,
+      "total": 25
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Sudamericana 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 31.5,
+      "total": 63
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Liga BetPlay 2019 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 32.94,
+      "total": 593
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Libertadores 2019 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 192
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Copa Colombia 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Copa Sudamericana 2018 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 5.2,
+      "total": 26
+    },
+    "fouls": {
+      "avgPerGame": 29.6,
+      "total": 148
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Primera B 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Liga BetPlay 2018 (",
+    "fixtures": 21,
+    "cards": {
+      "avgPerGame": 5.43,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 30.76,
+      "total": 646
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Copa Libertadores 2018 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 20
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 128
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Copa Colombia 2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Copa Sudamericana 2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 28.5,
+      "total": 57
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Primera B 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Liga BetPlay 2017 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 5.26,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 30.74,
+      "total": 584
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Liga BetPlay 2016 (",
+    "fixtures": 15,
+    "cards": {
+      "avgPerGame": 5.6,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 14.53,
+      "total": 218
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Copa Colombia 2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Primera B 2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 9,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Liga BetPlay 2015 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 1.62,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Primera B 2014 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Liga BetPlay 2014 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Copa Colombia 2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Primera B 2013 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Liga BetPlay 2013 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Copa Colombia 2012 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Primera B 2012 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Liga BetPlay 2012 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011",
+    "competition": "Copa Colombia 2011 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011",
+    "competition": "Primera B 2011 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 6.1,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

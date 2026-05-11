@@ -1,0 +1,522 @@
+[
+  {
+    "referee": "Abdulrahman-Al-Jassim",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 3.814,
+    "avg_fouls_per_game": 19.43,
+    "card_consistency": 1.642,
+    "cards_per_100_fouls": 19.629,
+    "total_fixtures": 274
+  },
+  {
+    "referee": "Abongile-Tom",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 4.212,
+    "avg_fouls_per_game": 19.919,
+    "card_consistency": 2.079,
+    "cards_per_100_fouls": 21.146,
+    "total_fixtures": 217
+  },
+  {
+    "referee": "Adham-Makhadmeh",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.036,
+    "avg_fouls_per_game": 21.218,
+    "card_consistency": 1.963,
+    "cards_per_100_fouls": 14.309,
+    "total_fixtures": 111
+  },
+  {
+    "referee": "Alejandro-Hern\u00e1ndez-Hern\u00e1ndez",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.844,
+    "avg_fouls_per_game": 24.406,
+    "card_consistency": 2.078,
+    "cards_per_100_fouls": 19.848,
+    "total_fixtures": 359
+  },
+  {
+    "referee": "Alireza-Faghani",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.612,
+    "avg_fouls_per_game": 19.311,
+    "card_consistency": 1.822,
+    "cards_per_100_fouls": 18.704,
+    "total_fixtures": 437
+  },
+  {
+    "referee": "Amin-Omar",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 3.96,
+    "avg_fouls_per_game": 19.539,
+    "card_consistency": 1.559,
+    "cards_per_100_fouls": 20.267,
+    "total_fixtures": 150
+  },
+  {
+    "referee": "Andr\u00e9s-Rojas",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.761,
+    "avg_fouls_per_game": 25.913,
+    "card_consistency": 2.552,
+    "cards_per_100_fouls": 18.373,
+    "total_fixtures": 381
+  },
+  {
+    "referee": "Anthony-Taylor",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.585,
+    "avg_fouls_per_game": 19.968,
+    "card_consistency": 1.881,
+    "cards_per_100_fouls": 17.954,
+    "total_fixtures": 724
+  },
+  {
+    "referee": "Campbell-Kirk-Kawana-Waugh",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 2.112,
+    "avg_fouls_per_game": 20.0,
+    "card_consistency": 1.577,
+    "cards_per_100_fouls": 10.56,
+    "total_fixtures": 117
+  },
+  {
+    "referee": "Cl\u00e9ment-Turpin",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.249,
+    "avg_fouls_per_game": 21.854,
+    "card_consistency": 1.641,
+    "cards_per_100_fouls": 14.867,
+    "total_fixtures": 571
+  },
+  {
+    "referee": "Cristi\u00e1n-Garay",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 4.376,
+    "avg_fouls_per_game": 22.215,
+    "card_consistency": 1.045,
+    "cards_per_100_fouls": 19.698,
+    "total_fixtures": 242
+  },
+  {
+    "referee": "C\u00e9sar-Arturo-Ramos",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 4.185,
+    "avg_fouls_per_game": 21.627,
+    "card_consistency": 1.813,
+    "cards_per_100_fouls": 19.351,
+    "total_fixtures": 391
+  },
+  {
+    "referee": "Dahane-Beida",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.782,
+    "avg_fouls_per_game": 27.0,
+    "card_consistency": 1.709,
+    "cards_per_100_fouls": 14.007,
+    "total_fixtures": 46
+  },
+  {
+    "referee": "Danny-Makkelie",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.312,
+    "avg_fouls_per_game": 19.37,
+    "card_consistency": 1.847,
+    "cards_per_100_fouls": 17.099,
+    "total_fixtures": 686
+  },
+  {
+    "referee": "Dar\u00edo-Herrera",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.895,
+    "avg_fouls_per_game": 26.364,
+    "card_consistency": 2.291,
+    "cards_per_100_fouls": 18.567,
+    "total_fixtures": 466
+  },
+  {
+    "referee": "Drew-Fischer",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.331,
+    "avg_fouls_per_game": 21.991,
+    "card_consistency": 2.014,
+    "cards_per_100_fouls": 15.147,
+    "total_fixtures": 251
+  },
+  {
+    "referee": "Espen-Esk\u00e5s",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 2.877,
+    "avg_fouls_per_game": 17.975,
+    "card_consistency": 1.945,
+    "cards_per_100_fouls": 16.006,
+    "total_fixtures": 364
+  },
+  {
+    "referee": "Facundo-Tello",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.591,
+    "avg_fouls_per_game": 27.312,
+    "card_consistency": 2.274,
+    "cards_per_100_fouls": 16.809,
+    "total_fixtures": 393
+  },
+  {
+    "referee": "Felix-Zwayer",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.069,
+    "avg_fouls_per_game": 22.841,
+    "card_consistency": 2.28,
+    "cards_per_100_fouls": 17.814,
+    "total_fixtures": 557
+  },
+  {
+    "referee": "Fran\u00e7ois-Letexier",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.554,
+    "avg_fouls_per_game": 22.084,
+    "card_consistency": 2.03,
+    "cards_per_100_fouls": 16.093,
+    "total_fixtures": 406
+  },
+  {
+    "referee": "Glenn-Nyberg",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 2.985,
+    "avg_fouls_per_game": 22.817,
+    "card_consistency": 1.787,
+    "cards_per_100_fouls": 13.082,
+    "total_fixtures": 440
+  },
+  {
+    "referee": "Gustavo-Tejera",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 5.095,
+    "avg_fouls_per_game": 20.571,
+    "card_consistency": 1.561,
+    "cards_per_100_fouls": 24.768,
+    "total_fixtures": 317
+  },
+  {
+    "referee": "Ilgiz-Tantashev",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.481,
+    "avg_fouls_per_game": 19.692,
+    "card_consistency": 2.019,
+    "cards_per_100_fouls": 17.677,
+    "total_fixtures": 270
+  },
+  {
+    "referee": "Ismail-Elfath",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.572,
+    "avg_fouls_per_game": 23.191,
+    "card_consistency": 1.903,
+    "cards_per_100_fouls": 15.403,
+    "total_fixtures": 292
+  },
+  {
+    "referee": "Istv\u00e1n-Kov\u00e1cs",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.469,
+    "avg_fouls_per_game": 23.074,
+    "card_consistency": 2.533,
+    "cards_per_100_fouls": 19.368,
+    "total_fixtures": 465
+  },
+  {
+    "referee": "Iv\u00e1n-Barton",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 5.038,
+    "avg_fouls_per_game": 24.258,
+    "card_consistency": 2.178,
+    "cards_per_100_fouls": 20.768,
+    "total_fixtures": 185
+  },
+  {
+    "referee": "Jalal-Jayed",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.881,
+    "avg_fouls_per_game": 22.534,
+    "card_consistency": 1.946,
+    "cards_per_100_fouls": 17.223,
+    "total_fixtures": 100
+  },
+  {
+    "referee": "Jes\u00fas-Valenzuela",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 5.0,
+    "avg_fouls_per_game": 22.553,
+    "card_consistency": 1.861,
+    "cards_per_100_fouls": 22.17,
+    "total_fixtures": 352
+  },
+  {
+    "referee": "Jo\u00e3o-Pinheiro",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.481,
+    "avg_fouls_per_game": 24.942,
+    "card_consistency": 1.862,
+    "cards_per_100_fouls": 17.966,
+    "total_fixtures": 428
+  },
+  {
+    "referee": "Juan-Gabriel-Ben\u00edtez",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 4.632,
+    "avg_fouls_per_game": 15.849,
+    "card_consistency": 1.973,
+    "cards_per_100_fouls": 29.226,
+    "total_fixtures": 266
+  },
+  {
+    "referee": "Juan-Gabriel-Calder\u00f3n",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 3.741,
+    "avg_fouls_per_game": 13.66,
+    "card_consistency": 1.845,
+    "cards_per_100_fouls": 27.387,
+    "total_fixtures": 174
+  },
+  {
+    "referee": "Katia-Itzel-Garc\u00eda",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.242,
+    "avg_fouls_per_game": 18.573,
+    "card_consistency": 1.819,
+    "cards_per_100_fouls": 17.455,
+    "total_fixtures": 79
+  },
+  {
+    "referee": "Kevin-Ortega",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.925,
+    "avg_fouls_per_game": 25.771,
+    "card_consistency": 2.068,
+    "cards_per_100_fouls": 19.111,
+    "total_fixtures": 289
+  },
+  {
+    "referee": "Khalid-Al-Turais",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.586,
+    "avg_fouls_per_game": 25.296,
+    "card_consistency": 1.86,
+    "cards_per_100_fouls": 18.129,
+    "total_fixtures": 29
+  },
+  {
+    "referee": "Maurizio-Mariani",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.763,
+    "avg_fouls_per_game": 24.48,
+    "card_consistency": 1.692,
+    "cards_per_100_fouls": 15.372,
+    "total_fixtures": 375
+  },
+  {
+    "referee": "Michael-Oliver",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.309,
+    "avg_fouls_per_game": 21.189,
+    "card_consistency": 2.094,
+    "cards_per_100_fouls": 15.617,
+    "total_fixtures": 711
+  },
+  {
+    "referee": "Mustapha-Ghorbal",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.868,
+    "avg_fouls_per_game": 21.685,
+    "card_consistency": 2.179,
+    "cards_per_100_fouls": 17.837,
+    "total_fixtures": 182
+  },
+  {
+    "referee": "Ning-Ma",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.375,
+    "avg_fouls_per_game": 23.992,
+    "card_consistency": 2.207,
+    "cards_per_100_fouls": 14.067,
+    "total_fixtures": 307
+  },
+  {
+    "referee": "Omar-Abdulkadir-Artan",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.392,
+    "avg_fouls_per_game": 24.143,
+    "card_consistency": 0.987,
+    "cards_per_100_fouls": 14.05,
+    "total_fixtures": 28
+  },
+  {
+    "referee": "Omar-Al-Ali",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 3.922,
+    "avg_fouls_per_game": 20.546,
+    "card_consistency": 1.617,
+    "cards_per_100_fouls": 19.089,
+    "total_fixtures": 13
+  },
+  {
+    "referee": "Oshane-Nation",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 3.777,
+    "avg_fouls_per_game": 14.655,
+    "card_consistency": 1.368,
+    "cards_per_100_fouls": 25.773,
+    "total_fixtures": 175
+  },
+  {
+    "referee": "Pierre-Atcho",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 4.078,
+    "avg_fouls_per_game": 22.723,
+    "card_consistency": 1.361,
+    "cards_per_100_fouls": 17.947,
+    "total_fixtures": 51
+  },
+  {
+    "referee": "Ramon-Abatti",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.787,
+    "avg_fouls_per_game": 27.059,
+    "card_consistency": 1.567,
+    "cards_per_100_fouls": 17.691,
+    "total_fixtures": 310
+  },
+  {
+    "referee": "Raphael-Claus",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.781,
+    "avg_fouls_per_game": 24.11,
+    "card_consistency": 1.989,
+    "cards_per_100_fouls": 15.682,
+    "total_fixtures": 592
+  },
+  {
+    "referee": "Sandro-Sch\u00e4rer",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.083,
+    "avg_fouls_per_game": 23.188,
+    "card_consistency": 1.888,
+    "cards_per_100_fouls": 17.608,
+    "total_fixtures": 382
+  },
+  {
+    "referee": "Sa\u00edd-Mart\u00ednez",
+    "cluster_id": 1,
+    "cluster_description": "\"With 12 of them managing to keep the card count at a meager 4.16 per game while the foul rate hovers near 20, it seems these refs are more concerned with documenting the chaos than actually stopping it, booking a player only when the foul count hits the mathematically perfect, yet utterly meaningless, 4.5 mark.\"",
+    "avg_cards_per_game": 4.172,
+    "avg_fouls_per_game": 20.395,
+    "card_consistency": 1.085,
+    "cards_per_100_fouls": 20.456,
+    "total_fixtures": 165
+  },
+  {
+    "referee": "Slavko-Vin\u010di\u0107",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.097,
+    "avg_fouls_per_game": 25.072,
+    "card_consistency": 1.935,
+    "cards_per_100_fouls": 16.341,
+    "total_fixtures": 444
+  },
+  {
+    "referee": "Szymon-Marciniak",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.083,
+    "avg_fouls_per_game": 24.835,
+    "card_consistency": 2.148,
+    "cards_per_100_fouls": 16.441,
+    "total_fixtures": 674
+  },
+  {
+    "referee": "Tori-Penso",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 3.448,
+    "avg_fouls_per_game": 21.549,
+    "card_consistency": 1.911,
+    "cards_per_100_fouls": 16.001,
+    "total_fixtures": 125
+  },
+  {
+    "referee": "Wilton-Sampaio",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 4.388,
+    "avg_fouls_per_game": 26.919,
+    "card_consistency": 2.505,
+    "cards_per_100_fouls": 16.301,
+    "total_fixtures": 539
+  },
+  {
+    "referee": "Yael-Falc\u00f3n",
+    "cluster_id": 2,
+    "cluster_description": "\"With 17 of them, and averaging nearly 25 fouls and 4.6 cards per game, these officials don't officiate matches\u2014they run a yellow-card circus where every 5.4 fouls guarantees a man needs a nap.\"",
+    "avg_cards_per_game": 5.183,
+    "avg_fouls_per_game": 24.931,
+    "card_consistency": 1.857,
+    "cards_per_100_fouls": 20.789,
+    "total_fixtures": 300
+  },
+  {
+    "referee": "Yusuke-Araki",
+    "cluster_id": 0,
+    "cluster_description": "These 23 stewards of the whistle look less like arbiters of justice and more like a highly caffeinated committee whose main job is to ensure that for every 6 fouls committed, at least 3.35 of them end with a yellow card, ensuring the fouling rate is always roughly 6.4 times the card-giving rate.",
+    "avg_cards_per_game": 2.555,
+    "avg_fouls_per_game": 20.517,
+    "card_consistency": 1.523,
+    "cards_per_100_fouls": 12.453,
+    "total_fixtures": 285
+  }
+]

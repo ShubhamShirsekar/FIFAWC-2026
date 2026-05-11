@@ -1,0 +1,93 @@
+[
+  {
+    "season": "2023",
+    "competition": "Asian Cup 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 17.67,
+      "total": 53
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "AFC Champions League 2023/2024 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 3.2,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 20.6,
+      "total": 103
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Friendly International 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "AFC Cup 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "AFC Cup 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Friendly International 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification Asia 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  }
+]

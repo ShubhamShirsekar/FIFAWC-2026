@@ -1,0 +1,873 @@
+[
+  {
+    "season": "2026",
+    "competition": "CONCACAF Champions Cup 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Pro League 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "UAE Pro League 2025/2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 60
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Liga MX 2025/2026 (",
+    "fixtures": 17,
+    "cards": {
+      "avgPerGame": 5.47,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24.29,
+      "total": 413
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "FIFA Club World Cup 2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 48
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "CONCACAF Gold Cup 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "CONCACAF Gold Cup Qualification 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "CONCACAF Champions Cup 2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 21.5,
+      "total": 43
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "CONCACAF Nations League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Pro League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Leagues Cup 2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 16,
+      "total": 48
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Liga MX 2024/2025 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 4.22,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 22.3,
+      "total": 513
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa America 2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26.33,
+      "total": 79
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification Concacaf 2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 36
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "CONCACAF Champions Cup 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 34
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CONCACAF Nations League 2023/2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 17.67,
+      "total": 53
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "League Cup 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "UAE Pro League 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22.5,
+      "total": 45
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Pro League 2023/2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 66
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Leagues Cup 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Liga MX 2023/2024 (",
+    "fixtures": 24,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 21.75,
+      "total": 522
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "CONCACAF Gold Cup 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 78
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "CONCACAF Champions Cup 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 42
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Friendly International 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "World Cup 2022 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 21.75,
+      "total": 87
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Pro League 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Concacaf League 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Liga MX 2022/2023 (",
+    "fixtures": 33,
+    "cards": {
+      "avgPerGame": 5.58,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 23.12,
+      "total": 763
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "CONCACAF Nations League 2021/2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 10.5,
+      "total": 21
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "FIFA Intercontinental Cup 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 22.5,
+      "total": 45
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Pro League 2021/2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 14,
+      "total": 28
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Liga MX 2021/2022 (",
+    "fixtures": 27,
+    "cards": {
+      "avgPerGame": 5.04,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 25.59,
+      "total": 691
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "CONCACAF Gold Cup 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 66
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "CONCACAF Champions Cup 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 30.5,
+      "total": 61
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification Concacaf 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1.5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 42
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Liga MX 2020/2021 (",
+    "fixtures": 34,
+    "cards": {
+      "avgPerGame": 3.76,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 26.68,
+      "total": 907
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "CONCACAF Champions Cup 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Concacaf League 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Copa MX 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Liga MX 2019/2020 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 27.33,
+      "total": 492
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Olympic Qualifying Concacaf 2020 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "CONCACAF Champions Cup 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "AFC Asian Cup 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Club Friendlies 1 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Copa MX 2018/2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 13,
+      "total": 26
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Liga MX 2018/2019 (",
+    "fixtures": 22,
+    "cards": {
+      "avgPerGame": 4.09,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 25.09,
+      "total": 552
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "World Cup 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 56
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "CONCACAF Champions Cup 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "FIFA Intercontinental Cup 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Copa MX 2017/2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.67,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 8.33,
+      "total": 25
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Liga MX 2017/2018 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.33,
+      "total": 228
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "CONCACAF Gold Cup 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "World Cup U20 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Olympic Games 2016 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "CONCACAF Champions Cup 2016/2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 14,
+      "total": 28
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Liga MX 2016/2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 7.5,
+      "total": 15
+    },
+    "fouls": {
+      "avgPerGame": 13,
+      "total": 26
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Copa Libertadores 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "CONCACAF Champions Cup 2015/2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Liga MX 2015/2016 (",
+    "fixtures": 14,
+    "cards": {
+      "avgPerGame": 4.21,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 3.43,
+      "total": 48
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "CONCACAF Gold Cup 2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "WC Qualification Concacaf 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 38
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Friendly International 2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Liga MX 2014/2015 (",
+    "fixtures": 22,
+    "cards": {
+      "avgPerGame": 5.05,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 8.5,
+      "total": 187
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Liga MX 2013/2014 (",
+    "fixtures": 31,
+    "cards": {
+      "avgPerGame": 4.65,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Liga MX 2012/2013 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 4.62,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "Liga MX 2011/2012 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4.2,
+      "total": 21
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010/2011",
+    "competition": "Liga de Expansión MX 2010/2011 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 0.45,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

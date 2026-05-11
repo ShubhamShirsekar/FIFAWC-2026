@@ -1,0 +1,483 @@
+[
+  {
+    "season": "2026",
+    "competition": "Major League Soccer 2026 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 5.67,
+      "total": 34
+    },
+    "fouls": {
+      "avgPerGame": 17.5,
+      "total": 105
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "CONCACAF Champions Cup 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "FIFA Club World Cup 2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 40
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "US Open Cup 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Major League Soccer 2025 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 4.28,
+      "total": 77
+    },
+    "fouls": {
+      "avgPerGame": 22.06,
+      "total": 397
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Friendly International 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Olympic Games Women 2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23.67,
+      "total": 71
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Shebelieves Cup Women 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification Concacaf 2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 42
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Major League Soccer 2024 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 3.22,
+      "total": 29
+    },
+    "fouls": {
+      "avgPerGame": 24.11,
+      "total": 217
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Club Friendlies 1 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 37,
+      "total": 37
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Friendly International 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "FIFA Intercontinental Cup 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 16.5,
+      "total": 33
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CONCACAF Nations League 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "World Cup Women 2023 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 1.2,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 19.8,
+      "total": 99
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "NWSL 2023 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 1.5,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 18.75,
+      "total": 75
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Major League Soccer 2023 (",
+    "fixtures": 14,
+    "cards": {
+      "avgPerGame": 4.07,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 19.07,
+      "total": 267
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Shebelieves Cup Women 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "U20 Women's World Cup 2022 Costa Rica (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Tournoi Maurice Revello 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Major League Soccer 2022 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 4.6,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26.8,
+      "total": 268
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Concacaf Championship Women U20 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1.5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Womens WC Qualification CONCACAF 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Concacaf League 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "NWSL 2021 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 1.71,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 18.57,
+      "total": 130
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "USL Championship 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 26.5,
+      "total": 53
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Major League Soccer 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 1.67,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 19.67,
+      "total": 59
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Nwsl Challenge Cup Women 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1.5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification Concacaf 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Shebelieves Cup Women 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Nwsl Challenge Cup Women 2020 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 14.67,
+      "total": 44
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "USL Championship 2020 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 17
+    },
+    "fouls": {
+      "avgPerGame": 20.5,
+      "total": 82
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Major League Soccer 2020 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.67,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 75
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "USL League One 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "USL Championship 2019 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "US Open Cup 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "USL Championship 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

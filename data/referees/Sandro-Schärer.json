@@ -1,0 +1,1263 @@
+[
+  {
+    "season": "2025/2026",
+    "competition": "Pro League 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Super League 2025/2026 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 4.9,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 27.9,
+      "total": 279
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Europa League 2025/2026 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 87
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Champions League 2025/2026 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 22
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 132
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Europa Conference League 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 30
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "UEFA Nations League 2024/2025 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4.6,
+      "total": 23
+    },
+    "fouls": {
+      "avgPerGame": 25.2,
+      "total": 126
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Pro League 2024/2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 62
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "League Cup 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "UEFA Super Cup 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Super League 2024/2025 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24.92,
+      "total": 299
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Challenge League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 36,
+      "total": 36
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Europa League 2024/2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 17
+    },
+    "fouls": {
+      "avgPerGame": 25.75,
+      "total": 103
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Europa Conference League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Champions League 2024/2025 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 24
+    },
+    "fouls": {
+      "avgPerGame": 21.83,
+      "total": 131
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "European Championship 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 38
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Super League Play-offs 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Europa League 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 25.5,
+      "total": 51
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Super League 2023/2024 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 4.15,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 21.92,
+      "total": 285
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Challenge League 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Europa Conference League 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Champions League 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 30
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Euro Qualification 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 60
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Pro League 2022/2023 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.75,
+      "total": 19
+    },
+    "fouls": {
+      "avgPerGame": 24.5,
+      "total": 98
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Swiss Cup 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 16,
+      "total": 16
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Europa League 2022/2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6.5,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 27.5,
+      "total": 55
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Super League 2022/2023 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 5.82,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 24.73,
+      "total": 272
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Champions League 2022/2023 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 22.5,
+      "total": 135
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "UEFA Nations League 2022/2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 52
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Super League Play-offs 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 9,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Friendly International 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Kings Cup 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Pro League 2021/2022 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 6.25,
+      "total": 25
+    },
+    "fouls": {
+      "avgPerGame": 31.5,
+      "total": 126
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Europa League 2021/2022 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23.83,
+      "total": 143
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Super League 2021/2022 (",
+    "fixtures": 17,
+    "cards": {
+      "avgPerGame": 4.88,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 24.53,
+      "total": 417
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Challenge League 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 9,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Europa Conference League 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 36,
+      "total": 36
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Champions League 2021/2022 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21.5,
+      "total": 86
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Super League Play-offs 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 16,
+      "total": 16
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification Europe 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21.5,
+      "total": 43
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Pro League 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 33,
+      "total": 33
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Super League 2020/2021 (",
+    "fixtures": 15,
+    "cards": {
+      "avgPerGame": 3.87,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 25.53,
+      "total": 383
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Challenge League 2020/2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 20.33,
+      "total": 61
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "UEFA Nations League 2020/2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 26.33,
+      "total": 79
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Swiss Cup 2020/2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 84
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Europa League 2020/2021 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 84
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Champions League 2020/2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 46
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Cyprus Cup 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Greek Cup 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Swiss Cup 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 44,
+      "total": 44
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Challenge League 2019/2020 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 42
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Super League 2019/2020 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 5.63,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.16,
+      "total": 478
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Europa League 2019/2020 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4.4,
+      "total": 22
+    },
+    "fouls": {
+      "avgPerGame": 22.8,
+      "total": 114
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Champions League 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Euro Qualification 2020 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 69
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Euro U21 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.67,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 26.67,
+      "total": 80
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "UEFA Youth League 2018/2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "UEFA Nations League 2018/2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Swiss Cup 2018/2019 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 18.67,
+      "total": 56
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Super League 2018/2019 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23.25,
+      "total": 279
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Challenge League 2018/2019 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 16.67,
+      "total": 50
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Europa League 2018/2019 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22.67,
+      "total": 68
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Champions League 2018/2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Friendly International 2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 1.33,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 21.33,
+      "total": 64
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Euro U19 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "UEFA Youth League 2017/2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Swiss Cup 2017/2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 15.67,
+      "total": 47
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Ligue 1 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 12,
+      "total": 12
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Super League 2017/2018 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 3.81,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.44,
+      "total": 407
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Challenge League 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Europa League 2017/2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 28.33,
+      "total": 85
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Friendly International 2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 50
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Stars League 2016/2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "UEFA Youth League 2016/2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "WC Qualification Europe 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 33,
+      "total": 33
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Swiss Cup 2016/2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 40,
+      "total": 40
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Super League 2016/2017 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 3.83,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 30.92,
+      "total": 371
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Challenge League 2016/2017 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 21
+    },
+    "fouls": {
+      "avgPerGame": 9.67,
+      "total": 58
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Europa League 2016/2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Champions League 2016/2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Club Friendlies 1 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Stars League 2015/2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Swiss Cup 2015/2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 39,
+      "total": 39
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Admiral Bundesliga 2015/2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Super League 2015/2016 (",
+    "fixtures": 17,
+    "cards": {
+      "avgPerGame": 4.71,
+      "total": 80
+    },
+    "fouls": {
+      "avgPerGame": 13.65,
+      "total": 232
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Challenge League 2015/2016 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 4.83,
+      "total": 29
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Europa League 2015/2016 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Swiss Cup 2014/2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Super League 2014/2015 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 4.58,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 6.17,
+      "total": 74
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Challenge League 2014/2015 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Admiral Bundesliga 2014/2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Swiss Cup 2013/2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Admiral Bundesliga 2013/2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 6,
+      "total": 6
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Challenge League 2013/2014 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 0.42,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Super League 2013/2014 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 4.86,
+      "total": 34
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Challenge League 2012/2013 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 4.18,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "CFA Group B 2011/2012 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "Challenge League 2011/2012 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

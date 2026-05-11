@@ -1,0 +1,1016 @@
+[
+  {
+    "season": "2025/2026",
+    "competition": "A-League Men 2025/2026 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 42
+    },
+    "fouls": {
+      "avgPerGame": 17.67,
+      "total": 212
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Pro League 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "AFC Champions League Elite 2025/2026 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 30
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 114
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "FIFA Club World Cup 2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.75,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 27.25,
+      "total": 109
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "A-League Men 2024/2025 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 2.2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 17.1,
+      "total": 171
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "FIFA Intercontinental Cup 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "AFC Champions League Elite 2024/2025 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22.67,
+      "total": 136
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Australian Cup 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 33.5,
+      "total": 67
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "AFC Asian Cup 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 14.5,
+      "total": 29
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Club Friendlies 1 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 2.5,
+      "total": 5
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "A-League Men 2023/2024 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 22.88,
+      "total": 366
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification Asia 2026 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 3.71,
+      "total": 26
+    },
+    "fouls": {
+      "avgPerGame": 11.86,
+      "total": 83
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "AFC Champions League Elite 2023/2024 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 4.13,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 18.63,
+      "total": 149
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Australian Cup 2023 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.75,
+      "total": 15
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 100
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "World Cup 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 22.5,
+      "total": 45
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "A-League Men 2022/2023 (",
+    "fixtures": 21,
+    "cards": {
+      "avgPerGame": 4.14,
+      "total": 87
+    },
+    "fouls": {
+      "avgPerGame": 18.71,
+      "total": 393
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Persian Gulf Pro League 2022/2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Australian Cup 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "AFC Champions League Elite 2022 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 15
+    },
+    "fouls": {
+      "avgPerGame": 22.33,
+      "total": 67
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Club Friendlies 1 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Friendly International 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Arab Cup 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 15,
+      "total": 15
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "A-League Men 2021/2022 (",
+    "fixtures": 17,
+    "cards": {
+      "avgPerGame": 4.53,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23.35,
+      "total": 397
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Persian Gulf Pro League 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "AFC Champions League Elite 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 75
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "A-League Men 2020/2021 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 4.05,
+      "total": 77
+    },
+    "fouls": {
+      "avgPerGame": 22.16,
+      "total": 421
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Persian Gulf Pro League 2020/2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "AFC Champions League Elite 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "A-League Men 2019/2020 (",
+    "fixtures": 20,
+    "cards": {
+      "avgPerGame": 3.8,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 460
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Persian Gulf Pro League 2019/2020 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 12,
+      "total": 24
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification Asia 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 33,
+      "total": 33
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "AFC Championship U23 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "AFC Champions League Elite 2019 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4.6,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 29.8,
+      "total": 149
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Friendly International 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "AFC Asian Cup 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 23.5,
+      "total": 47
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "ASEAN Championship 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 8.5,
+      "total": 17
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 60
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Persian Gulf Pro League 2018/2019 (",
+    "fixtures": 17,
+    "cards": {
+      "avgPerGame": 3.41,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 10.12,
+      "total": 172
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "World Cup 2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 20.33,
+      "total": 61
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Super league 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Friendly International 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "AFC Champions League Elite 2018 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 136
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "AFC Championship U23 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Persian Gulf Pro League 2017/2018 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 2.4,
+      "total": 24
+    },
+    "fouls": {
+      "avgPerGame": 14,
+      "total": 140
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Confederations Cup 2017 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Liga 1 2016 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 2.4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "AFC Champions League Elite 2017 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 4.43,
+      "total": 31
+    },
+    "fouls": {
+      "avgPerGame": 25.29,
+      "total": 177
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Indian Super League 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Olympic Games 2016 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Persian Gulf Pro League 2016/2017 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 2.19,
+      "total": 35
+    },
+    "fouls": {
+      "avgPerGame": 2.44,
+      "total": 39
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "AFC Champions League Elite 2016 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 20
+    },
+    "fouls": {
+      "avgPerGame": 14.2,
+      "total": 71
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "FIFA Intercontinental Cup 2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 64
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Persian Gulf Pro League 2015/2016 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 36
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "WC Qualification Asia 2018 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 18
+    },
+    "fouls": {
+      "avgPerGame": 9.5,
+      "total": 38
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "AFC Champions League Elite 2015 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 4.43,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21.57,
+      "total": 151
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "AFC Asian Cup 2015 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4.6,
+      "total": 23
+    },
+    "fouls": {
+      "avgPerGame": 34.2,
+      "total": 171
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "ASEAN Championship 2014 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Azadegan League: Group A 2014/2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Azadegan League: Group B 2014/2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Persian Gulf Pro League 2014/2015 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 3.11,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "AFC Champions League Elite 2014 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 3.2,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 10.4,
+      "total": 52
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Friendly International 2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "FIFA Intercontinental Cup 2013 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 33,
+      "total": 66
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Azadegan League: Group A 2013/2014 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0.67,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Azadegan League: Group B 2013/2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Persian Gulf Pro League 2013/2014 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 4.46,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "AFC Champions League Elite 2013 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "AFC Champions League Two 2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Asian Cup Qualification 2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Azadegan League: Group B 2012/2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Persian Gulf Pro League 2012/2013 (",
+    "fixtures": 21,
+    "cards": {
+      "avgPerGame": 2.71,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "AFC Champions League Two 2012 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "AFC Champions League Elite 2012 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "Persian Gulf Pro League 2011/2012 (",
+    "fixtures": 26,
+    "cards": {
+      "avgPerGame": 3.42,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "WC Qualification Asia 2014 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011",
+    "competition": "AFC Champions League Elite 2011 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 4.57,
+      "total": 32
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010/2011",
+    "competition": "Persian Gulf Pro League 2010/2011 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 4.44,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010",
+    "competition": "AFC Champions League Elite 2010 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010",
+    "competition": "AFC Champions League Two 2010 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.75,
+      "total": 15
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

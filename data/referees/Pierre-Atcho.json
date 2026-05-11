@@ -1,0 +1,288 @@
+[
+  {
+    "season": "2025",
+    "competition": "Africa Cup of Nations 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 26.67,
+      "total": 80
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Arab Cup 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "CAF Champions League 2024/2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 21.75,
+      "total": 87
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Africa Cup of Nations Qualifications 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.67,
+      "total": 77
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup of Nations 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 42.5,
+      "total": 85
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "CAF World Cup Qualifiers 2026 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 28.33,
+      "total": 85
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "World Cup U17 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 51
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "African Football League 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Caf Super Cup 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CAF Champions League 2023/2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 18.33,
+      "total": 55
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa U23 Cup of Nations 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 34
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "African Nations Championship 2022 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 69
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "CAF Confederations Cup 2022/2023 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.25,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": 16.75,
+      "total": 67
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "CAF Champions League 2022/2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 54
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup of Nations Qualifications 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 22.33,
+      "total": 67
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "CAF Confederations Cup 2021/2022 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 8.33,
+      "total": 25
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "CAF Champions League 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Africa Cup Of Nations U20 2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 23.5,
+      "total": 47
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "CAF Champions League 2020/2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 16.5,
+      "total": 33
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "CAF World Cup Qualifiers 2022 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "CAF Confederations Cup 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 36,
+      "total": 36
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Africa U23 Cup of Nations 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 44,
+      "total": 44
+    }
+  }
+]

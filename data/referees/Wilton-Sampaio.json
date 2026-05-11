@@ -1,0 +1,1614 @@
+[
+  {
+    "season": "2026",
+    "competition": "Serie B 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 8,
+      "total": 8
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Copa Sudamericana 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Copa Libertadores 2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "Serie A 2026 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 5.22,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26.33,
+      "total": 237
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "FIFA Club World Cup 2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 17
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 72
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Serie C 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 32
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Serie A 2025 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 5.7,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 644
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Copa Sudamericana 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Copa do Brasil 2025 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 5.14,
+      "total": 36
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 168
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Copa Libertadores 2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 22
+    },
+    "fouls": {
+      "avgPerGame": 25.25,
+      "total": 101
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Mineiro 1 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 9,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 30
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Goiano 1 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.67,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 25.67,
+      "total": 77
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Baiano 1 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 10,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Pernambucano 1 2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "UAE Pro League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 49,
+      "total": 49
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa America 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 52
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Serie B 2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 7.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 51
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Serie A 2024 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 5.58,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 27.53,
+      "total": 523
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa Sudamericana 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 56
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa do Brasil 2024 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 100
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Copa Libertadores 2024 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5.75,
+      "total": 23
+    },
+    "fouls": {
+      "avgPerGame": 20.5,
+      "total": 82
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Goiano 1 2024 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 26.8,
+      "total": 268
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification South America 2026 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22.8,
+      "total": 114
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "UAE Pro League 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Pro League 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Serie C 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 32
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Serie B 2023 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 84
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Serie A 2023 (",
+    "fixtures": 22,
+    "cards": {
+      "avgPerGame": 4.95,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 28.09,
+      "total": 618
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa Sudamericana 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 90
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa do Brasil 2023 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 30
+    },
+    "fouls": {
+      "avgPerGame": 23.17,
+      "total": 139
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa Verde 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Copa Libertadores 2023 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.14,
+      "total": 176
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Supercopa do Brasil 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Cearense 1 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Goiano 1 2023 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 5.9,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "World Cup 2022 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 24.5,
+      "total": 98
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Serie B 2022 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 5.38,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24.13,
+      "total": 193
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Serie A 2022 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 5.32,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24.58,
+      "total": 467
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Copa Sudamericana 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 40
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Copa do Brasil 2022 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 5.17,
+      "total": 31
+    },
+    "fouls": {
+      "avgPerGame": 22.67,
+      "total": 136
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Copa Libertadores 2022 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 17
+    },
+    "fouls": {
+      "avgPerGame": 28.75,
+      "total": 115
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Goiano 1 2022 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 4.29,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Arab Cup 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 87
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa America 2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 30
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Serie A 2021 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 4.55,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 24.91,
+      "total": 274
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Serie B 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 6.33,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 19.67,
+      "total": 59
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa Sudamericana 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 15
+    },
+    "fouls": {
+      "avgPerGame": 31.67,
+      "total": 95
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa do Brasil 2021 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 2.25,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 104
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Goiano 1 2021 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 4.22,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Copa Libertadores 2021 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 6.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26.67,
+      "total": 80
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification South America 2022 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 3.2,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26.8,
+      "total": 134
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Serie A 2020 (",
+    "fixtures": 14,
+    "cards": {
+      "avgPerGame": 6.21,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 31.29,
+      "total": 438
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Serie C 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Supercopa do Brasil 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa do Brasil 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa Sudamericana 2020 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 26.5,
+      "total": 106
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Alagoano 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Goiano 1 2020 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 35
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Copa Libertadores 2020 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 36,
+      "total": 72
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Verde 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 10,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa America 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 33.5,
+      "total": 67
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Serie D 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Serie B 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Serie A 2019 (",
+    "fixtures": 15,
+    "cards": {
+      "avgPerGame": 4.13,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 27.53,
+      "total": 413
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Sudamericana 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 23.5,
+      "total": 47
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa do Brasil 2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 39,
+      "total": 78
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Copa Libertadores 2019 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 124
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Pernambucano 1 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 41,
+      "total": 41
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Goiano 1 2019 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 5.11,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "FIFA Intercontinental Cup 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Serie C 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Serie A 2018 (",
+    "fixtures": 15,
+    "cards": {
+      "avgPerGame": 4.33,
+      "total": 65
+    },
+    "fouls": {
+      "avgPerGame": 33.2,
+      "total": 498
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Copa Sudamericana 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 42,
+      "total": 42
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Copa do Brasil 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 33,
+      "total": 33
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Copa Libertadores 2018 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4.4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 34.2,
+      "total": 171
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Goiano 1 2018 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 3.8,
+      "total": 19
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Serie A 2017 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 4.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 27.17,
+      "total": 163
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Copa Sudamericana 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Copa do Brasil 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 45,
+      "total": 45
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Goiano 1 2017 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Copa Libertadores 2017 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 33.33,
+      "total": 100
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Sergipano 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Pernambucano 1 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Copa Sudamericana 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Copa America 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Serie C 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Serie A 2016 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 4.67,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 31.75,
+      "total": 381
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Copa do Brasil 2016 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 12.5,
+      "total": 25
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Copa Libertadores 2016 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 70
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Mineiro 1 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Goiano 1 2016 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 20
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Alagoano 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "WC Qualification South America 2018 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 37.5,
+      "total": 75
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Copa Sudamericana 2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Serie A 2015 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 68
+    },
+    "fouls": {
+      "avgPerGame": 18.63,
+      "total": 298
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Serie B 2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Copa do Brasil 2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 9,
+      "total": 18
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Goiano 1 2015 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Alagoano 2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Serie A 2014 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 6.1,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 36.5,
+      "total": 365
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Serie B 2014 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Copa Libertadores 2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 34
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Goiano 1 2014 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Baiano 1 2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Friendly International 2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "Pernambucano 1 2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Copa Sudamericana 2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Serie A 2013 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 18.13,
+      "total": 145
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Copa Libertadores 2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Baiano 1 2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Goiano 1 2013 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Serie C 2012 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Serie B 2012 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Serie A 2012 (",
+    "fixtures": 14,
+    "cards": {
+      "avgPerGame": 7.64,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Copa do Brasil 2012 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 6.75,
+      "total": 27
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Goiano 1 2012 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011",
+    "competition": "Serie B 2011 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011",
+    "competition": "Serie A 2011 (",
+    "fixtures": 13,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011",
+    "competition": "Copa do Brasil 2011 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 21
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011",
+    "competition": "Goiano 1 2011 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010",
+    "competition": "Serie D 2010 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 10,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010",
+    "competition": "Serie B 2010 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010",
+    "competition": "Serie A 2010 (",
+    "fixtures": 12,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010",
+    "competition": "Copa do Brasil 2010 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

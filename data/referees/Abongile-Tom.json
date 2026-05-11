@@ -1,0 +1,652 @@
+[
+  {
+    "season": "2025",
+    "competition": "Africa Cup of Nations 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 90
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Premier League 2025/2026 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 3.86,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 24.29,
+      "total": 170
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Premier League 2024/2025 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 20.5,
+      "total": 82
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "1st Division 2024/2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "CAF Champions League 2024/2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 35.5,
+      "total": 71
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "CAF Confederations Cup 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 10,
+      "total": 10
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "MTN8 Cup 2024/2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 16.5,
+      "total": 33
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Cosafa Cup 2024 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 6.33,
+      "total": 19
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Premier League Play-offs 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "Africa Cup of Nations Qualifications 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.67,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 21.67,
+      "total": 65
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup of Nations 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.33,
+      "total": 16
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 96
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Nedbank Cup 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 32,
+      "total": 64
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "CAF World Cup Qualifiers 2026 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 28
+    },
+    "fouls": {
+      "avgPerGame": 26.5,
+      "total": 106
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "African Football League 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "League Cup 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "1st Division 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CAF Champions League 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 58
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "CAF Confederations Cup 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "MTN8 Cup 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Premier League 2023/2024 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21.09,
+      "total": 232
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa U23 Cup of Nations 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 60
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "World Cup U20 2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.5,
+      "total": 51
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "African Nations Championship 2022 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25.33,
+      "total": 76
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Nedbank Cup 2022/2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 11.5,
+      "total": 23
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "Black Label Cup 2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "CAF Confederations Cup 2022/2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 17.67,
+      "total": 53
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "CAF Champions League 2022/2023 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 18
+    },
+    "fouls": {
+      "avgPerGame": 14,
+      "total": 56
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "1st Division 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "MTN8 Cup 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 9,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Premier League 2022/2023 (",
+    "fixtures": 10,
+    "cards": {
+      "avgPerGame": 3.6,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 26.9,
+      "total": 269
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Africa Cup of Nations Qualifications 2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 57
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Nedbank Cup 2021/2022 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 7.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 7.67,
+      "total": 23
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "CAF Champions League 2021/2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "1st Division 2021/2022 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 1.67,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Premier League 2021/2022 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 3.94,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 17.69,
+      "total": 283
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "MTN8 Cup 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2021",
+    "competition": "Cosafa Cup 2021 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 4.75,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Nedbank Cup 2020/2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 11,
+      "total": 22
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "1st Division 2020/2021 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 2.67,
+      "total": 24
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Premier League 2020/2021 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 3.44,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 18.5,
+      "total": 333
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Nedbank Cup 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "League Cup 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 12,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "1st Division 2019/2020 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4.2,
+      "total": 21
+    },
+    "fouls": {
+      "avgPerGame": 4.2,
+      "total": 21
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Premier League 2019/2020 (",
+    "fixtures": 22,
+    "cards": {
+      "avgPerGame": 3.64,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 18.77,
+      "total": 413
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Premier League Play-offs 2018/2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Nedbank Cup 2018/2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": 13.5,
+      "total": 27
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "League Cup 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "1st Division 2018/2019 (",
+    "fixtures": 11,
+    "cards": {
+      "avgPerGame": 3.27,
+      "total": 36
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Premier League 2018/2019 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 3.75,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 17.25,
+      "total": 276
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "1st Division 2018 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 4.17,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

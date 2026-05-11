@@ -1,0 +1,1848 @@
+[
+  {
+    "season": "2025/2026",
+    "competition": "KNVB Beker 2025/2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 24.5,
+      "total": 49
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Kings Cup 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Super League 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 35
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Eredivisie 2025/2026 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 3.17,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21.61,
+      "total": 497
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Eerste Divisie 2025/2026 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 27,
+      "total": 27
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Europa League 2025/2026 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 24.5,
+      "total": 49
+    }
+  },
+  {
+    "season": "2025/2026",
+    "competition": "Champions League 2025/2026 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 2.44,
+      "total": 22
+    },
+    "fouls": {
+      "avgPerGame": 21.11,
+      "total": 190
+    }
+  },
+  {
+    "season": "2025",
+    "competition": "FIFA Club World Cup 2025 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 18
+    },
+    "fouls": {
+      "avgPerGame": 29.33,
+      "total": 88
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Eredivisie Playoffs 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2026",
+    "competition": "WC Qualification Europe 2026 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 2.8,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 23.2,
+      "total": 116
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Premier League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 34
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Cyprus Cup 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "FIFA Intercontinental Cup 2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "UEFA Nations League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "KNVB Beker 2024/2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 48
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "UAE Pro League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Pro League 2024/2025 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22.5,
+      "total": 45
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Eredivisie 2024/2025 (",
+    "fixtures": 27,
+    "cards": {
+      "avgPerGame": 3.07,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 19.81,
+      "total": 535
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Europa League 2024/2025 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 25
+    }
+  },
+  {
+    "season": "2024/2025",
+    "competition": "Champions League 2024/2025 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 110
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "European Championship 2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 46
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Eredivisie Playoffs 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "KNVB Beker 2023/2024 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Eredivisie 2023/2024 (",
+    "fixtures": 26,
+    "cards": {
+      "avgPerGame": 3.12,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 21.5,
+      "total": 559
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Eerste Divisie 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 50
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Pro League 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 46
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Europa League 2023/2024 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 14.5,
+      "total": 29
+    }
+  },
+  {
+    "season": "2023/2024",
+    "competition": "Champions League 2023/2024 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 24
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 144
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Eredivisie Playoffs 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 16,
+      "total": 16
+    }
+  },
+  {
+    "season": "2024",
+    "competition": "Euro Qualification 2024 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 24
+    },
+    "fouls": {
+      "avgPerGame": 24.5,
+      "total": 98
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Super Cup 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 23
+    }
+  },
+  {
+    "season": "2023",
+    "competition": "Club Friendlies 1 2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 14,
+      "total": 14
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Kings Cup 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "World Cup 2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 20.5,
+      "total": 41
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Super League 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "KNVB Beker 2022/2023 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 21.5,
+      "total": 43
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Eerste Divisie 2022/2023 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21.67,
+      "total": 65
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Eredivisie 2022/2023 (",
+    "fixtures": 26,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 21.62,
+      "total": 562
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Europa League 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 42,
+      "total": 42
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "Champions League 2022/2023 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 4.63,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 22.75,
+      "total": 182
+    }
+  },
+  {
+    "season": "2022/2023",
+    "competition": "UEFA Nations League 2022/2023 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Eredivisie Playoffs 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Super Cup 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Super League 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "UAE Pro League 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 20
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "KNVB Beker 2021/2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 28.5,
+      "total": 57
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Eredivisie 2021/2022 (",
+    "fixtures": 28,
+    "cards": {
+      "avgPerGame": 2.79,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 21.46,
+      "total": 601
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Eerste Divisie 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Europa League 2021/2022 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 36
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Europa Conference League 2021/2022 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 17
+    }
+  },
+  {
+    "season": "2021/2022",
+    "competition": "Champions League 2021/2022 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 4.25,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 23.25,
+      "total": 186
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "European Championship 2020 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 14
+    },
+    "fouls": {
+      "avgPerGame": 23.25,
+      "total": 93
+    }
+  },
+  {
+    "season": "2022",
+    "competition": "WC Qualification Europe 2022 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 25,
+      "total": 125
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "FIFA Intercontinental Cup 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Greek Cup 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 2,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Eredivisie 2020/2021 (",
+    "fixtures": 24,
+    "cards": {
+      "avgPerGame": 3.08,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 23.08,
+      "total": 554
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Super League 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "UEFA Nations League 2020/2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 22.5,
+      "total": 45
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Eerste Divisie 2020/2021 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Europa League 2020/2021 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 24.5,
+      "total": 49
+    }
+  },
+  {
+    "season": "2020/2021",
+    "competition": "Champions League 2020/2021 (",
+    "fixtures": 9,
+    "cards": {
+      "avgPerGame": 5.67,
+      "total": 51
+    },
+    "fouls": {
+      "avgPerGame": 25.78,
+      "total": 232
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Super Cup 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 33,
+      "total": 33
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Club Friendlies 1 2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 30,
+      "total": 30
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Super League 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 39,
+      "total": 39
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Greek Cup 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 7,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 45,
+      "total": 45
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Pro League 2019/2020 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 19.67,
+      "total": 59
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "KNVB Beker 2019/2020 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1.5,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 21.5,
+      "total": 43
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Eerste Divisie 2019/2020 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Eredivisie 2019/2020 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 2.63,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 21.32,
+      "total": 405
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Europa League 2019/2020 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 10
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 62
+    }
+  },
+  {
+    "season": "2019/2020",
+    "competition": "Champions League 2019/2020 (",
+    "fixtures": 7,
+    "cards": {
+      "avgPerGame": 3.29,
+      "total": 23
+    },
+    "fouls": {
+      "avgPerGame": 23.86,
+      "total": 167
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Eredivisie Playoffs 2018/2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 18,
+      "total": 18
+    }
+  },
+  {
+    "season": "2020",
+    "competition": "Euro Qualification 2020 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4.2,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 27.2,
+      "total": 136
+    }
+  },
+  {
+    "season": "2019",
+    "competition": "Kings Cup 2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 29
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "UEFA Nations League 2018/2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 12
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 46
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Pro League 2018/2019 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 29,
+      "total": 174
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "KNVB Beker 2018/2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 19,
+      "total": 19
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Eerste Divisie 2018/2019 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Eredivisie 2018/2019 (",
+    "fixtures": 24,
+    "cards": {
+      "avgPerGame": 1.79,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 21.42,
+      "total": 514
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Europa League 2018/2019 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 17,
+      "total": 34
+    }
+  },
+  {
+    "season": "2018/2019",
+    "competition": "Champions League 2018/2019 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 18
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 126
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Eredivisie Playoffs 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 40,
+      "total": 40
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Friendly International 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 24,
+      "total": 24
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Kings Cup 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": 31,
+      "total": 31
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "Club Friendlies 1 2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 21,
+      "total": 21
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "KNVB Beker 2017/2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 1.33,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 23.33,
+      "total": 70
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Eerste Divisie 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Eredivisie 2017/2018 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 3.17,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 23.61,
+      "total": 543
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Pro League 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 6,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": 28,
+      "total": 28
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Super Cup 2017/2018 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 34,
+      "total": 34
+    }
+  },
+  {
+    "season": "2017/2018",
+    "competition": "Champions League 2017/2018 (",
+    "fixtures": 6,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 20
+    },
+    "fouls": {
+      "avgPerGame": 20.83,
+      "total": 125
+    }
+  },
+  {
+    "season": "2017",
+    "competition": "Friendly International 2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 16,
+      "total": 16
+    }
+  },
+  {
+    "season": "2018",
+    "competition": "WC Qualification Europe 2018 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.33,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 11.67,
+      "total": 35
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "KNVB Beker 2016/2017 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 2.75,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 20,
+      "total": 80
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Eerste Divisie 2016/2017 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 26,
+      "total": 26
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Eredivisie 2016/2017 (",
+    "fixtures": 24,
+    "cards": {
+      "avgPerGame": 2.96,
+      "total": 71
+    },
+    "fouls": {
+      "avgPerGame": 24.25,
+      "total": 582
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Europa League 2016/2017 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 23,
+      "total": 69
+    }
+  },
+  {
+    "season": "2016/2017",
+    "competition": "Champions League 2016/2017 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.67,
+      "total": 8
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 66
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Eredivisie Playoffs 2015/2016 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 35,
+      "total": 70
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Friendly International 2016 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 1,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": 25.5,
+      "total": 51
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "KNVB Beker 2015/2016 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Eredivisie 2015/2016 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 2.91,
+      "total": 67
+    },
+    "fouls": {
+      "avgPerGame": 1.52,
+      "total": 35
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Eerste Divisie 2015/2016 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Europa League 2015/2016 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3.5,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2015/2016",
+    "competition": "Champions League 2015/2016 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 2.33,
+      "total": 7
+    },
+    "fouls": {
+      "avgPerGame": 7,
+      "total": 21
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Eredivisie Playoffs 2014/2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 7.5,
+      "total": 15
+    },
+    "fouls": {
+      "avgPerGame": 15,
+      "total": 30
+    }
+  },
+  {
+    "season": "2015",
+    "competition": "Friendly International 2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 2.5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": 26.5,
+      "total": 53
+    }
+  },
+  {
+    "season": "2016",
+    "competition": "Euro Qualification 2016 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 22
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "KNVB Beker 2014/2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 9
+    },
+    "fouls": {
+      "avgPerGame": 19.5,
+      "total": 39
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Eerste Divisie 2014/2015 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.75,
+      "total": 15
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Eredivisie 2014/2015 (",
+    "fixtures": 19,
+    "cards": {
+      "avgPerGame": 4.42,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 26.84,
+      "total": 510
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Super Cup 2014/2015 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Europa League 2014/2015 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 5.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 18.33,
+      "total": 55
+    }
+  },
+  {
+    "season": "2014/2015",
+    "competition": "Champions League 2014/2015 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 22,
+      "total": 44
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "KNVB Beker 2013/2014 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 0.75,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 6.75,
+      "total": 27
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Eerste Divisie 2013/2014 (",
+    "fixtures": 5,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Eredivisie 2013/2014 (",
+    "fixtures": 24,
+    "cards": {
+      "avgPerGame": 3.96,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": 11.67,
+      "total": 280
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Europa League 2013/2014 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 3.25,
+      "total": 13
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013/2014",
+    "competition": "Champions League 2013/2014 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 4,
+      "total": 4
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2014",
+    "competition": "WC Qualification Europe 2014 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 6.5,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "KNVB Beker 2012/2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Eerste Divisie 2012/2013 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Eredivisie 2012/2013 (",
+    "fixtures": 23,
+    "cards": {
+      "avgPerGame": 2.74,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 0.61,
+      "total": 14
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Pro League 2012/2013 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 6
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Europa League 2012/2013 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 3.67,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012/2013",
+    "competition": "Champions League 2012/2013 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 8,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2012",
+    "competition": "Friendly International 2012 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "KNVB Beker 2011/2012 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 5.5,
+      "total": 11
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "Eerste Divisie 2011/2012 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 2.75,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "Eredivisie 2011/2012 (",
+    "fixtures": 18,
+    "cards": {
+      "avgPerGame": 3.56,
+      "total": 3
+    },
+    "fouls": {
+      "avgPerGame": 1.33,
+      "total": 24
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "Pro League 2011/2012 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2011/2012",
+    "competition": "Europa League 2011/2012 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 3,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2013",
+    "competition": "Euro U21 2013 (",
+    "fixtures": 3,
+    "cards": {
+      "avgPerGame": 4.67,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010/2011",
+    "competition": "KNVB Beker 2010/2011 (",
+    "fixtures": 4,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010/2011",
+    "competition": "Eerste Divisie 2010/2011 (",
+    "fixtures": 8,
+    "cards": {
+      "avgPerGame": 4.5,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010/2011",
+    "competition": "Eredivisie 2010/2011 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 3.81,
+      "total": 1
+    },
+    "fouls": {
+      "avgPerGame": 4.56,
+      "total": 73
+    }
+  },
+  {
+    "season": "2010/2011",
+    "competition": "National 2010/2011 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2010/2011",
+    "competition": "Pro League 2010/2011 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 5,
+      "total": 5
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2009/2010",
+    "competition": "KNVB Beker 2009/2010 (",
+    "fixtures": 2,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2009/2010",
+    "competition": "Challenger Pro League 2009/2010 (",
+    "fixtures": 1,
+    "cards": {
+      "avgPerGame": 0,
+      "total": null
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2009/2010",
+    "competition": "Eerste Divisie 2009/2010 (",
+    "fixtures": 14,
+    "cards": {
+      "avgPerGame": 3.07,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  },
+  {
+    "season": "2009/2010",
+    "competition": "Eredivisie 2009/2010 (",
+    "fixtures": 16,
+    "cards": {
+      "avgPerGame": 2.69,
+      "total": 2
+    },
+    "fouls": {
+      "avgPerGame": null,
+      "total": null
+    }
+  }
+]

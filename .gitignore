@@ -1,0 +1,25 @@
+.venv
+
+# Ignore everything
+*
+
+# Allow directories (negate directory ignore)
+!*/
+
+# Keep this file
+!.gitignore
+
+# Allow data/referees and all its contents
+!/data/
+!/data/referees/
+!/data/referees/**
+
+# Allow src and the specific files/directories we want
+!/src/
+!/src/output/
+!/src/output/**
+!/src/cluster_referees.py
+!/src/requirements.py
+
+# Keep the virtual environment ignored
+.venv
