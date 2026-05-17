@@ -15,11 +15,11 @@
 !/data/referees/**
 
 # Allow src and the specific files/directories we want
-!/src/
-!/src/output/
-!/src/output/**
-!/src/cluster_referees.py
 !/src/requirements.py
+!/src/referee-analysis/
+!/src/referee-analysis/**
+!/src/bubble-detector/
+!/src/bubble-detector/**
 
 # Keep the virtual environment ignored
 .venv
