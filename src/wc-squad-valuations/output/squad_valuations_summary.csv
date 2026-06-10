@@ -13,37 +13,37 @@ rank,country,group,squad_size,matched,match_rate_pct,total_value_m,avg_value_m,t
 12,Sweden,Group F,26,26,100,439.8,21.99,Alexander Isak,120.0
 13,Ivory Coast,Group E,26,26,100,419.8,17.49,Amad Diallo,50.0
 14,Morocco,Group C,26,25,96,409.6,18.62,Achraf Hakimi (captain),80.0
-15,Senegal,Group I,26,26,100,390.8,16.28,Iliman Ndiaye,45.0
-16,United States,Group D,26,26,100,323.0,17.0,Christian Pulisic,60.0
-17,Switzerland,Group B,26,26,100,310.3,13.49,Gregor Kobel,40.0
-18,Croatia,Group L,26,26,100,307.6,12.82,Joško Gvardiol,70.0
-19,Ecuador,Group E,26,25,96,297.6,16.53,Moisés Caicedo,110.0
-20,Austria,Group J,25,25,100,253.4,11.52,Konrad Laimer,32.0
-21,Scotland,Group C,26,25,96,232.8,8.95,Scott McTominay,45.0
-22,Japan,Group F,26,26,100,222.1,11.1,Takefusa Kubo,30.0
-23,Colombia,Group K,26,26,100,216.3,11.38,Luis Díaz,70.0
-24,Algeria,Group J,26,24,92,198.2,9.44,Rayan Aït-Nouri,40.0
-25,Ghana,Group L,26,24,92,179.9,8.57,Antoine Semenyo,65.0
-26,Canada,Group B,26,25,96,159.2,10.61,Alphonso Davies (captain),50.0
-27,Czech Republic,Group A,26,26,100,126.4,8.43,Patrik Schick,25.0
-28,Mexico,Group A,26,26,100,115.5,10.5,Santiago Giménez,40.0
-29,DR Congo,Group K,26,24,92,115.2,5.01,Yoane Wissa,28.0
-30,Egypt,Group G,26,21,81,112.1,7.47,Omar Marmoush,65.0
-31,Paraguay,Group D,26,23,88,110.5,7.89,Diego Gómez,25.0
-32,South Korea,Group A,26,26,100,96.0,8.0,Kim Min-jae,25.0
-33,Bosnia and Herzegovina,Group B,26,25,96,77.4,4.07,Ermedin Demirović,22.0
-34,Haiti,Group C,26,15,58,53.2,2.21,Wilson Isidor,18.0
-35,Uzbekistan,Group K,26,24,92,52.8,5.28,Abdukodir Khusanov,35.0
-36,Tunisia,Group F,26,23,88,46.4,2.58,Hannibal Mejbri,9.0
-37,Cape Verde,Group H,26,20,77,42.9,1.95,Logan Costa,18.0
-38,Australia,Group D,26,26,100,34.0,2.13,Nestory Irankunda,6.0
-39,Curaçao,Group E,26,23,88,26.6,1.16,Juninho Bacuna,4.5
-40,Iran,Group G,26,18,69,24.5,0.98,Mohammad Mohebi,3.5
-41,New Zealand,Group G,26,26,100,22.9,1.52,Chris Wood (captain),8.0
-42,Panama,Group L,26,22,85,15.2,1.52,Michael Amir Murillo,10.0
-43,South Africa,Group A,26,22,85,13.6,2.27,Lyle Foster,13.0
-44,Qatar,Group B,26,26,100,8.8,1.76,Akram Afif,4.5
-45,Iraq,Group I,26,26,100,7.5,1.07,Zidane Iqbal,3.0
-46,Jordan,Group J,26,24,92,6.0,2.0,Musa Al-Taamari,6.0
-47,Saudi Arabia,Group H,26,26,100,5.6,1.88,Saud Abdulhamid,3.0
-48,Turkey,Group D,26,9,35,0.9,0.03,İrfan Can Kahveci,0.55
+15,Turkey,Group D,26,26,100,404.9,16.2,Kenan Yıldız,75.0
+16,Senegal,Group I,26,26,100,390.8,16.28,Iliman Ndiaye,45.0
+17,United States,Group D,26,26,100,323.0,17.0,Christian Pulisic,60.0
+18,Switzerland,Group B,26,26,100,310.3,13.49,Gregor Kobel,40.0
+19,Croatia,Group L,26,26,100,307.6,12.82,Joško Gvardiol,70.0
+20,Ecuador,Group E,26,25,96,297.6,16.53,Moisés Caicedo,110.0
+21,Austria,Group J,25,25,100,253.4,11.52,Konrad Laimer,32.0
+22,Scotland,Group C,26,25,96,232.8,8.95,Scott McTominay,45.0
+23,Japan,Group F,26,26,100,222.1,11.1,Takefusa Kubo,30.0
+24,Colombia,Group K,26,26,100,216.3,11.38,Luis Díaz,70.0
+25,Algeria,Group J,26,24,92,198.2,9.44,Rayan Aït-Nouri,40.0
+26,Ghana,Group L,26,24,92,179.9,8.57,Antoine Semenyo,65.0
+27,Canada,Group B,26,25,96,159.2,10.61,Alphonso Davies (captain),50.0
+28,Czech Republic,Group A,26,26,100,126.4,8.43,Patrik Schick,25.0
+29,Mexico,Group A,26,26,100,115.5,10.5,Santiago Giménez,40.0
+30,DR Congo,Group K,26,24,92,115.2,5.01,Yoane Wissa,28.0
+31,Egypt,Group G,26,21,81,112.1,7.47,Omar Marmoush,65.0
+32,Paraguay,Group D,26,23,88,110.5,7.89,Diego Gómez,25.0
+33,South Korea,Group A,26,26,100,96.0,8.0,Kim Min-jae,25.0
+34,Bosnia and Herzegovina,Group B,26,25,96,77.4,4.07,Ermedin Demirović,22.0
+35,Haiti,Group C,26,15,58,53.2,2.21,Wilson Isidor,18.0
+36,Uzbekistan,Group K,26,24,92,52.8,5.28,Abdukodir Khusanov,35.0
+37,Tunisia,Group F,26,23,88,46.4,2.58,Hannibal Mejbri,9.0
+38,Cape Verde,Group H,26,20,77,42.9,1.95,Logan Costa,18.0
+39,Australia,Group D,26,26,100,34.0,2.13,Nestory Irankunda,6.0
+40,Curaçao,Group E,26,23,88,26.6,1.16,Juninho Bacuna,4.5
+41,Iran,Group G,26,18,69,24.5,0.98,Mohammad Mohebi,3.5
+42,New Zealand,Group G,26,26,100,22.9,1.52,Chris Wood (captain),8.0
+43,Panama,Group L,26,22,85,15.2,1.52,Michael Amir Murillo,10.0
+44,South Africa,Group A,26,22,85,13.6,2.27,Lyle Foster,13.0
+45,Qatar,Group B,26,26,100,8.8,1.76,Akram Afif,4.5
+46,Iraq,Group I,26,26,100,7.5,1.07,Zidane Iqbal,3.0
+47,Jordan,Group J,26,24,92,6.0,2.0,Musa Al-Taamari,6.0
+48,Saudi Arabia,Group H,26,26,100,5.6,1.88,Saud Abdulhamid,3.0

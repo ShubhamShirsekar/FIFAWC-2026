@@ -28,6 +28,7 @@ COUNTRY_ALIASES = {
     'Ivory Coast':            ['Ivory Coast', "Cote d'Ivoire", "Côte d'Ivoire"],
     'DR Congo':               ['DR Congo', 'Congo DR'],
     'Trinidad and Tobago':    ['Trinidad and Tobago', 'Trinidad & Tobago'],
+    'Turkey':                 ['Turkey', 'Türkiye', 'Turkiye'],
 }
 
 
