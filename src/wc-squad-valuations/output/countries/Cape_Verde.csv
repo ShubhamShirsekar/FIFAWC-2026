@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Logan Costa,2DF,Villarreal,2001-04-01,28,0,Logan Costa,Villarreal Club de Fútbol S.A.D.,18000000.0,18.0,dob_exact
+Wagner Pina,2DF,Trabzonspor,2002-11-03,13,0,Wagner Pina,Trabzonspor Kulübü,7000000.0,7.0,dob_exact
+Kevin Pina,3MF,Krasnodar,1997-01-27,31,3,Kevin Lenini,FK Krasnodar,4500000.0,4.5,dob_exact
+Telmo Arcanjo,3MF,Vitória de Guimarães,2001-06-21,16,1,Telmo Arcanjo,Vitória Sport Clube,3000000.0,3.0,dob_exact
+Steven Moreira,2DF,Columbus Crew,1994-08-13,20,0,Steven Moreira,Columbus Crew,1500000.0,1.5,dob_exact
+Hélio Varela,3MF,Maccabi Tel Aviv,2002-05-03,20,0,Hélio Varela,Koninklijke Atletiek Associatie Gent,1200000.0,1.2,dob_exact
+Laros Duarte,3MF,Puskás Akadémia,1997-02-28,13,1,Laros Duarte,Football Club Groningen,1000000.0,1.0,dob_exact
+Deroy Duarte,3MF,Ludogorets Razgrad,1999-07-04,30,0,Deroy Duarte,Fortuna Sittardia Combinatie,1000000.0,1.0,dob_exact
+Diney,2DF,Al Bataeh,1995-01-17,30,2,Diney Borges,CS Marítimo,1000000.0,1.0,dob_exact
+Jovane Cabral,3MF,Estrela Amadora,1998-06-14,27,2,Jovane Cabral,Club Football Estrela da Amadora,800000.0,0.8,dob_exact
+Nuno da Costa,3MF,İstanbul Başakşehir,1991-02-10,9,2,Nuno Da Costa,İstanbul Başakşehir Futbol Kulübü,800000.0,0.8,dob_exact
+Jamiro Monteiro,3MF,PEC Zwolle,1993-11-23,55,5,Jamiro Monteiro,Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle,750000.0,0.75,dob_exact
+Ryan Mendes (captain),4FW,Iğdır,1990-01-08,98,22,Ryan Mendes,Fatih Karagümrük Sportif Faaliyetler San. Tic. A.Ş.,700000.0,0.7,dob_exact
+Willy Semedo,3MF,Omonia,1994-04-27,38,3,Willy Semedo,Royal Charleroi Sporting Club,700000.0,0.7,dob_exact
+Gilson Benchimol,4FW,Akron Tolyatti,2001-12-29,22,6,Benchimol,Akron Togliatti,650000.0,0.65,dob_exact
+Garry Rodrigues,3MF,Apollon Limassol,1990-11-27,60,10,Garry Rodrigues,Sivasspor,325000.0,0.33,dob_exact
+Vozinha,1GK,Chaves,1986-06-03,86,0,,,0.0,0.0,unmatched
+Stopira,2DF,Torreense,1988-05-20,62,4,,,0.0,0.0,unmatched
+Roberto Lopes,2DF,Shamrock Rovers,1992-06-17,45,0,,,0.0,0.0,unmatched
+Márcio Rosa,1GK,Montana,1997-02-23,11,0,,,0.0,0.0,unmatched
+Yannick Semedo,3MF,Farense,1995-12-29,10,1,,,0.0,0.0,unmatched
+Kelvin Pires,2DF,SJK,2000-06-05,5,1,,,0.0,0.0,unmatched
+João Paulo,3MF,FCSB,1998-05-26,42,1,João Paulo,SC Fotbal Club FCSB SA,,,dob_exact
+Sidny Lopes Cabral,2DF,Benfica,2002-09-18,9,3,Sidny Lopes Cabral,Sport Lisboa e Benfica,,,dob_exact
+Dailon Livramento,4FW,Casa Pia,2001-05-04,22,7,Dailon Livramento,Casa Pia Atlético Clube,,,dob+name(100.0%)
+CJ dos Santos,1GK,San Diego FC,2000-08-24,1,0,CJ dos Santos,San Diego Football Club,,,dob_exact

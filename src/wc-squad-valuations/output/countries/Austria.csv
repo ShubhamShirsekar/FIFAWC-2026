@@ -1,0 +1,26 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Konrad Laimer,3MF,Bayern Munich,1997-05-27,57,7,Konrad Laimer,FC Bayern München,32000000.0,32.0,dob_exact
+Xaver Schlager,3MF,RB Leipzig,1997-09-28,51,4,Xaver Schlager,RasenBallsport Leipzig,28000000.0,28.0,dob_exact
+Carney Chukwuemeka,3MF,Borussia Dortmund,2003-10-20,3,1,Carney Chukwuemeka,Borussia Dortmund,25000000.0,25.0,dob_exact
+Kevin Danso,2DF,Tottenham Hotspur,1998-09-19,32,0,Kevin Danso,Tottenham Hotspur Football Club,22000000.0,22.0,dob_exact
+David Alaba (captain),2DF,Real Madrid,1992-06-24,113,15,David Alaba,Real Madrid Club de Fútbol,20000000.0,20.0,dob_exact
+Romano Schmid,3MF,Werder Bremen,2000-01-27,34,3,Romano Schmid,Sportverein Werder Bremen von 1899,17000000.0,17.0,dob_exact
+Nicolas Seiwald,3MF,RB Leipzig,2001-05-04,47,1,Nicolas Seiwald,RasenBallsport Leipzig,16000000.0,16.0,dob_exact
+Patrick Wimmer,4FW,VfL Wolfsburg,2001-05-30,30,1,Patrick Wimmer,Verein für Leibesübungen Wolfsburg,15000000.0,15.0,dob_exact
+Paul Wanner,3MF,PSV Eindhoven,2005-12-23,3,0,Paul Wanner,Eindhovense Voetbalvereniging Philips Sport Vereniging,14000000.0,14.0,dob_exact
+Stefan Posch,2DF,Mainz 05,1997-05-14,52,5,Stefan Posch,1. Fußball- und Sportverein Mainz 05,14000000.0,14.0,dob_exact
+Marco Friedl,2DF,Werder Bremen,1998-03-16,11,0,Marco Friedl,Sportverein Werder Bremen von 1899,12000000.0,12.0,dob_exact
+Philipp Lienhart,2DF,SC Freiburg,1996-07-11,41,3,Philipp Lienhart,Sport-Club Freiburg,12000000.0,12.0,dob_exact
+Marcel Sabitzer,3MF,Borussia Dortmund,1994-03-17,98,26,Marcel Sabitzer,Borussia Dortmund,7000000.0,7.0,dob_exact
+Alexander Prass,3MF,TSG Hoffenheim,2001-05-26,19,0,Alexander Prass,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,5000000.0,5.0,dob_exact
+Marko Arnautović,4FW,Red Star Belgrade,1989-04-19,133,47,Marko Arnautovic,Fudbalski klub Crvena zvezda Beograd,2500000.0,2.5,dob_exact
+Patrick Pentz,1GK,Brøndby,1997-01-02,18,0,Patrick Pentz,Brøndby Idrætsforening,2200000.0,2.2,dob_exact
+Florian Grillitsch,3MF,Braga,1995-08-07,58,1,Florian Grillitsch,Sporting Clube de Braga,2000000.0,2.0,dob_exact
+Saša Kalajdžić,4FW,LASK,1997-07-07,22,4,Sasa Kalajdzic,Linzer Athletik-Sport-Klub,2000000.0,2.0,dob_exact
+Alessandro Schöpf,3MF,Wolfsberger AC,1994-02-07,35,6,Alessandro Schöpf,RZ Pellets Wolfsberger Athletiksport Club,1800000.0,1.8,dob_exact
+Michael Gregoritsch,4FW,FC Augsburg,1994-04-18,75,24,Michael Gregoritsch,Fußball-Club Augsburg 1907,1500000.0,1.5,dob_exact
+Phillipp Mwene,2DF,Mainz 05,1994-01-29,30,0,Phillipp Mwene,1. Fußball- und Sportverein Mainz 05,1500000.0,1.5,dob_exact
+Michael Svoboda,2DF,Venezia,1998-10-15,4,0,Michael Svoboda,Venezia FC,900000.0,0.9,dob_exact
+Alexander Schlager,1GK,Red Bull Salzburg,1996-02-01,26,0,Alexander Schlager,Fußballclub Red Bull Salzburg,,,dob_exact
+David Affengruber,2DF,Elche,2001-03-19,1,0,David Affengruber,Elche Club de Fútbol S.A.D.,,,dob_exact
+Florian Wiegele,1GK,Viktoria Plzeň,2001-03-21,1,0,Florian Wiegele,"FC Viktoria Plzeň, a.s.",,,dob_exact

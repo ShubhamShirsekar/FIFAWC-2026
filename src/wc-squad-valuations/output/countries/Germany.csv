@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Jamal Musiala,3MF,Bayern Munich,2003-02-26,42,9,Jamal Musiala,FC Bayern München,130000000.0,130.0,dob_exact
+Florian Wirtz,3MF,Liverpool,2003-05-03,41,11,Florian Wirtz,Liverpool Football Club,110000000.0,110.0,dob_exact
+Nick Woltemade,4FW,Newcastle United,2002-02-14,11,4,Nick Woltemade,Newcastle United Football Club,70000000.0,70.0,dob_exact
+Aleksandar Pavlović,3MF,Bayern Munich,2004-05-03,11,1,Aleksandar Pavlovic,FC Bayern München,65000000.0,65.0,dob_exact
+Kai Havertz,4FW,Arsenal,1999-06-11,58,22,Kai Havertz,Arsenal Football Club,55000000.0,55.0,dob_exact
+Nico Schlotterbeck,2DF,Borussia Dortmund,1999-12-01,27,0,Nico Schlotterbeck,Borussia Dortmund,55000000.0,55.0,dob+name(100.0%)
+Angelo Stiller,3MF,VfB Stuttgart,2001-04-04,8,0,Angelo Stiller,Verein für Bewegungsspiele Stuttgart 1893,45000000.0,45.0,dob_exact
+Felix Nmecha,3MF,Borussia Dortmund,2000-10-10,8,1,Felix Nmecha,Borussia Dortmund,45000000.0,45.0,dob_exact
+Joshua Kimmich (captain),2DF,Bayern Munich,1995-02-08,110,10,Joshua Kimmich,FC Bayern München,40000000.0,40.0,dob_exact
+Nathaniel Brown,2DF,Eintracht Frankfurt,2003-06-16,5,0,Nathaniel Brown,Eintracht Frankfurt Fußball AG,35000000.0,35.0,dob_exact
+Jonathan Tah,2DF,Bayern Munich,1996-02-11,47,1,Jonathan Tah,FC Bayern München,30000000.0,30.0,dob+name(100.0%)
+Maximilian Beier,4FW,Borussia Dortmund,2002-10-17,9,0,Maximilian Beier,Borussia Dortmund,30000000.0,30.0,dob_exact
+Malick Thiaw,2DF,Newcastle United,2001-08-08,5,0,Malick Thiaw,Newcastle United Football Club,25000000.0,25.0,dob_exact
+Jamie Leweling,3MF,VfB Stuttgart,2001-02-26,5,1,Jamie Leweling,Verein für Bewegungsspiele Stuttgart 1893,25000000.0,25.0,dob_exact
+Deniz Undav,4FW,VfB Stuttgart,1996-07-19,9,6,Deniz Undav,Verein für Bewegungsspiele Stuttgart 1893,25000000.0,25.0,dob_exact
+Antonio Rüdiger,2DF,Real Madrid,1993-03-03,82,3,Antonio Rüdiger,Real Madrid Club de Fútbol,25000000.0,25.0,dob_exact
+Leroy Sané,3MF,Galatasaray,1996-01-11,76,17,Leroy Sané,Galatasaray Spor Kulübü,23000000.0,23.0,dob_exact
+David Raum,2DF,RB Leipzig,1998-04-22,37,1,David Raum,RasenBallsport Leipzig,20000000.0,20.0,dob_exact
+Waldemar Anton,2DF,Borussia Dortmund,1996-07-20,13,0,Waldemar Anton,Borussia Dortmund,18000000.0,18.0,dob+name(100.0%)
+Nadiem Amiri,3MF,Mainz 05,1996-10-27,11,1,Nadiem Amiri,1. Fußball- und Sportverein Mainz 05,17000000.0,17.0,dob_exact
+Leon Goretzka,3MF,Bayern Munich,1995-02-06,70,15,Leon Goretzka,FC Bayern München,15000000.0,15.0,dob_exact
+Alexander Nübel,1GK,VfB Stuttgart,1996-09-30,3,0,Alexander Nübel,Verein für Bewegungsspiele Stuttgart 1893,12000000.0,12.0,dob_exact
+Manuel Neuer,1GK,Bayern Munich,1986-03-27,124,0,Manuel Neuer,FC Bayern München,4000000.0,4.0,dob_exact
+Pascal Groß,3MF,Brighton & Hove Albion,1991-06-15,18,1,Pascal Groß,Brighton and Hove Albion Football Club,3500000.0,3.5,dob_exact
+Oliver Baumann,1GK,TSG Hoffenheim,1990-06-02,13,0,Oliver Baumann,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,3000000.0,3.0,dob_exact
+Assan Ouédraogo,3MF,RB Leipzig,2006-05-09,1,1,Assan Ouédraogo,RasenBallsport Leipzig,,,dob_exact

@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Abdukodir Khusanov,2DF,Manchester City,2004-02-29,27,0,Abdukodir Khusanov,Manchester City Football Club,35000000.0,35.0,dob_exact
+Abbosbek Fayzullaev,3MF,İstanbul Başakşehir,2003-10-03,32,8,Abbosbek Fayzullaev,İstanbul Başakşehir Futbol Kulübü,7000000.0,7.0,dob_exact
+Eldor Shomurodov (captain),4FW,İstanbul Başakşehir,1995-06-29,92,44,Eldor Shomurodov,İstanbul Başakşehir Futbol Kulübü,5000000.0,5.0,dob_exact
+Jaloliddin Masharipov,3MF,Esteghlal,1993-09-01,74,12,Jaloliddin Masharipov,,1700000.0,1.7,dob_exact
+Otabek Shukurov,3MF,Baniyas,1996-06-22,84,9,Otabek Shukurov,,1600000.0,1.6,dob_exact
+Oston Urunov,3MF,Persepolis,2000-12-19,42,10,Oston Urunov,,1000000.0,1.0,dob_exact
+Rustam Ashurmatov,2DF,Esteghlal,1996-07-07,49,1,Rustam Ashurmatov,,800000.0,0.8,dob_exact
+Dostonbek Khamdamov,3MF,Pakhtakor,1996-07-24,34,5,Dostonbek Khamdamov,,750000.0,0.75,dob_exact
+Azizbek Amonov,4FW,Dinamo Samarqand,1997-10-30,12,2,,,0.0,0.0,unmatched
+Bekhruz Karimov,2DF,Surkhon Termiz,2007-08-07,2,0,,,0.0,0.0,unmatched
+Utkir Yusupov,1GK,Navbahor Namangan,1991-01-04,40,0,Utkir Yusupov,,,,dob_exact
+Khojiakbar Alijonov,2DF,Pakhtakor,1997-04-19,40,2,Khozhiakbar Alizhonov,,,,dob_exact
+Farrukh Sayfiev,2DF,Neftchi Fergana,1991-01-17,46,1,Farrukh Sayfiev,,,,dob_exact
+Akmal Mozgovoy,3MF,Pakhtakor,1999-04-02,25,1,Akmal Mozgovoy,,,,dob_exact
+Jamshid Iskanderov,3MF,Neftchi Fergana,1993-10-16,38,4,Jamshid Iskanderov,,,,dob_exact
+Odiljon Hamrobekov,3MF,Tractor,1996-02-13,72,1,Odildzhon Khamrobekov,,,,dob_exact
+Abduvohid Nematov,1GK,Nasaf,2001-03-20,8,0,Abduvokhid Nematov,,,,dob_exact
+Sherzod Nasrullaev,2DF,Nasaf,1998-07-23,31,2,Sherzod Nasrullaev,,,,dob_exact
+Umar Eshmurodov,2DF,Nasaf,1992-11-30,29,0,Umar Eshmurodov,,,,dob_exact
+Botirali Ergashev,1GK,Neftchi Fergana,1995-06-23,2,0,Botirali Ergashev,,,,dob_exact
+Abdulla Abdullaev,2DF,Dibba,1997-09-01,17,0,Abdulla Abdullaev,,,,dob_exact
+Azizjon Ganiev,3MF,Al Bataeh,1998-02-22,19,0,Aziz Ganiev,,,,dob_exact
+Igor Sergeev,4FW,Persepolis,1993-04-30,83,25,Igor Sergeev,,,,dob_exact
+Sherzod Esanov,3MF,Bukhara,2003-02-01,1,0,Sherzod Esanov,Akron Togliatti,,,dob_exact
+Avazbek Ulmasaliev,2DF,AGMK,2000-03-27,0,0,Avazbek Ulmasaliev,,,,dob_exact
+Jakhongir Urozov,2DF,Dinamo Samarqand,2004-01-18,4,0,Jakhongir Urozov,,,,dob_exact

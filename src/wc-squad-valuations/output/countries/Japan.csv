@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Takefusa Kubo,3MF,Real Sociedad,2001-06-04,49,7,Takefusa Kubo,Real Sociedad de Fútbol S.A.D.,30000000.0,30.0,dob_exact
+Kaishū Sano,3MF,Mainz 05,2000-12-30,13,0,Kaishu Sano,1. Fußball- und Sportverein Mainz 05,25000000.0,25.0,dob_exact
+Zion Suzuki,1GK,Parma,2002-08-21,24,0,Zion Suzuki,Parma Calcio 1913,20000000.0,20.0,dob_exact
+Hiroki Itō,2DF,Bayern Munich,1999-05-12,24,1,Hiroki Ito,FC Bayern München,18000000.0,18.0,dob_exact
+Ritsu Dōan,3MF,Eintracht Frankfurt,1998-06-16,65,11,Ritsu Doan,Eintracht Frankfurt Fußball AG,18000000.0,18.0,dob_exact
+Yuito Suzuki,3MF,SC Freiburg,2001-10-25,6,0,Yuito Suzuki,Sport-Club Freiburg,15000000.0,15.0,dob_exact
+Daizen Maeda,3MF,Celtic,1997-10-20,27,4,Daizen Maeda,The Celtic Football Club,14000000.0,14.0,dob_exact
+Takehiro Tomiyasu,2DF,Ajax,1998-11-05,43,1,Takehiro Tomiyasu,AFC Ajax Amsterdam,12000000.0,12.0,dob_exact
+Daichi Kamada,3MF,Crystal Palace,1996-08-05,49,12,Daichi Kamada,Crystal Palace Football Club,12000000.0,12.0,dob_exact
+Tsuyoshi Watanabe,2DF,Feyenoord,1997-02-05,11,0,Tsuyoshi Watanabe,Feyenoord Rotterdam,10000000.0,10.0,dob+name(100.0%)
+Kō Itakura,2DF,Ajax,1997-01-27,40,2,Ko Itakura,AFC Ajax Amsterdam,10000000.0,10.0,dob_exact
+Ayase Ueda,4FW,Feyenoord,1998-08-28,39,16,Ayase Ueda,Feyenoord Rotterdam,8000000.0,8.0,dob_exact
+Keito Nakamura,3MF,Reims,2000-07-28,25,10,Keito Nakamura,Stade Reims,8000000.0,8.0,dob+name(100.0%)
+Yukinari Sugawara,2DF,Werder Bremen,2000-06-28,21,2,Yukinari Sugawara,Sportverein Werder Bremen von 1899,7500000.0,7.5,dob_exact
+Wataru Endo (captain),3MF,Liverpool,1993-02-09,73,4,Wataru Endo,Liverpool Football Club,5000000.0,5.0,dob_exact
+Junya Itō,3MF,Genk,1993-03-09,69,15,Junya Ito,Koninklijke Racing Club Genk,3500000.0,3.5,dob_exact
+Kento Shiogai,4FW,VfL Wolfsburg,2005-03-26,2,0,Kento Shiogai,Verein für Leibesübungen Wolfsburg,2500000.0,2.5,dob_exact
+Kōki Ogawa,4FW,NEC,1997-08-08,15,11,Koki Ogawa,Nijmegen Eendracht Combinatie,2500000.0,2.5,dob_exact
+Shōgo Taniguchi,2DF,Sint-Truiden,1991-07-15,38,1,Shogo Taniguchi,Koninklijke Sint-Truidense Voetbalvereniging,800000.0,0.8,dob_exact
+Yūto Nagatomo,2DF,FC Tokyo,1986-09-12,145,4,Yuto Nagatomo,Tokyo Football Club,300000.0,0.3,dob_exact
+Ao Tanaka,3MF,Leeds United,1998-09-10,38,8,Ao Tanaka,Leeds United Association Football Club,,,dob+name(100.0%)
+Keisuke Gotō,4FW,Sint-Truiden,2005-06-03,4,0,Keisuke Goto,Koninklijke Sint-Truidense Voetbalvereniging,,,dob_exact
+Keisuke Ōsako,1GK,Sanfrecce Hiroshima,1999-07-28,11,0,Keisuke Osako,Sanfrecce Hiroshima,,,dob_exact
+Ayumu Seko,2DF,Le Havre,2000-06-07,14,0,Ayumu Seko,Le Havre Athletic Club,,,dob+name(100.0%)
+Tomoki Hayakawa,1GK,Kashima Antlers,1999-03-03,4,0,Tomoki Hayakawa,Kashima Antlers FC,,,dob_exact
+Junnosuke Suzuki,2DF,Copenhagen,2003-07-12,6,0,Junnosuke Suzuki,Football Club København,,,dob_exact

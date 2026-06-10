@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Vinícius Júnior,4FW,Real Madrid,2000-07-12,49,9,Vinicius Junior,Real Madrid Club de Fútbol,180000000.0,180.0,dob+name(86.66666666666667%)
+Bruno Guimarães,3MF,Newcastle United,1997-11-16,43,3,Bruno Guimarães,Newcastle United Football Club,75000000.0,75.0,dob_exact
+Raphinha,4FW,Barcelona,1996-12-14,39,11,Raphinha,Futbol Club Barcelona,50000000.0,50.0,dob_exact
+Neymar,4FW,Santos,1992-02-05,128,79,Neymar,Santos Futebol Clube,50000000.0,50.0,dob_exact
+Gabriel Martinelli,4FW,Arsenal,2001-06-18,23,4,Gabriel Martinelli,Arsenal Football Club,45000000.0,45.0,dob_exact
+Matheus Cunha,4FW,Manchester United,1999-05-27,23,1,Matheus Cunha,Manchester United Football Club,45000000.0,45.0,dob_exact
+Éderson Silva,3MF,Atalanta,1999-07-07,3,0,Éderson,Atalanta Bergamasca Calcio S.p.a.,40000000.0,40.0,dob_exact
+Fabinho,3MF,Al-Ittihad,1993-10-23,33,0,Fabinho,Al-Ittihad Football Club,38000000.0,38.0,dob+name(100.0%)
+Lucas Paquetá,3MF,Flamengo,1997-08-27,63,13,Lucas Paquetá,Clube de Regatas do Flamengo,35000000.0,35.0,dob_exact
+Bremer,2DF,Juventus,1997-03-18,8,1,Bremer,Juventus Football Club,35000000.0,35.0,dob_exact
+Marquinhos (captain),2DF,Paris Saint-Germain,1994-05-14,105,7,Marquinhos,Paris Saint-Germain Football Club,30000000.0,30.0,dob_exact
+Roger Ibañez,2DF,Al-Ahli,1998-11-23,7,0,Roger Ibañez,Al-Ahli Saudi Football Club,28000000.0,28.0,dob+name(100.0%)
+Igor Thiago,4FW,Brentford,2001-06-26,4,2,Igor Thiago,Brentford Football Club,25000000.0,25.0,dob+name(100.0%)
+Luiz Henrique,4FW,Zenit Saint Petersburg,2001-01-02,15,2,Luiz Henrique,AO FK Zenit Sankt-Peterburg,24000000.0,24.0,dob_exact
+Danilo Santos,3MF,Botafogo,2001-04-29,4,2,Danilo,S. A. F. Botafogo,22000000.0,22.0,dob_exact
+Alisson,1GK,Liverpool,1992-10-02,78,0,Alisson,Liverpool Football Club,17000000.0,17.0,dob_exact
+Ederson Moraes,1GK,Fenerbahçe,1993-08-17,32,0,Ederson,Fenerbahçe Spor Kulübü,15000000.0,15.0,dob_exact
+Casemiro,3MF,Manchester United,1992-02-23,86,9,Casemiro,Manchester United Football Club,8000000.0,8.0,dob_exact
+Douglas Santos,2DF,Zenit Saint Petersburg,1994-03-22,7,0,Douglas Santos,AO FK Zenit Sankt-Peterburg,8000000.0,8.0,dob_exact
+Danilo Luiz,2DF,Flamengo,1991-07-15,70,1,Danilo,Clube de Regatas do Flamengo,2500000.0,2.5,dob_exact
+Alex Sandro,2DF,Flamengo,1991-01-26,45,2,Alex Sandro,Clube de Regatas do Flamengo,2000000.0,2.0,dob+name(100.0%)
+Gabriel Magalhães,2DF,Arsenal,1997-12-19,17,1,,,0.0,0.0,unmatched
+Weverton,1GK,Grêmio,1987-12-13,11,0,Weverton,Grêmio Foot-Ball Porto Alegrense,,,dob_exact
+Léo Pereira,2DF,Flamengo,1996-01-31,4,0,Léo Pereira,Clube de Regatas do Flamengo,,,dob_exact
+Endrick,4FW,Lyon,2006-07-21,17,4,Endrick,Olympique Lyonnais,,,dob_exact
+Rayan,4FW,Bournemouth,2006-08-03,2,1,Rayan,Association Football Club Bournemouth,,,dob_exact

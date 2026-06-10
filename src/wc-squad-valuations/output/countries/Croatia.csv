@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Joško Gvardiol,2DF,Manchester City,2002-01-23,48,4,Josko Gvardiol,Manchester City Football Club,70000000.0,70.0,dob_exact
+Luka Vušković,2DF,Hamburger SV,2007-02-24,5,1,Luka Vuskovic,Hamburger Sport Verein,40000000.0,40.0,dob_exact
+Josip Stanišić,2DF,Bayern Munich,2000-04-02,31,0,Josip Stanisic,FC Bayern München,32000000.0,32.0,dob_exact
+Petar Sučić,3MF,Inter Milan,2003-10-25,17,1,Petar Sučić,Football Club Internazionale Milano S.p.A.,30000000.0,30.0,dob_exact
+Josip Šutalo,2DF,Ajax,2000-02-28,33,0,Josip Sutalo,AFC Ajax Amsterdam,17000000.0,17.0,dob_exact
+Mateo Kovačić,3MF,Manchester City,1994-05-06,113,5,Mateo Kovacic,Manchester City Football Club,15000000.0,15.0,dob_exact
+Dominik Livaković,1GK,Dinamo Zagreb,1995-01-09,75,0,Dominik Livakovic,GNK Dinamo Zagreb,11000000.0,11.0,dob_exact
+Luka Sučić,3MF,Real Sociedad,2002-09-08,21,1,Luka Sucic,Real Sociedad de Fútbol S.A.D.,10000000.0,10.0,dob_exact
+Nikola Vlašić,3MF,Torino,1997-10-04,63,10,Nikola Vlašić,Torino Calcio,10000000.0,10.0,dob_exact
+Petar Musa,4FW,FC Dallas,1998-03-04,11,1,Petar Musa,FC Dallas,8000000.0,8.0,dob_exact
+Marin Pongračić,2DF,Fiorentina,1997-09-11,20,0,Marin Pongracic,Associazione Calcio Fiorentina,7500000.0,7.5,dob_exact
+Duje Ćaleta-Car,2DF,Real Sociedad,1996-09-17,38,1,Duje Caleta-Car,Real Sociedad de Fútbol S.A.D.,7000000.0,7.0,dob_exact
+Mario Pašalić,3MF,Atalanta,1995-02-09,85,12,Mario Pašalić,Atalanta Bergamasca Calcio S.p.a.,7000000.0,7.0,dob_exact
+Igor Matanović,4FW,SC Freiburg,2003-03-31,9,2,Igor Matanovic,Sport-Club Freiburg,7000000.0,7.0,dob_exact
+Nikola Moro,3MF,Bologna,1998-03-12,10,0,Nikola Moro,Bologna Football Club 1909,6500000.0,6.5,dob_exact
+Kristijan Jakić,2DF,FC Augsburg,1997-05-14,17,2,Kristijan Jakic,Fußball-Club Augsburg 1907,6000000.0,6.0,dob_exact
+Dominik Kotarski,1GK,Copenhagen,2000-02-10,4,0,Dominik Kotarski,Football Club København,6000000.0,6.0,dob_exact
+Luka Modrić (captain),3MF,Milan,1985-09-09,198,29,Luka Modrić,Associazione Calcio Milan,4000000.0,4.0,dob_exact
+Martin Erlić,2DF,Midtjylland,1998-01-24,13,1,Martin Erlić,Fodbold Club Midtjylland,4000000.0,4.0,dob_exact
+Andrej Kramarić,4FW,TSG Hoffenheim,1991-06-19,116,36,Andrej Kramaric,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,3000000.0,3.0,dob+name(93.33333333333333%)
+Ante Budimir,4FW,Osasuna,1991-07-22,38,6,Ante Budimir,Club Atlético Osasuna,3000000.0,3.0,dob_exact
+Ivor Pandur,1GK,Hull City,2000-03-25,0,0,Ivor Pandur,Hull City,2000000.0,2.0,dob+name(100.0%)
+Ivan Perišić,4FW,PSV Eindhoven,1989-02-02,154,38,Ivan Perišić,Eindhovense Voetbalvereniging Philips Sport Vereniging,1300000.0,1.3,dob_exact
+Marco Pašalić,4FW,Orlando City SC,2000-09-14,15,1,Marco Pašalić,Orlando City Soccer Club,350000.0,0.35,dob_exact
+Martin Baturina,3MF,Como,2003-02-16,19,1,Martin Baturina,Calcio Como,,,dob_exact
+Toni Fruk,3MF,Rijeka,2001-03-09,7,1,Toni Fruk,Hrvatski Nogometni Klub Rijeka,,,dob_exact

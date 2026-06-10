@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Juninho Bacuna,3MF,Volendam,1997-08-07,49,15,Juninho Bacuna,Football Club Volendam,4500000.0,4.5,dob_exact
+Joshua Brenet,2DF,Kayserispor,1994-03-20,18,2,Joshua Brenet,Kayserispor Kulübü,3500000.0,3.5,dob_exact
+Sontje Hansen,4FW,Middlesbrough,2002-05-18,6,1,Sontje Hansen,Nijmegen Eendracht Combinatie,3000000.0,3.0,dob_exact
+Armando Obispo,2DF,PSV Eindhoven,1999-03-05,6,0,Armando Obispo,Eindhovense Voetbalvereniging Philips Sport Vereniging,3000000.0,3.0,dob_exact
+Riechedly Bazoer,2DF,Konyaspor,1996-10-12,5,0,Riechedly Bazoer,Konyaspor,2800000.0,2.8,dob_exact
+Shurandy Sambo,2DF,Sparta Rotterdam,2001-08-19,8,0,Shurandy Sambo,Sparta Rotterdam,2000000.0,2.0,dob_exact
+Ar'jany Martha,3MF,Rotherham United,2003-09-04,9,2,Ar'jany Martha,Beerschot VA,1200000.0,1.2,dob_exact
+Leandro Bacuna (captain),3MF,Iğdır,1991-08-21,72,16,Leandro Bacuna,Football Club Groningen,900000.0,0.9,dob_exact
+Jeremy Antonisse,4FW,Kifisia,2002-03-29,27,4,Jeremy Antonisse,Athlitiki Enosi Kifisias,800000.0,0.8,dob_exact
+Kenji Gorré,4FW,Maccabi Haifa,1994-09-29,38,6,Kenji Gorré,Boavista FC,800000.0,0.8,dob_exact
+Livano Comenencia,3MF,Zürich,2004-02-03,20,2,Livano Comenencia,FC Zürich,800000.0,0.8,dob_exact
+Sherel Floranus,2DF,PEC Zwolle,1998-08-23,28,0,Sherel Floranus,Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle,800000.0,0.8,dob_exact
+Brandley Kuwas,4FW,Volendam,1992-09-19,35,2,Brandley Kuwas,Football Club Volendam,450000.0,0.45,dob_exact
+Juriën Gaari,2DF,Abha,1993-12-23,60,1,Juriën Gaari,RKC Waalwijk,450000.0,0.45,dob_exact
+Godfried Roemeratoe,3MF,RKC Waalwijk,1999-08-19,28,1,Godfried Roemeratoe,RKC Waalwijk,400000.0,0.4,dob_exact
+Roshon van Eijma,2DF,RKC Waalwijk,1998-06-09,28,1,Roshon van Eijma,RKC Waalwijk,375000.0,0.38,dob_exact
+Kevin Felida,3MF,Den Bosch,1999-11-11,19,1,Kevin Felida,RKC Waalwijk,350000.0,0.35,dob_exact
+Eloy Room,1GK,Miami FC,1989-02-06,71,0,Eloy Room,Cercle Brugge Koninklijke Sportvereniging,200000.0,0.2,dob_exact
+Gervane Kastaneer,4FW,Terengganu,1996-06-09,29,9,Gervane Kastaneer,Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle,200000.0,0.2,dob+name(100.0%)
+Trevor Doornbusch,1GK,VVV-Venlo,1999-07-06,8,0,Trevor Doornbusch,Sportclub Heerenveen,100000.0,0.1,dob_exact
+Jürgen Locadia,4FW,Miami FC,1993-11-07,13,1,,,0.0,0.0,unmatched
+Jearl Margaritha,4FW,Beveren,2000-04-10,22,5,,,0.0,0.0,unmatched
+Tahith Chong,3MF,Sheffield United,1999-12-04,6,3,,,0.0,0.0,unmatched
+Tyrese Noslin,4FW,Telstar,2002-09-11,7,1,Tyrese Noslin,Sportclub Telstar,,,dob_exact
+Deveron Fonville,2DF,NEC,2003-05-16,2,0,Deveron Fonville,Nijmegen Eendracht Combinatie,,,dob_exact
+Tyrick Bodak,1GK,Telstar,2002-05-15,4,0,Tyrick Bodak,Sportclub Telstar,,,dob_exact

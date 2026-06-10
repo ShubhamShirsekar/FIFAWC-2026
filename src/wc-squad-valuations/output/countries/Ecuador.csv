@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Moisés Caicedo,3MF,Chelsea,2001-11-02,61,3,Moisés Caicedo,Chelsea Football Club,110000000.0,110.0,dob_exact
+Willian Pacho,2DF,Paris Saint-Germain,2001-10-16,34,2,Willian Pacho,Paris Saint-Germain Football Club,70000000.0,70.0,dob_exact
+Piero Hincapié,2DF,Arsenal,2002-01-09,52,3,Piero Hincapié,Arsenal Football Club,50000000.0,50.0,dob_exact
+Pervis Estupiñán,2DF,Milan,1998-01-21,54,5,Pervis Estupiñán,Associazione Calcio Milan,14000000.0,14.0,dob_exact
+Nilson Angulo,4FW,Sunderland,2003-06-19,14,2,Nilson Angulo,Sunderland Association Football Club,7000000.0,7.0,dob_exact
+Joel Ordóñez,2DF,Club Brugge,2004-04-21,17,0,Joel Ordóñez,Club Brugge Koninklijke Voetbalvereniging,6000000.0,6.0,dob_exact
+Denil Castillo,3MF,Midtjylland,2004-03-24,5,0,Denil Castillo,Fodbold Club Midtjylland,5500000.0,5.5,dob_exact
+Ángelo Preciado,2DF,Atlético Mineiro,1998-02-18,55,0,Angelo Preciado,Clube Atlético Mineiro,5000000.0,5.0,dob_exact
+Kevin Rodríguez,4FW,Union Saint-Gilloise,2000-03-04,31,2,Kevin Rodríguez,Royale Union Saint-Gilloise,5000000.0,5.0,dob_exact
+Gonzalo Plata,4FW,Flamengo,2000-11-01,50,8,Gonzalo Plata,Clube de Regatas do Flamengo,5000000.0,5.0,dob_exact
+Yaimar Medina,2DF,Genk,2004-11-05,6,0,Yaimar Medina,Koninklijke Racing Club Genk,4000000.0,4.0,dob_exact
+Enner Valencia (captain),4FW,Pachuca,1989-11-04,105,49,Enner Valencia,Promotora del Club Pachuca S. A. de C. V.,3800000.0,3.8,dob_exact
+Jordy Caicedo,4FW,Huracán,1997-11-18,20,4,Jordy Caicedo,Club Atlético Huracán,3500000.0,3.5,dob_exact
+Jackson Porozo,2DF,Tijuana,2000-08-04,10,1,Jackson Porozo,Club Tijuana Xoloitzcuintles de Caliente,3300000.0,3.3,dob_exact
+Alan Minda,3MF,Atlético Mineiro,2003-05-14,20,2,Alan Minda,Clube Atlético Mineiro,3000000.0,3.0,dob_exact
+John Yeboah,4FW,Venezia,2000-06-23,23,3,John Yeboah,Venezia FC,1500000.0,1.5,dob_exact
+Anthony Valencia,3MF,Antwerp,2003-07-21,3,1,Anthony Valencia,Royal Antwerp Football Club,1000000.0,1.0,dob_exact
+Gonzalo Valle,1GK,LDU Quito,1996-02-28,4,0,,,0.0,0.0,unmatched
+Hernán Galíndez,1GK,Huracán,1987-03-30,35,0,Hernán Galíndez,Club Atlético Huracán,,,dob_exact
+Félix Torres,2DF,Internacional,1997-01-11,49,5,Félix Torres,Sport Club Internacional,,,dob_exact
+Jordy Alcívar,3MF,Independiente del Valle,1999-08-05,11,1,Jordy Alcívar,Club León Fútbol Club,,,dob_exact
+Kendry Páez,3MF,River Plate,2007-05-04,26,2,Kendry Páez,Club Atlético River Plate,,,dob_exact
+Moisés Ramírez,1GK,Kifisia,2000-09-09,7,0,Moisés Ramírez,Athlitiki Enosi Kifisias,,,dob_exact
+Pedro Vite,3MF,UNAM,2002-03-09,17,1,Pedro Vite,Club Universidad Nacional A. C.,,,dob_exact
+Alan Franco,3MF,Atlético Mineiro,1998-08-21,58,1,Alan Franco,Clube Atlético Mineiro,,,dob_exact
+Jeremy Arévalo,4FW,VfB Stuttgart,2005-03-19,4,0,Jeremy Arévalo,Verein für Bewegungsspiele Stuttgart 1893,,,dob_exact

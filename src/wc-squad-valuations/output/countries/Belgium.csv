@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Jérémy Doku,4FW,Manchester City,2002-05-27,43,7,Jérémy Doku,Manchester City Football Club,65000000.0,65.0,dob_exact
+Amadou Onana,3MF,Aston Villa,2001-08-16,29,1,Amadou Onana,Aston Villa Football Club,42000000.0,42.0,dob_exact
+Youri Tielemans (captain),3MF,Aston Villa,1997-05-07,85,13,Youri Tielemans,Aston Villa Football Club,35000000.0,35.0,dob_exact
+Charles De Ketelaere,4FW,Atalanta,2001-03-10,30,6,Charles De Ketelaere,Atalanta Bergamasca Calcio S.p.a.,34000000.0,34.0,dob_exact
+Zeno Debast,2DF,Sporting CP,2003-10-24,26,1,Zeno Debast,Sporting Clube de Portugal,30000000.0,30.0,dob_exact
+Thibaut Courtois,1GK,Real Madrid,1992-05-11,109,0,Thibaut Courtois,Real Madrid Club de Fútbol,28000000.0,28.0,dob_exact
+Senne Lammens,1GK,Manchester United,2002-07-07,2,0,Senne Lammens,Manchester United Football Club,25000000.0,25.0,dob+name(100.0%)
+Arthur Theate,2DF,Eintracht Frankfurt,2000-05-25,33,1,Arthur Theate,Eintracht Frankfurt Fußball AG,24000000.0,24.0,dob_exact
+Maxim De Cuyper,2DF,Brighton & Hove Albion,2000-12-22,19,4,Maxim De Cuyper,Brighton and Hove Albion Football Club,22000000.0,22.0,dob_exact
+Leandro Trossard,4FW,Arsenal,1994-12-04,51,12,Leandro Trossard,Arsenal Football Club,20000000.0,20.0,dob_exact
+Dodi Lukébakio,4FW,Benfica,1997-09-24,30,6,Dodi Lukébakio,Sport Lisboa e Benfica,20000000.0,20.0,dob_exact
+Diego Moreira,3MF,Strasbourg,2004-08-06,3,0,Diego Moreira,Racing Club de Strasbourg Alsace,18000000.0,18.0,dob_exact
+Romelu Lukaku,4FW,Napoli,1993-05-13,126,90,Romelu Lukaku,Società Sportiva Calcio Napoli,15000000.0,15.0,dob_exact
+Kevin De Bruyne,3MF,Napoli,1991-06-28,119,37,Kevin De Bruyne,Società Sportiva Calcio Napoli,15000000.0,15.0,dob_exact
+Koni De Winter,2DF,Milan,2002-06-12,8,0,Koni De Winter,Associazione Calcio Milan,12000000.0,12.0,dob+name(100.0%)
+Alexis Saelemaekers,3MF,Milan,1999-06-27,24,2,Alexis Saelemaekers,Associazione Calcio Milan,12000000.0,12.0,dob_exact
+Timothy Castagne,2DF,Fulham,1995-12-05,63,2,Timothy Castagne,Fulham Football Club,10000000.0,10.0,dob_exact
+Nicolas Raskin,3MF,Rangers,2001-02-23,13,2,Nicolas Raskin,Rangers Football Club,6500000.0,6.5,dob_exact
+Hans Vanaken,3MF,Club Brugge,1992-08-24,34,7,Hans Vanaken,Club Brugge Koninklijke Voetbalvereniging,6000000.0,6.0,dob_exact
+Nathan Ngoy,2DF,Lille,2003-06-10,4,0,Nathan Ngoy,Lille Olympique Sporting Club,3500000.0,3.5,dob_exact
+Matias Fernandez-Pardo,4FW,Lille,2005-02-03,2,0,Matias Fernandez-Pardo,Lille Olympique Sporting Club,3000000.0,3.0,dob_exact
+Brandon Mechele,2DF,Club Brugge,1993-01-28,9,1,Brandon Mechele,Club Brugge Koninklijke Voetbalvereniging,3000000.0,3.0,dob_exact
+Thomas Meunier,2DF,Lille,1991-09-12,80,10,Thomas Meunier,Lille Olympique Sporting Club,1800000.0,1.8,dob_exact
+Axel Witsel,3MF,Girona,1989-01-12,138,12,Axel Witsel,Girona Fútbol Club S. A. D.,1400000.0,1.4,dob_exact
+Mike Penders,1GK,Strasbourg,2005-07-31,0,0,Mike Penders,Racing Club de Strasbourg Alsace,1000000.0,1.0,dob_exact
+Joaquin Seys,2DF,Club Brugge,2005-03-28,5,0,Joaquin Seys,Club Brugge Koninklijke Voetbalvereniging,600000.0,0.6,dob+name(100.0%)

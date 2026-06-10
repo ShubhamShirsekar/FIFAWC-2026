@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Ermedin Demirović,4FW,VfB Stuttgart,1998-03-25,40,4,Ermedin Demirovic,Verein für Bewegungsspiele Stuttgart 1893,22000000.0,22.0,dob_exact
+Sead Kolašinac,2DF,Atalanta,1993-06-20,65,0,Sead Kolasinac,Atalanta Bergamasca Calcio S.p.a.,10000000.0,10.0,dob_exact
+Kerim Alajbegović,4FW,Red Bull Salzburg,2007-09-21,10,1,Kerim Alajbegovic,Fußballclub Red Bull Salzburg,8000000.0,8.0,dob_exact
+Esmir Bajraktarević,4FW,PSV Eindhoven,2005-03-10,16,1,Esmir Bajraktarevic,Eindhovense Voetbalvereniging Philips Sport Vereniging,5000000.0,5.0,dob_exact
+Benjamin Tahirović,3MF,Brøndby,2003-03-03,28,2,Benjamin Tahirović,Brøndby Idrætsforening,4500000.0,4.5,dob_exact
+Nikola Vasilj,1GK,FC St. Pauli,1995-12-02,26,0,Nikola Vasilj,Fußball-Club St. Pauli von 1910,4500000.0,4.5,dob_exact
+Amir Hadžiahmetović,3MF,Hull City,1997-03-08,36,0,Amir Hadziahmetovic,Hull City,4200000.0,4.2,dob_exact
+Haris Tabaković,4FW,Borussia Mönchengladbach,1994-06-20,10,4,Haris Tabakovic,Borussia Verein für Leibesübungen 1900 Mönchengladbach,3000000.0,3.0,dob_exact
+Dennis Hadžikadunić,2DF,Sampdoria,1998-07-09,32,0,Dennis Hadzikadunic,UC Sampdoria,3000000.0,3.0,dob_exact
+Edin Džeko (captain),4FW,Schalke 04,1986-03-17,148,73,Edin Dzeko,FC Schalke 04,2700000.0,2.7,dob_exact
+Nihad Mujakić,2DF,Gaziantep,1998-04-15,12,1,Nihad Mujakic,Gaziantep Futbol Kulübü A.Ş.,2000000.0,2.0,dob_exact
+Armin Gigović,3MF,Young Boys,2002-04-06,20,1,Armin Gigovic,Berner Sport Club Young Boys,2000000.0,2.0,dob_exact
+Ivan Šunjić,3MF,Pafos,1996-10-09,11,0,Ivan Sunjic,,1500000.0,1.5,dob_exact
+Tarik Muharemović,2DF,Sassuolo,2003-02-28,14,1,Tarik Muharemović,Unione Sportiva Sassuolo Calcio,1200000.0,1.2,dob_exact
+Nikola Katić,2DF,Schalke 04,1996-10-10,17,2,Nikola Katic,FC Schalke 04,1200000.0,1.2,dob_exact
+Nidal Čelik,2DF,Lens,2006-07-17,2,0,Nidal Celik,Racing Club de Lens,1000000.0,1.0,dob_exact
+Ivan Bašić,3MF,Astana,2002-04-30,17,0,Ivan Basic,,1000000.0,1.0,dob_exact
+Dženis Burnić,3MF,Karlsruher SC,1998-05-22,20,0,Dzenis Burnic,,550000.0,0.55,dob_exact
+Mladen Jurkas,1GK,Borac Banja Luka,2007-10-07,0,0,,,0.0,0.0,unmatched
+Amar Dedić,2DF,Benfica,2002-08-18,28,1,Amar Dedić,Sport Lisboa e Benfica,,,dob_exact
+Samed Baždar,4FW,Jagiellonia Białystok,2004-01-31,13,1,Samed Bazdar,Jagiellonia-Bialystok Sportowa Spólka Akcyjna,,,dob_exact
+Amar Memić,3MF,Viktoria Plzeň,2001-01-20,13,1,Amar Memić,"FC Viktoria Plzeň, a.s.",,,dob_exact
+Stjepan Radeljić,2DF,Rijeka,1997-09-05,5,0,Stjepan Radeljic,Hrvatski Nogometni Klub Rijeka,,,dob_exact
+Martin Zlomislić,1GK,Rijeka,1998-08-16,3,0,Martin Zlomislic,Hrvatski Nogometni Klub Rijeka,,,dob_exact
+Jovo Lukić,4FW,Universitatea Cluj,1998-11-28,3,0,Jovo Lukić,Asociația Sportivă Fotbal Club Universitatea Cluj,,,dob_exact
+Ermin Mahmić,3MF,Slovan Liberec,2005-03-14,2,0,Ermin Mahmic,FC Slovan Liberec,,,dob_exact

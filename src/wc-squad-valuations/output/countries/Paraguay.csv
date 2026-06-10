@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Diego Gómez,3MF,Brighton & Hove Albion,2003-03-27,24,3,Diego Gómez,Brighton and Hove Albion Football Club,25000000.0,25.0,dob_exact
+Julio Enciso,4FW,Strasbourg,2004-01-23,32,4,Julio Enciso,Racing Club de Strasbourg Alsace,20000000.0,20.0,dob_exact
+Omar Alderete,2DF,Sunderland,1996-12-26,36,3,Omar Alderete,Sunderland Association Football Club,12000000.0,12.0,dob_exact
+Ramón Sosa,3MF,Palmeiras,1999-08-31,29,1,Ramón Sosa,Sociedade Esportiva Palmeiras,11000000.0,11.0,dob_exact
+Miguel Almirón,3MF,Atlanta United FC,1994-02-10,76,10,Miguel Almirón,Atlanta United Football Club,9000000.0,9.0,dob_exact
+Gustavo Gómez (captain),2DF,Palmeiras,1993-05-06,89,4,Gustavo Gómez,Sociedade Esportiva Palmeiras,8500000.0,8.5,dob_exact
+Júnior Alonso,2DF,Atlético Mineiro,1993-02-09,71,3,Júnior Alonso,Clube Atlético Mineiro,8000000.0,8.0,dob_exact
+Antonio Sanabria,4FW,Cremonese,1996-03-04,48,7,Antonio Sanabria,Unione Sportiva Cremonese S.p.A.,7000000.0,7.0,dob_exact
+Andrés Cubas,3MF,Vancouver Whitecaps FC,1996-05-11,33,0,Andrés Cubas,Vancouver Whitecaps FC,4500000.0,4.5,name(100.0%)
+Juan José Cáceres,2DF,Dynamo Moscow,2000-06-01,17,0,Juan José Cáceres,FK Dinamo Moskva,4000000.0,4.0,dob_exact
+Fabián Balbuena,2DF,Grêmio,1991-08-23,48,2,Fabián Balbuena,Grêmio Foot-Ball Porto Alegrense,1500000.0,1.5,dob_exact
+Gustavo Velázquez,2DF,Cerro Porteño,1991-04-17,13,1,,,0.0,0.0,unmatched
+Kaku,4FW,Al Ain,1995-01-11,33,6,,,0.0,0.0,unmatched
+Gastón Olveira,1GK,Olimpia,1993-04-21,1,0,,,0.0,0.0,unmatched
+Gatito Fernández,1GK,Cerro Porteño,1988-03-29,31,0,Roberto Fernández,,,,dob_exact
+Maurício,3MF,Palmeiras,2001-06-22,3,0,Mauricio,Sociedade Esportiva Palmeiras,,,dob_exact
+Orlando Gill,1GK,San Lorenzo,2000-06-11,6,0,Orlando Gill,Club Atlético San Lorenzo de Almagro,,,dob_exact
+José Canale,2DF,Lanús,1996-07-20,2,0,José Canale,Club Atlético Lanús,,,dob_exact
+Damián Bobadilla,3MF,São Paulo,2001-07-11,19,1,Damián Bobadilla,São Paulo Futebol Clube,,,dob_exact
+Álex Arce,4FW,Independiente Rivadavia,1995-06-16,15,1,Álex Arce,Club Sportivo Independiente Rivadavia,,,dob_exact
+Braian Ojeda,3MF,Orlando City SC,2000-06-27,17,0,Braian Ojeda,Orlando City Soccer Club,,,dob_exact
+Gabriel Ávalos,4FW,Independiente,1990-10-12,23,2,Gabriel Ávalos,Club Atlético Independiente de Avellaneda,,,dob_exact
+Matías Galarza,3MF,Atlanta United FC,2002-02-11,15,3,Matías Galarza,Atlanta United Football Club,,,dob_exact
+Gustavo Caballero,3MF,Portsmouth,2001-09-21,2,1,Gustavo Caballero,Santos Futebol Clube,,,dob_exact
+Isidro Pitta,4FW,Red Bull Bragantino,1999-08-14,5,0,Isidro Pitta,Red Bull Bragantino,,,dob_exact
+Alexandro Maidana,2DF,Talleres,2005-07-26,2,1,Alexandro Maidana,Club Atlético Talleres,,,dob_exact

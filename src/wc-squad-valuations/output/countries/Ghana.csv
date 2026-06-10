@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Antoine Semenyo,3MF,Manchester City,2000-01-07,34,3,Antoine Semenyo,Manchester City Football Club,65000000.0,65.0,dob+name(100.0%)
+Iñaki Williams,4FW,Athletic Bilbao,1994-06-15,26,2,Iñaki Williams,Athletic Club Bilbao,25000000.0,25.0,dob_exact
+Abdul Fatawu,4FW,Leicester City,2004-03-08,28,3,Abdul Fatawu,Leicester City,20000000.0,20.0,dob_exact
+Kamaldeen Sulemana,4FW,Atalanta,2002-02-15,28,1,Kamaldeen Sulemana,Atalanta Bergamasca Calcio S.p.a.,18000000.0,18.0,dob_exact
+Ernest Nuamah,4FW,Lyon,2003-11-01,18,4,Ernest Nuamah,Olympique Lyonnais,12000000.0,12.0,dob_exact
+Alidu Seidu,2DF,Rennes,2000-06-04,24,1,Alidu Seidu,Stade Rennais Football Club,6000000.0,6.0,dob_exact
+Thomas Partey,3MF,Villarreal,1993-06-13,57,15,Thomas Partey,Villarreal Club de Fútbol S.A.D.,5000000.0,5.0,dob_exact
+Augustine Boakye,3MF,Saint-Étienne,2000-11-03,0,0,Augustine Boakye,AS Saint-Étienne,4000000.0,4.0,dob_exact
+Christopher Bonsu Baah,4FW,Al-Qadsiah,2004-12-14,9,0,Christopher Bonsu Baah,Al-Qadsiah Saudi Football Club,3500000.0,3.5,dob_exact
+Gideon Mensah,2DF,Auxerre,1998-07-18,40,0,Gideon Mensah,Association de la Jeunesse auxerroise,3500000.0,3.5,dob_exact
+Prince Kwabena Adu,4FW,Viktoria Plzeň,2003-09-23,5,0,Prince Adu,"FC Viktoria Plzeň, a.s.",3500000.0,3.5,dob_exact
+Marvin Senaya,2DF,Auxerre,2001-01-28,2,0,Marvin Senaya,Association de la Jeunesse auxerroise,3000000.0,3.0,dob_exact
+Abdul Mumin,2DF,Rayo Vallecano,1998-06-06,5,0,Abdul Mumin,Rayo Vallecano de Madrid S. A. D.,2500000.0,2.5,dob_exact
+Elisha Owusu,3MF,Auxerre,1997-11-07,20,0,Elisha Owusu,Association de la Jeunesse auxerroise,2500000.0,2.5,dob_exact
+Jerome Opoku,2DF,İstanbul Başakşehir,1998-10-14,11,1,Jerome Opoku,İstanbul Başakşehir Futbol Kulübü,2000000.0,2.0,dob_exact
+Abdul Rahman Baba,2DF,PAOK,1994-07-02,51,1,Abdul Rahman Baba,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,2000000.0,2.0,dob_exact
+Jordan Ayew (captain),4FW,Leicester City,1991-09-11,120,34,Jordan Ayew,Leicester City,1800000.0,1.8,dob_exact
+Kwasi Sibo,3MF,Oviedo,1998-06-24,8,0,Kwasi Sibo,Real Oviedo S.A.D.,300000.0,0.3,dob_exact
+Joseph Anang,1GK,St Patrick's Athletic,2000-06-08,1,0,Joseph Anang,,300000.0,0.3,dob_exact
+Brandon Thomas-Asante,4FW,Coventry City,1998-12-29,8,1,,,0.0,0.0,unmatched
+Derrick Luckassen,2DF,Pafos,1995-07-03,1,0,,,0.0,0.0,unmatched
+Lawrence Ati-Zigi,1GK,St. Gallen,1996-11-29,29,0,Lawrence Ati Zigi,FC St. Gallen 1879,,,dob_exact
+Caleb Yirenkyi,3MF,Nordsjælland,2006-01-15,11,1,Caleb Yirenkyi,Fodbold Club Nordsjælland,,,dob+name(100.0%)
+Jonas Adjetey,2DF,VfL Wolfsburg,2003-12-13,10,0,Jonas Adjetey,Verein für Leibesübungen Wolfsburg,,,dob_exact
+Benjamin Asare,1GK,Hearts of Oak,1992-07-13,11,0,Benjamin Acquah,Fudbalski Klub Javor Matis Ivanjica,,,name(75.86206896551724%)
+Kojo Peprah Oppong,2DF,Nice,2004-06-04,4,0,Kojo Peprah Oppong,Olympique Gymnaste Club Nice Côte d'Azur,,,dob_exact

@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+İrfan Can Kahveci,4FW,Kasımpaşa,1995-07-15,47,6,Emircan Altintas,Alanyaspor,550000.0,0.55,dob_exact
+Can Uzun,4FW,Eintracht Frankfurt,2005-11-11,6,1,Emrecan Uzun,Adana Demirspor,100000.0,0.1,name(80.0%)
+Eren Elmalı,2DF,Galatasaray,2000-07-07,23,0,Mahmut Altinkaya,MKE Ankaragücü,50000.0,0.05,dob_exact
+İsmail Yüksek,3MF,Fenerbahçe,1999-01-26,32,1,Ismail Köse,Göztepe Sportif Yatırımlar A.Ş.,50000.0,0.05,name(80.0%)
+Yunus Akgün,4FW,Galatasaray,2000-07-07,19,4,Mahmut Altinkaya,MKE Ankaragücü,50000.0,0.05,dob_exact
+Kaan Ayhan,3MF,Galatasaray,1994-11-10,73,5,Alihan Kalkan,Denizlispor,25000.0,0.03,name(78.26086956521739%)
+Mert Günok,1GK,Fenerbahçe,1989-03-01,37,0,Mert Güney,Kardemir Karabükspor,25000.0,0.03,name(80.0%)
+Salih Özcan,3MF,Borussia Dortmund,1998-01-11,30,1,Furkan Yildirim,Trabzonspor Kulübü,10000.0,0.01,dob_exact
+Arda Güler,4FW,Real Madrid,2005-02-25,29,6,Baran Güler,Ankaraspor,10000.0,0.01,name(85.71428571428572%)
+Zeki Çelik,2DF,Roma,1997-02-17,61,3,,,0.0,0.0,unmatched
+Hakan Çalhanoğlu (captain),3MF,Inter Milan,1994-02-08,105,22,,,0.0,0.0,unmatched
+Deniz Gül,4FW,Porto,2004-07-02,8,2,,,0.0,0.0,unmatched
+Kerem Aktürkoğlu,4FW,Fenerbahçe,1998-10-21,52,15,,,0.0,0.0,unmatched
+Orkun Kökçü,3MF,Beşiktaş,2000-12-29,50,4,,,0.0,0.0,unmatched
+Merih Demiral,2DF,Al-Ahli,1998-03-05,62,6,,,0.0,0.0,unmatched
+Çağlar Söyüncü,2DF,Fenerbahçe,1996-05-23,60,2,,,0.0,0.0,unmatched
+Abdülkerim Bardakcı,2DF,Galatasaray,1994-09-07,27,2,,,0.0,0.0,unmatched
+Kenan Yıldız,4FW,Juventus,2005-05-04,28,5,,,0.0,0.0,unmatched
+Mert Müldür,2DF,Fenerbahçe,1999-04-03,45,3,,,0.0,0.0,unmatched
+Ozan Kabak,2DF,TSG Hoffenheim,2000-03-25,30,2,,,0.0,0.0,unmatched
+Altay Bayındır,1GK,Manchester United,1998-04-14,12,0,,,0.0,0.0,unmatched
+Ferdi Kadıoğlu,2DF,Brighton & Hove Albion,1999-10-07,30,2,,,0.0,0.0,unmatched
+Barış Alper Yılmaz,4FW,Galatasaray,2000-05-23,35,4,,,0.0,0.0,unmatched
+Uğurcan Çakır,1GK,Galatasaray,1996-04-05,39,0,,,0.0,0.0,unmatched
+Oğuz Aydın,4FW,Fenerbahçe,2000-10-27,11,0,,,0.0,0.0,unmatched
+Samet Akaydin,2DF,Çaykur Rizespor,1994-03-13,19,1,,,0.0,0.0,unmatched

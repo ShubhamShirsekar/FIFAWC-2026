@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Wilson Isidor,4FW,Sunderland,2000-08-27,4,2,Wilson Isidor,Sunderland Association Football Club,18000000.0,18.0,dob_exact
+Jean-Ricner Bellegarde,3MF,Wolverhampton Wanderers,1998-06-27,10,0,Jean-Ricner Bellegarde,Wolverhampton Wanderers Football Club,15000000.0,15.0,dob_exact
+Hannes Delcroix,2DF,Lugano,1999-02-28,7,0,Hannes Delcroix,FC Lugano,4000000.0,4.0,dob_exact
+Josué Casimir,4FW,Auxerre,2001-09-24,7,0,Josué Casimir,Association de la Jeunesse auxerroise,3500000.0,3.5,dob_exact
+Jean-Kévin Duverne,2DF,Gent,1997-07-12,17,1,Jean-Kévin Duverne,Koninklijke Atletiek Associatie Gent,3500000.0,3.5,dob_exact
+Frantzdy Pierrot,4FW,Çaykur Rizespor,1995-03-29,51,34,Frantzdy Pierrot,Çaykur Rizespor Kulübü,3000000.0,3.0,dob_exact
+Danley Jean Jacques,3MF,Philadelphia Union,2000-05-20,30,6,Danley Jean Jacques,Philadelphia Union,2000000.0,2.0,dob_exact
+Duckens Nazon,4FW,Esteghlal,1994-04-07,78,44,Duckens Nazon,Kayserispor Kulübü,1600000.0,1.6,dob_exact
+Louicius Deedson,4FW,FC Dallas,2001-02-11,32,10,Louicius Deedson,FC Dallas,1200000.0,1.2,dob_exact
+Carlens Arcus,2DF,Angers,1996-06-28,53,1,Carlens Arcus,Angers Sporting Club de l'Ouest,700000.0,0.7,dob_exact
+Ruben Providence,4FW,Almere City,2001-07-07,15,3,Ruben Providence,Turn- und Sportverein Egger Glas Hartberg,300000.0,0.3,dob_exact
+Johny Placide (captain),1GK,Bastia,1988-01-29,81,0,Johny Placide,EA Guingamp,250000.0,0.25,dob_exact
+Alexandre Pierre,1GK,Sochaux,2001-02-25,15,0,Alexandre Pierre,Racing Club de Strasbourg Alsace,100000.0,0.1,dob_exact
+Carl Sainté,3MF,El Paso Locomotive FC,2002-08-09,26,0,,,0.0,0.0,unmatched
+Keeto Thermoncy,2DF,Young Boys,2006-03-29,1,0,,,0.0,0.0,unmatched
+Ricardo Adé,2DF,LDU Quito,1990-05-21,59,2,,,0.0,0.0,unmatched
+Martin Expérience,2DF,Nancy,1999-03-09,21,0,,,0.0,0.0,unmatched
+Lenny Joseph,4FW,Ferencváros,2000-10-12,2,1,,,0.0,0.0,unmatched
+Duke Lacroix,2DF,Colorado Springs Switchbacks FC,1993-10-14,16,3,,,0.0,0.0,unmatched
+Leverton Pierre,3MF,Vizela,1998-03-09,33,0,,,0.0,0.0,unmatched
+Yassin Fortuné,4FW,Vizela,1999-01-30,4,0,,,0.0,0.0,unmatched
+Josué Duverger,1GK,Cosmos Koblenz,2000-04-27,6,0,,,0.0,0.0,unmatched
+Dominique Simon,3MF,Tatran Prešov,2000-07-29,2,0,,,0.0,0.0,unmatched
+Woodensky Pierre,3MF,Violette,2004-12-30,1,0,,,0.0,0.0,unmatched
+Derrick Etienne Jr.,4FW,Toronto FC,1996-11-25,48,8,Derrick Etienne Jr.,Toronto FC,,,dob_exact
+Wilguens Paugain,2DF,Zulte Waregem,2001-08-24,8,0,Wilguens Paugain,Sportvereniging Zulte Waregem,,,dob_exact

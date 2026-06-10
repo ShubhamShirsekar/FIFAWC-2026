@@ -1,0 +1,26 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Enzo Fernández,3MF,Chelsea,2001-01-17,42,6,Enzo Fernández,Chelsea Football Club,85000000.0,85.0,dob+name(100.0%)
+Lautaro Martínez,4FW,Inter Milan,1997-08-22,77,37,Lautaro Martínez,Football Club Internazionale Milano S.p.A.,85000000.0,85.0,dob_exact
+Alexis Mac Allister,3MF,Liverpool,1998-12-24,46,6,Alexis Mac Allister,Liverpool Football Club,85000000.0,85.0,dob_exact
+Nico Paz,4FW,Como,2004-09-08,9,1,Nico Paz,Calcio Como,65000000.0,65.0,dob_exact
+Cristian Romero,2DF,Tottenham Hotspur,1998-04-27,51,3,Cristian Romero,Tottenham Hotspur Football Club,60000000.0,60.0,dob_exact
+Lisandro Martínez,2DF,Manchester United,1998-01-18,28,1,Lisandro Martínez,Manchester United Football Club,50000000.0,50.0,dob_exact
+Giuliano Simeone,4FW,Atlético Madrid,2002-12-18,13,2,Giuliano Simeone,Club Atlético de Madrid S.A.D.,40000000.0,40.0,dob_exact
+Nicolás González,3MF,Atlético Madrid,1998-04-06,51,6,Nico González,Club Atlético de Madrid S.A.D.,35000000.0,35.0,dob+name(89.65517241379311%)
+Lionel Messi (captain),4FW,Inter Miami CF,1987-06-24,199,117,Lionel Messi,Club Internacional de Fútbol Miami,35000000.0,35.0,dob+name(70.58823529411764%)
+Exequiel Palacios,3MF,Bayer Leverkusen,1998-10-05,40,0,Exequiel Palacios,Bayer 04 Leverkusen Fußball,30000000.0,30.0,dob_exact
+Thiago Almada,4FW,Atlético Madrid,2001-04-26,16,5,Thiago Almada,Club Atlético de Madrid S.A.D.,20000000.0,20.0,dob+name(100.0%)
+Facundo Medina,2DF,Marseille,1999-05-28,9,0,Facundo Medina,Olympique de Marseille,20000000.0,20.0,dob_exact
+Giovani Lo Celso,3MF,Real Betis,1996-04-09,67,4,Giovani Lo Celso,Real Betis Balompié S.A.D.,16000000.0,16.0,dob+name(100.0%)
+Nahuel Molina,2DF,Atlético Madrid,1998-04-06,58,1,Nahuel Molina,Club Atlético de Madrid S.A.D.,15000000.0,15.0,dob+name(100.0%)
+Rodrigo De Paul,3MF,Inter Miami CF,1994-05-24,87,2,Rodrigo De Paul,Club Internacional de Fútbol Miami,15000000.0,15.0,dob_exact
+Emiliano Martínez,1GK,Aston Villa,1992-09-02,59,0,Emiliano Martínez,Aston Villa Football Club,15000000.0,15.0,dob+name(100.0%)
+Valentín Barco,3MF,Strasbourg,2004-07-23,4,2,Valentín Barco,Racing Club de Strasbourg Alsace,13000000.0,13.0,dob+name(100.0%)
+Gerónimo Rulli,1GK,Marseille,1992-05-20,8,0,Gerónimo Rulli,Olympique de Marseille,9000000.0,9.0,dob_exact
+Nicolás Tagliafico,2DF,Lyon,1992-08-31,76,1,Nicolás Tagliafico,Olympique Lyonnais,8000000.0,8.0,dob_exact
+Juan Musso,1GK,Atlético Madrid,1994-05-06,4,0,Juan Musso,Club Atlético de Madrid S.A.D.,5000000.0,5.0,dob_exact
+Leandro Paredes,3MF,Boca Juniors,1994-06-29,77,5,Leandro Paredes,Club Atlético Boca Juniors,5000000.0,5.0,dob+name(100.0%)
+Gonzalo Montiel,2DF,River Plate,1997-01-01,39,2,Gonzalo Montiel,Club Atlético River Plate,4500000.0,4.5,dob_exact
+Nicolás Otamendi,2DF,Benfica,1988-02-12,132,8,Nicolás Otamendi,Sport Lisboa e Benfica,1000000.0,1.0,dob_exact
+Julián Alvarez,4FW,Atlético Madrid,2000-01-31,51,14,,,0.0,0.0,unmatched
+José Manuel López,4FW,Palmeiras,2000-12-06,5,0,José Manuel López,Sociedade Esportiva Palmeiras,,,dob+name(100.0%)

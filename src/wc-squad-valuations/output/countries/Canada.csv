@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Alphonso Davies (captain),2DF,Bayern Munich,2000-11-02,58,15,Alphonso Davies,FC Bayern München,50000000.0,50.0,dob_exact
+Jonathan David,4FW,Juventus,2000-01-14,77,39,Jonathan David,Juventus Football Club,35000000.0,35.0,dob_exact
+Ismaël Koné,3MF,Sassuolo,2002-06-16,40,4,Ismaël Koné,Unione Sportiva Sassuolo Calcio,14000000.0,14.0,dob_exact
+Promise David,4FW,Union Saint-Gilloise,2001-07-03,10,3,Promise David,Royale Union Saint-Gilloise,13000000.0,13.0,dob_exact
+Stephen Eustáquio,3MF,Los Angeles FC,1996-12-21,56,4,Stephen Eustaquio,Los Angeles Football Club,11000000.0,11.0,dob_exact
+Alistair Johnston,2DF,Celtic,1998-10-08,58,1,Alistair Johnston,The Celtic Football Club,8000000.0,8.0,dob_exact
+Tajon Buchanan,4FW,Villarreal,1999-02-08,60,8,Tajon Buchanan,Villarreal Club de Fútbol S.A.D.,8000000.0,8.0,dob_exact
+Moïse Bombito,2DF,Nice,2000-03-30,20,0,Moïse Bombito,Olympique Gymnaste Club Nice Côte d'Azur,8000000.0,8.0,dob_exact
+Derek Cornelius,2DF,Rangers,1997-11-25,44,1,Derek Cornelius,Olympique de Marseille,4000000.0,4.0,dob_exact
+Cyle Larin,4FW,Southampton,1995-04-17,90,30,Cyle Larin,Real Club Deportivo Mallorca S.A.D.,3500000.0,3.5,dob_exact
+Alfie Jones,2DF,Middlesbrough,1997-10-07,2,0,Alfie Jones,Middlesbrough FC,2500000.0,2.5,dob_exact
+Liam Millar,3MF,Hull City,1999-09-27,41,1,Liam Millar,Kilmarnock Football Club,1700000.0,1.7,dob_exact
+Luc de Fougerolles,2DF,Dender,2005-10-12,13,0,Luc De Fougerolles,FC Verbroedering Denderhoutem Denderleeuw Eendracht Hekelgem,300000.0,0.3,dob_exact
+Owen Goodman,1GK,Barnsley,2003-11-27,0,0,Owen Goodman,,150000.0,0.15,dob_exact
+Ali Ahmed,4FW,Norwich City,2000-10-10,24,1,,,0.0,0.0,unmatched
+Dayne St. Clair,1GK,Inter Miami CF,1997-05-09,20,0,Dayne St. Clair,Club Internacional de Fútbol Miami,,,dob_exact
+Joel Waterman,2DF,Chicago Fire FC,1996-01-24,17,0,Joel Waterman,Chicago Fire Soccer Club,,,dob_exact
+Mathieu Choinière,3MF,Los Angeles FC,1999-02-07,23,0,Mathieu Choinière,Los Angeles Football Club,,,dob_exact
+Tani Oluwaseyi,4FW,Villarreal,2000-05-15,24,2,Tani Oluwaseyi,Villarreal Club de Fútbol S.A.D.,,,dob_exact
+Jacob Shaffelburg,3MF,Los Angeles FC,1999-11-26,31,6,Jacob Shaffelburg,Los Angeles Football Club,,,dob_exact
+Maxime Crépeau,1GK,Orlando City SC,1994-05-11,32,0,Maxime Crépeau,Orlando City Soccer Club,,,dob_exact
+Jonathan Osorio,3MF,Toronto FC,1992-06-12,90,10,Jonathan Osorio,Toronto FC,,,dob_exact
+Richie Laryea,2DF,Toronto FC,1995-01-07,75,1,Richie Laryea,Toronto FC,,,dob_exact
+Niko Sigur,2DF,Hajduk Split,2003-09-09,19,2,Niko Sigur,HNK Hajduk Split,,,dob_exact
+Nathan Saliba,3MF,Anderlecht,2004-02-07,15,2,Nathan-Dylan Saliba,Royal Sporting Club Anderlecht,,,dob_exact
+Jayden Nelson,3MF,Austin FC,2002-02-07,14,3,Jayden Nelson,Austin FC,,,name(100.0%)

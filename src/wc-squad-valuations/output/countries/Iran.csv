@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Mohammad Mohebi,3MF,Rostov,1998-12-20,36,14,Mohammad Mohebi,FK Rostov,3500000.0,3.5,dob_exact
+Alireza Jahanbakhsh,3MF,Dender,1993-08-11,98,17,Alireza Jahanbakhsh,FC Verbroedering Denderhoutem Denderleeuw Eendracht Hekelgem,3000000.0,3.0,dob_exact
+Mehdi Taremi,4FW,Olympiacos,1992-07-18,105,60,Mehdi Taremi,Olympiakos Syndesmos Filathlon Peiraios,2500000.0,2.5,dob_exact
+Mehdi Torabi,3MF,Tractor,1994-09-10,52,7,Mehdi Taremi,Olympiakos Syndesmos Filathlon Peiraios,2500000.0,2.5,name(75.0%)
+Saman Ghoddos,3MF,Kalba,1993-09-06,68,3,Saman Ghoddos,Brentford Football Club,2000000.0,2.0,dob_exact
+Dennis Eckert,4FW,Standard Liège,1997-01-09,0,0,Dennis Eckert Ayensa,Royal Standard Club de Liège,2000000.0,2.0,dob_exact
+Milad Mohammadi,2DF,Persepolis,1993-09-29,76,1,Milad Mohammadi,Adana Demirspor,1300000.0,1.3,dob+name(100.0%)
+Alireza Beiranvand,1GK,Tractor,1992-09-21,86,0,Alireza Beiranvand,Boavista FC,1200000.0,1.2,dob_exact
+Ali Alipour,4FW,Persepolis,1995-11-11,14,1,Ali Alipour,,1000000.0,1.0,dob_exact
+Shahriyar Moghanlou,4FW,Kalba,1994-12-21,21,2,Shahriar Moghanlou,Clube Desportivo Santa Clara,900000.0,0.9,dob_exact
+Saeid Ezatolahi,3MF,Shabab Al Ahli,1996-10-01,83,2,Saeid Ezatolahi,Vejle Boldklub,900000.0,0.9,dob_exact
+Mohammad Ghorbani,3MF,Al Wahda,2001-10-07,16,0,Mohammad Ghorbani,FC Orenburg,800000.0,0.8,name(100.0%)
+Payam Niazmand,1GK,Persepolis,1995-04-06,15,0,Payam Niazmand,Portimonense SC,750000.0,0.75,dob_exact
+Hossein Hosseini,1GK,Sepahan,1992-06-30,13,0,Amirhossein Hosseinzadeh,,700000.0,0.7,name(75.0%)
+Amirhossein Hosseinzadeh,4FW,Tractor,2000-10-30,18,5,Amirhossein Hosseinzadeh,,700000.0,0.7,dob_exact
+Ramin Rezaeian,2DF,Foolad,1990-03-21,74,8,Ramin Rezaeian,,450000.0,0.45,dob_exact
+Ehsan Hajsafi (captain),2DF,Sepahan,1990-02-25,146,7,Ehsan Hajsafi,Athlitiki Enosi Konstantinoupoleos,275000.0,0.28,dob_exact
+Saleh Hardani,2DF,Esteghlal,1998-12-26,18,1,,,0.0,0.0,unmatched
+Shojae Khalilzadeh,2DF,Tractor,1989-05-14,58,2,,,0.0,0.0,unmatched
+Hossein Kanaanizadegan,2DF,Persepolis,1994-03-23,65,6,,,0.0,0.0,unmatched
+Rouzbeh Cheshmi,3MF,Esteghlal,1993-07-24,40,3,,,0.0,0.0,unmatched
+Aria Yousefi,2DF,Sepahan,2002-04-22,14,1,,,0.0,0.0,unmatched
+Ali Nemati,2DF,Foolad,1996-02-08,17,0,,,0.0,0.0,unmatched
+Danial Eiri,2DF,Malavan,2003-10-26,0,0,,,0.0,0.0,unmatched
+Amirmohammad Razzaghinia,3MF,Esteghlal,2006-04-11,4,0,,,0.0,0.0,unmatched
+Mehdi Ghayedi,4FW,Al Nasr,1998-12-05,30,10,Mehdi Ghayedi,,,,dob_exact

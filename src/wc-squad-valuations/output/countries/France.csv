@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Kylian Mbappé (captain),4FW,Real Madrid,1998-12-20,98,56,Kylian Mbappé,Real Madrid Club de Fútbol,180000000.0,180.0,dob_exact
+Michael Olise,4FW,Bayern Munich,2001-12-12,17,7,Michael Olise,FC Bayern München,130000000.0,130.0,dob_exact
+Aurélien Tchouaméni,3MF,Real Madrid,2000-01-27,46,3,Aurélien Tchouaméni,Real Madrid Club de Fútbol,100000000.0,100.0,dob_exact
+Ousmane Dembélé,4FW,Paris Saint-Germain,1997-05-15,59,7,Ousmane Dembélé,Paris Saint-Germain Football Club,100000000.0,100.0,dob_exact
+William Saliba,2DF,Arsenal,2001-03-24,32,0,William Saliba,Arsenal Football Club,90000000.0,90.0,dob_exact
+Désiré Doué,4FW,Paris Saint-Germain,2005-06-03,7,2,Désiré Doué,Paris Saint-Germain Football Club,90000000.0,90.0,dob_exact
+Bradley Barcola,4FW,Paris Saint-Germain,2002-09-02,20,3,Bradley Barcola,Paris Saint-Germain Football Club,70000000.0,70.0,dob_exact
+Dayot Upamecano,2DF,Bayern Munich,1998-10-27,38,2,Dayot Upamecano,FC Bayern München,70000000.0,70.0,dob_exact
+Marcus Thuram,4FW,Inter Milan,1997-08-06,34,3,Marcus Thuram,Football Club Internazionale Milano S.p.A.,60000000.0,60.0,dob_exact
+Théo Hernandez,2DF,Al-Hilal,1997-10-06,44,2,Theo Hernández,Al-Hilal Saudi Football Club,60000000.0,60.0,dob_exact
+Manu Koné,3MF,Roma,2001-05-17,14,0,Manu Koné,Associazione Sportiva Roma,50000000.0,50.0,dob_exact
+Rayan Cherki,3MF,Manchester City,2003-08-17,7,2,Rayan Cherki,Manchester City Football Club,50000000.0,50.0,dob_exact
+Warren Zaïre-Emery,3MF,Paris Saint-Germain,2006-03-08,11,1,Warren Zaïre-Emery,Paris Saint-Germain Football Club,50000000.0,50.0,dob_exact
+Jules Koundé,2DF,Barcelona,1998-11-12,48,0,Jules Koundé,Futbol Club Barcelona,45000000.0,45.0,dob_exact
+Maghnes Akliouche,3MF,Monaco,2002-02-25,9,1,Maghnes Akliouche,Association sportive de Monaco Football Club,45000000.0,45.0,dob_exact
+Ibrahima Konaté,2DF,Liverpool,1999-05-25,28,0,Ibrahima Konaté,Liverpool Football Club,45000000.0,45.0,dob_exact
+Jean-Philippe Mateta,4FW,Crystal Palace,1997-06-28,4,2,Jean-Philippe Mateta,Crystal Palace Football Club,40000000.0,40.0,dob_exact
+Mike Maignan,1GK,Milan,1995-07-03,40,0,Mike Maignan,Associazione Calcio Milan,38000000.0,38.0,dob+name(100.0%)
+Malo Gusto,2DF,Chelsea,2003-05-19,11,0,Malo Gusto,Chelsea Football Club,35000000.0,35.0,dob_exact
+Maxence Lacroix,2DF,Crystal Palace,2000-04-06,4,0,Maxence Lacroix,Crystal Palace Football Club,35000000.0,35.0,dob_exact
+Lucas Hernandez,2DF,Paris Saint-Germain,1996-02-14,42,0,Lucas Hernández,Paris Saint-Germain Football Club,20000000.0,20.0,dob_exact
+Adrien Rabiot,3MF,Milan,1995-04-03,59,7,Adrien Rabiot,Associazione Calcio Milan,20000000.0,20.0,dob+name(100.0%)
+N'Golo Kanté,3MF,Fenerbahçe,1991-03-29,69,2,N'Golo Kanté,Fenerbahçe Spor Kulübü,12000000.0,12.0,dob_exact
+Brice Samba,1GK,Rennes,1994-04-25,4,0,Brice Samba,Stade Rennais Football Club,10000000.0,10.0,dob+name(100.0%)
+Robin Risser,1GK,Lens,2004-12-02,0,0,Robin Risser,Racing Club de Lens,10000000.0,10.0,dob_exact
+Lucas Digne,2DF,Aston Villa,1993-07-20,58,0,Lucas Digne,Aston Villa Football Club,8000000.0,8.0,dob_exact

@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Lamine Yamal,4FW,Barcelona,2007-07-13,25,6,Lamine Yamal,Futbol Club Barcelona,120000000.0,120.0,dob_exact
+Pedri,3MF,Barcelona,2002-11-25,41,6,Pedri,Futbol Club Barcelona,80000000.0,80.0,dob+name(100.0%)
+Dani Olmo,4FW,Barcelona,1998-05-07,50,12,Dani Olmo,Futbol Club Barcelona,60000000.0,60.0,dob_exact
+Nico Williams,4FW,Athletic Bilbao,2002-07-12,30,6,Nico Williams,Athletic Club Bilbao,60000000.0,60.0,dob_exact
+Marc Cucurella,2DF,Chelsea,1998-07-22,24,1,Marc Cucurella,Chelsea Football Club,50000000.0,50.0,dob_exact
+Martín Zubimendi,3MF,Arsenal,1999-02-02,26,3,Martín Zubimendi,Arsenal Football Club,50000000.0,50.0,dob_exact
+Álex Baena,3MF,Atlético Madrid,2001-07-20,17,2,Álex Baena,Club Atlético de Madrid S.A.D.,40000000.0,40.0,dob_exact
+Gavi,3MF,Barcelona,2004-08-05,30,5,Gavi,Futbol Club Barcelona,40000000.0,40.0,dob_exact
+Fabián Ruiz,3MF,Paris Saint-Germain,1996-04-03,42,6,Fabián Ruiz,Paris Saint-Germain Football Club,40000000.0,40.0,dob_exact
+Pedro Porro,2DF,Tottenham Hotspur,1999-09-13,18,0,Pedro Porro,Tottenham Hotspur Football Club,40000000.0,40.0,dob+name(100.0%)
+David Raya,1GK,Arsenal,1995-09-15,13,0,David Raya,Arsenal Football Club,35000000.0,35.0,dob_exact
+Unai Simón,1GK,Athletic Bilbao,1997-06-11,58,0,Unai Simón,Athletic Club Bilbao,30000000.0,30.0,dob_exact
+Pau Cubarsí,2DF,Barcelona,2007-01-22,12,0,Pau Cubarsí,Futbol Club Barcelona,30000000.0,30.0,dob_exact
+Ferran Torres,4FW,Barcelona,2000-02-29,57,24,Ferran Torres,Futbol Club Barcelona,30000000.0,30.0,dob_exact
+Mikel Merino,3MF,Arsenal,1996-06-22,43,10,Mikel Merino,Arsenal Football Club,30000000.0,30.0,dob+name(100.0%)
+Yéremy Pino,4FW,Crystal Palace,2002-10-20,23,4,Yéremy Pino,Crystal Palace Football Club,30000000.0,30.0,dob_exact
+Joan Garcia,1GK,Barcelona,2001-05-04,2,0,Joan García,Futbol Club Barcelona,30000000.0,30.0,dob_exact
+Mikel Oyarzabal,4FW,Real Sociedad,1997-04-21,53,25,Mikel Oyarzabal,Real Sociedad de Fútbol S.A.D.,25000000.0,25.0,dob_exact
+Álex Grimaldo,2DF,Bayer Leverkusen,1995-09-20,14,0,Alejandro Grimaldo,Bayer 04 Leverkusen Fußball,24000000.0,24.0,dob_exact
+Marcos Llorente,2DF,Atlético Madrid,1995-01-30,24,0,Marcos Llorente,Club Atlético de Madrid S.A.D.,22000000.0,22.0,dob+name(100.0%)
+Eric García,2DF,Barcelona,2001-01-09,21,0,Eric García,Futbol Club Barcelona,20000000.0,20.0,dob+name(100.0%)
+Aymeric Laporte,2DF,Athletic Bilbao,1994-05-27,46,2,Aymeric Laporte,Athletic Club Bilbao,20000000.0,20.0,dob_exact
+Borja Iglesias,4FW,Celta Vigo,1993-01-17,8,0,Borja Iglesias,Real Club Celta de Vigo S. A. D.,5000000.0,5.0,dob_exact
+Marc Pubill,2DF,Atlético Madrid,2003-06-20,2,0,Marc Pubill,Club Atlético de Madrid S.A.D.,4000000.0,4.0,dob_exact
+Rodri (captain),3MF,Manchester City,1996-06-22,62,4,,,0.0,0.0,unmatched
+Víctor Muñoz,4FW,Osasuna,2003-07-13,2,1,Víctor Muñoz,Club Atlético Osasuna,,,dob_exact

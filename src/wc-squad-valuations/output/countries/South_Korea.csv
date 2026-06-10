@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Kim Min-jae,2DF,Bayern Munich,1996-11-15,79,4,Min-jae Kim,FC Bayern München,25000000.0,25.0,dob_exact
+Lee Kang-in,3MF,Paris Saint-Germain,2001-02-19,47,11,Kang-in Lee,Paris Saint-Germain Football Club,25000000.0,25.0,dob_exact
+Son Heung-min (captain),4FW,Los Angeles FC,1992-07-08,144,56,Heung-min Son,Los Angeles Football Club,17000000.0,17.0,dob_exact
+Hwang Hee-chan,3MF,Wolverhampton Wanderers,1996-01-26,79,17,Hee-chan Hwang,Wolverhampton Wanderers Football Club,10000000.0,10.0,dob_exact
+Cho Gue-sung,4FW,Midtjylland,1998-01-25,44,12,Gue-sung Cho,Fodbold Club Midtjylland,4500000.0,4.5,dob_exact
+Hwang In-beom,3MF,Feyenoord,1996-09-20,73,6,In-beom Hwang,Feyenoord Rotterdam,4500000.0,4.5,dob_exact
+Yang Hyun-jun,3MF,Celtic,2002-05-25,9,0,Hyun-jun Yang,The Celtic Football Club,2000000.0,2.0,dob_exact
+Lee Jae-sung,3MF,Mainz 05,1992-08-10,105,15,Jae-sung Lee,1. Fußball- und Sportverein Mainz 05,2000000.0,2.0,dob_exact
+Lee Han-beom,2DF,Midtjylland,2002-06-17,8,0,Han-beom Lee,Fodbold Club Midtjylland,1800000.0,1.8,dob_exact
+Oh Hyeon-gyu,4FW,Beşiktaş,2001-04-12,27,6,Hyeon-gyu Oh,Beşiktaş Jimnastik Kulübü,1800000.0,1.8,dob+name(100.0%)
+Jens Castrop,2DF,Borussia Mönchengladbach,2003-07-29,7,0,Jens Castrop,Borussia Verein für Leibesübungen 1900 Mönchengladbach,1500000.0,1.5,dob_exact
+Paik Seung-ho,3MF,Birmingham City,1997-03-17,27,3,Seung-ho Paik,,900000.0,0.9,dob+name(100.0%)
+Kim Seung-gyu,1GK,FC Tokyo,1990-09-30,87,0,Seung-gyu Kim,Tokyo Football Club,,,dob_exact
+Lee Gi-hyuk,3MF,Gangwon FC,2000-07-07,3,0,Gi-hyuk Lee,Gangwon Football Club,,,dob_exact
+Kim Tae-hyeon,2DF,Kashima Antlers,2000-09-17,7,0,Tae-hyeon Kim,Kashima Antlers FC,,,dob_exact
+Song Bum-keun,1GK,Jeonbuk Hyundai Motors,1997-10-15,3,0,Bum-keun Song,Jeonbuk Hyundai Motors,,,dob_exact
+Lee Tae-seok,2DF,Austria Wien,2002-07-28,15,1,Tae-seok Lee,Fußballklub Austria Wien,,,dob_exact
+Cho Wi-je,2DF,Jeonbuk Hyundai Motors,2001-08-25,1,0,Wi-je Cho,Jeonbuk Hyundai Motors,,,dob_exact
+Kim Moon-hwan,2DF,Daejeon Hana Citizen,1995-08-01,35,0,Moon-hwan Kim,Foundation Coorperation Hana Financial Group Inc. Football Club,,,dob_exact
+Park Jin-seob,2DF,Zhejiang,1995-10-23,14,1,Jin-seob Park,,,,dob_exact
+Bae Jun-ho,3MF,Stoke City,2003-08-21,13,2,Jun-ho Bae,Stoke City,,,dob_exact
+Jo Hyeon-woo,1GK,Ulsan HD,1991-09-25,48,0,Hyeon-woo Jo,Ulsan Hyundai Football Club,,,dob_exact
+Seol Young-woo,2DF,Red Star Belgrade,1998-12-05,34,0,Young-woo Seol,Fudbalski klub Crvena zvezda Beograd,,,dob_exact
+Kim Jin-gyu,3MF,Jeonbuk Hyundai Motors,1997-02-24,22,3,Jin-gyu Kim,Jeonbuk Hyundai Motors,,,dob_exact
+Eom Ji-sung,3MF,Swansea City,2002-05-09,9,2,Ji-sung Eom,Swansea City,,,dob_exact
+Lee Dong-gyeong,3MF,Ulsan HD,1997-09-20,18,4,Dong-gyeong Lee,Ulsan Hyundai Football Club,,,dob_exact

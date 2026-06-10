@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Lyle Foster,4FW,Burnley,2000-09-03,26,10,Lyle Foster,Burnley Football Club,13000000.0,13.0,dob_exact
+Sphephelo Sithole,3MF,Tondela,1999-03-03,27,1,Yaya Sithole,Clube Desportivo de Tondela,600000.0,0.6,dob_exact
+Themba Zwane,3MF,Mamelodi Sundowns,1989-08-03,53,12,,,0.0,0.0,unmatched
+Thapelo Maseko,4FW,AEL Limassol,2003-11-11,9,1,,,0.0,0.0,unmatched
+Ime Okon,2DF,Hannover 96,2004-02-20,7,1,,,0.0,0.0,unmatched
+Bradley Cross,2DF,Kaizer Chiefs,2001-01-30,0,0,,,0.0,0.0,unmatched
+Ronwen Williams (captain),1GK,Mamelodi Sundowns,1992-01-21,62,0,Ronwen Williams,,,,dob_exact
+Thabang Matuludi,2DF,Polokwane City,1999-01-14,2,0,Thabang Matuludi,,,,dob_exact
+Khulumani Ndamane,2DF,Mamelodi Sundowns,2004-02-05,5,0,Khulumani Ndamane,,,,dob_exact
+Teboho Mokoena,3MF,Mamelodi Sundowns,1997-01-24,51,9,Teboho Mokoena,,,,dob_exact
+Thalente Mbatha,3MF,Orlando Pirates,2000-03-06,14,3,Thalente Mbatha,,,,dob_exact
+Aubrey Modiba,2DF,Mamelodi Sundowns,1995-07-22,44,3,Aubrey Modiba,,,,dob_exact
+Oswin Appollis,4FW,Orlando Pirates,2001-08-25,25,8,Oswin Appollis,,,,dob_exact
+Tshepang Moremi,4FW,Orlando Pirates,2000-10-02,9,1,Tshepang Moremi,,,,dob_exact
+Relebohile Mofokeng,4FW,Orlando Pirates,2004-10-23,12,0,Relebohile Mofokeng,,,,dob_exact
+Mbekezeli Mbokazi,2DF,Chicago Fire FC,2005-09-19,10,1,Mbekezeli Mbokazi,Chicago Fire Soccer Club,,,dob_exact
+Iqraam Rayners,4FW,Mamelodi Sundowns,1995-12-19,13,4,Iqraam Rayners,,,,dob_exact
+Sipho Chaine,1GK,Orlando Pirates,1996-12-14,3,0,Sipho Chaine,,,,dob_exact
+Evidence Makgopa,4FW,Orlando Pirates,2000-06-05,26,6,Evidence Makgopa,,,,dob_exact
+Samukele Kabini,2DF,Molde,2004-03-15,5,0,Samukele Kabini,Molde Fotballklubb,,,dob_exact
+Nkosinathi Sibisi,2DF,Orlando Pirates,1995-09-22,19,0,Nkosinathi Sibisi,,,,dob_exact
+Khuliso Mudau,2DF,Mamelodi Sundowns,1995-04-26,32,1,Khuliso Mudau,,,,dob_exact
+Ricardo Goss,1GK,Siwelele,1994-04-02,4,0,Ricardo Goss,,,,dob_exact
+Jayden Adams,3MF,Mamelodi Sundowns,2001-05-05,4,0,Jayden Adams,,,,dob+name(100.0%)
+Olwethu Makhanya,2DF,Philadelphia Union,2004-04-30,0,0,Olwethu Makhanya,Philadelphia Union,,,dob+name(100.0%)
+Kamogelo Sebelebele,4FW,Orlando Pirates,2002-07-21,2,0,Kamogelo Sebelebele,,,,dob_exact

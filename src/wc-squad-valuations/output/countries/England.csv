@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Jude Bellingham,3MF,Real Madrid,2003-06-29,47,6,Jude Bellingham,Real Madrid Club de Fútbol,160000000.0,160.0,dob_exact
+Bukayo Saka,4FW,Arsenal,2001-09-05,48,14,Bukayo Saka,Arsenal Football Club,130000000.0,130.0,dob_exact
+Declan Rice,3MF,Arsenal,1999-01-14,72,6,Declan Rice,Arsenal Football Club,120000000.0,120.0,dob_exact
+Morgan Rogers,3MF,Aston Villa,2002-07-26,14,1,Morgan Rogers,Aston Villa Football Club,70000000.0,70.0,dob_exact
+Eberechi Eze,3MF,Arsenal,1998-06-29,16,3,Eberechi Eze,Arsenal Football Club,65000000.0,65.0,dob+name(100.0%)
+Harry Kane (captain),4FW,Bayern Munich,1993-07-28,113,79,Harry Kane,FC Bayern München,65000000.0,65.0,dob+name(66.66666666666667%)
+Elliot Anderson,3MF,Nottingham Forest,2002-11-06,8,0,Elliot Anderson,Nottingham Forest Football Club,60000000.0,60.0,dob_exact
+Anthony Gordon,4FW,Newcastle United,2001-02-24,18,2,Anthony Gordon,Newcastle United Football Club,60000000.0,60.0,dob+name(100.0%)
+Marc Guéhi,2DF,Manchester City,2000-07-13,28,1,Marc Guéhi,Manchester City Football Club,55000000.0,55.0,dob+name(100.0%)
+Noni Madueke,4FW,Arsenal,2002-03-10,10,1,Noni Madueke,Arsenal Football Club,50000000.0,50.0,dob_exact
+Reece James,2DF,Chelsea,1999-12-08,23,1,Reece James,Chelsea Football Club,50000000.0,50.0,dob+name(100.0%)
+Ivan Toney,4FW,Al-Ahli,1996-03-16,8,1,Ivan Toney,Al-Ahli Saudi Football Club,50000000.0,50.0,dob_exact
+Marcus Rashford,4FW,Barcelona,1997-10-31,71,18,Marcus Rashford,Futbol Club Barcelona,40000000.0,40.0,dob_exact
+Nico O'Reilly,2DF,Manchester City,2005-03-21,4,0,Nico O'Reilly,Manchester City Football Club,40000000.0,40.0,dob_exact
+Jarell Quansah,2DF,Bayer Leverkusen,2003-01-29,2,0,Jarell Quansah,Bayer 04 Leverkusen Fußball,40000000.0,40.0,dob_exact
+Kobbie Mainoo,3MF,Manchester United,2005-04-19,13,0,Kobbie Mainoo,Manchester United Football Club,40000000.0,40.0,dob_exact
+Tino Livramento,2DF,Newcastle United,2002-11-12,6,0,Tino Livramento,Newcastle United Football Club,40000000.0,40.0,dob_exact
+Ezri Konsa,2DF,Aston Villa,1997-10-23,19,1,Ezri Konsa,Aston Villa Football Club,35000000.0,35.0,dob_exact
+Ollie Watkins,4FW,Aston Villa,1995-12-30,21,6,Ollie Watkins,Aston Villa Football Club,30000000.0,30.0,dob_exact
+Dean Henderson,1GK,Crystal Palace,1997-03-12,4,0,Dean Henderson,Crystal Palace Football Club,28000000.0,28.0,dob_exact
+James Trafford,1GK,Manchester City,2002-10-10,2,0,James Trafford,Manchester City Football Club,18000000.0,18.0,dob+name(100.0%)
+John Stones,2DF,Manchester City,1994-05-28,88,3,John Stones,Manchester City Football Club,18000000.0,18.0,dob+name(100.0%)
+Jordan Pickford,1GK,Everton,1994-03-07,83,0,Jordan Pickford,Everton Football Club,15000000.0,15.0,dob_exact
+Djed Spence,2DF,Tottenham Hotspur,2000-08-09,5,0,Djed Spence,Tottenham Hotspur Football Club,8000000.0,8.0,dob_exact
+Dan Burn,2DF,Newcastle United,1992-05-09,7,0,Dan Burn,Newcastle United Football Club,5000000.0,5.0,dob_exact
+Jordan Henderson,3MF,Brentford,1990-06-17,90,3,Jordan Henderson,Brentford Football Club,2000000.0,2.0,dob_exact

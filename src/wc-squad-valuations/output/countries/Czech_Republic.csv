@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Patrik Schick,4FW,Bayer Leverkusen,1996-01-24,53,26,Patrik Schick,Bayer 04 Leverkusen Fußball,25000000.0,25.0,dob_exact
+Ladislav Krejčí (captain),2DF,Wolverhampton Wanderers,1999-04-20,27,5,Ladislav Krejčí,Wolverhampton Wanderers Football Club,22000000.0,22.0,dob_exact
+Adam Hložek,4FW,TSG Hoffenheim,2002-07-25,43,5,Adam Hlozek,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,15000000.0,15.0,dob_exact
+Tomáš Souček,3MF,West Ham United,1995-02-27,90,17,Tomáš Souček,West Ham United Football Club,12000000.0,12.0,dob_exact
+Lukáš Horníček,1GK,Braga,2002-07-13,1,0,Lukas Hornicek,Sporting Clube de Braga,10000000.0,10.0,dob_exact
+Michal Sadílek,3MF,Slavia Prague,1999-05-31,35,1,Michal Sadílek,"SK Slavia Praha, a.s.",7500000.0,7.5,dob_exact
+Matěj Kovář,1GK,PSV Eindhoven,2000-05-17,20,0,Matej Kovar,Eindhovense Voetbalvereniging Philips Sport Vereniging,7000000.0,7.0,dob_exact
+Robin Hranáč,2DF,TSG Hoffenheim,2000-01-29,14,1,Robin Hranac,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,7000000.0,7.0,dob_exact
+David Jurásek,2DF,Slavia Prague,2000-08-07,18,1,David Jurásek,"SK Slavia Praha, a.s.",4500000.0,4.5,dob_exact
+David Zima,2DF,Slavia Prague,2000-11-08,25,1,David Zima,"SK Slavia Praha, a.s.",4000000.0,4.0,dob_exact
+Jan Kuchta,4FW,Sparta Prague,1997-01-08,31,3,Jan Kuchta,"AC Sparta Praha, a. s.",4000000.0,4.0,dob_exact
+Jindřich Staněk,1GK,Slavia Prague,1996-04-27,14,0,Jindrich Stanek,"SK Slavia Praha, a.s.",3500000.0,3.5,dob_exact
+Vladimír Coufal,2DF,TSG Hoffenheim,1992-08-22,62,2,Vladimír Coufal,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,2700000.0,2.7,dob_exact
+Tomáš Chorý,4FW,Slavia Prague,1995-01-26,22,7,Tomas Chory,"SK Slavia Praha, a.s.",1800000.0,1.8,dob_exact
+Vladimír Darida,3MF,Hradec Králové,1990-08-08,79,8,Vladimír Darida,FC Hradec Králové a.s.,400000.0,0.4,dob_exact
+Tomáš Holeš,2DF,Slavia Prague,1993-03-31,41,2,Tomas Holes,"SK Slavia Praha, a.s.",,,dob_exact
+Štěpán Chaloupek,2DF,Slavia Prague,2003-03-08,5,0,Stepan Chaloupek,"SK Slavia Praha, a.s.",,,dob_exact
+Lukáš Červ,3MF,Viktoria Plzeň,2001-04-10,17,2,Lukas Cerv,"FC Viktoria Plzeň, a.s.",,,dob_exact
+Mojmír Chytil,4FW,Slavia Prague,1999-04-29,22,6,Mojmír Chytil,"SK Slavia Praha, a.s.",,,dob_exact
+Pavel Šulc,4FW,Lyon,2000-12-29,21,5,Pavel Sulc,Olympique Lyonnais,,,dob_exact
+Lukáš Provod,3MF,Slavia Prague,1996-10-23,38,3,Lukas Provod,"SK Slavia Praha, a.s.",,,dob_exact
+Jaroslav Zelený,2DF,Sparta Prague,1992-08-20,23,0,Jaroslav Zelený,"AC Sparta Praha, a. s.",,,dob_exact
+David Douděra,2DF,Slavia Prague,1998-05-31,17,2,David Doudera,"SK Slavia Praha, a.s.",,,dob_exact
+Alexandr Sojka,3MF,Viktoria Plzeň,2003-04-02,2,0,Alexandr Sojka,"FC Viktoria Plzeň, a.s.",,,dob_exact
+Hugo Sochůrek,3MF,Sparta Prague,2008-06-07,1,0,Hugo Sochurek,"AC Sparta Praha, a. s.",,,dob_exact
+Denis Višinský,4FW,Viktoria Plzeň,2003-03-21,2,1,Denis Visinsky,"FC Viktoria Plzeň, a.s.",,,dob_exact

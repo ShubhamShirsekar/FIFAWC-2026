@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Iliman Ndiaye,4FW,Everton,2000-03-06,40,4,Iliman Ndiaye,Everton Football Club,45000000.0,45.0,dob_exact
+Nicolas Jackson,4FW,Bayern Munich,2001-06-20,33,8,Nicolas Jackson,FC Bayern München,45000000.0,45.0,dob_exact
+Pape Matar Sarr,3MF,Tottenham Hotspur,2002-09-14,40,4,Pape Matar Sarr,Tottenham Hotspur Football Club,35000000.0,35.0,dob_exact
+Ismaïla Sarr,4FW,Crystal Palace,1998-02-25,83,19,Ismaïla Sarr,Crystal Palace Football Club,35000000.0,35.0,dob_exact
+Habib Diarra,3MF,Sunderland,2004-01-03,21,4,Habib Diarra,Sunderland Association Football Club,32000000.0,32.0,dob_exact
+Lamine Camara,3MF,Monaco,2004-01-01,33,7,Lamine Camara,Association sportive de Monaco Football Club,30000000.0,30.0,dob_exact
+Ibrahim Mbaye,4FW,Paris Saint-Germain,2008-01-24,11,3,Ibrahim Mbaye,Paris Saint-Germain Football Club,25000000.0,25.0,dob_exact
+Mamadou Sarr,2DF,Chelsea,2005-08-29,8,0,Mamadou Sarr,Chelsea Football Club,25000000.0,25.0,dob_exact
+Sadio Mané,4FW,Al-Nassr,1992-04-10,128,55,Sadio Mané,Al-Nassr Football Club,25000000.0,25.0,dob+name(100.0%)
+Moussa Niakhaté,2DF,Lyon,1996-03-08,31,0,Moussa Niakhaté,Olympique Lyonnais,16000000.0,16.0,dob_exact
+Kalidou Koulibaly (captain),2DF,Al-Hilal,1991-06-20,103,2,Kalidou Koulibaly,Al-Hilal Saudi Football Club,12000000.0,12.0,dob_exact
+Assane Diao,4FW,Como,2005-09-07,5,0,Assane Diao,Calcio Como,12000000.0,12.0,dob_exact
+Édouard Mendy,1GK,Al-Ahli,1992-03-01,57,0,Edouard Mendy,Al-Ahli Saudi Football Club,10000000.0,10.0,dob_exact
+Yehvann Diouf,1GK,Nice,1999-11-16,2,0,Yehvann Diouf,Olympique Gymnaste Club Nice Côte d'Azur,8000000.0,8.0,dob_exact
+Krépin Diatta,2DF,Monaco,1999-02-25,61,2,Krépin Diatta,Association sportive de Monaco Football Club,6000000.0,6.0,dob_exact
+Pape Gueye,3MF,Villarreal,1999-01-24,41,5,Pape Gueye,Villarreal Club de Fútbol S.A.D.,6000000.0,6.0,dob_exact
+Ismail Jakobs,2DF,Galatasaray,1999-08-17,30,0,Ismail Jakobs,Galatasaray Spor Kulübü,6000000.0,6.0,dob_exact
+Antoine Mendy,2DF,Nice,2004-05-27,7,0,Antoine Mendy,Olympique Gymnaste Club Nice Côte d'Azur,4000000.0,4.0,dob_exact
+Bamba Dieng,4FW,Lorient,2000-03-23,23,2,Bamba Dieng,Football Club Lorient-Bretagne Sud,4000000.0,4.0,dob_exact
+Cherif Ndiaye,4FW,Samsunspor,1996-01-23,19,4,Cherif Ndiaye,Samsunspor,3500000.0,3.5,dob_exact
+Pathé Ciss,3MF,Rayo Vallecano,1994-03-16,30,0,Pathé Ciss,Rayo Vallecano de Madrid S. A. D.,2000000.0,2.0,dob_exact
+Mory Diaw,1GK,Le Havre,1993-06-22,5,0,Mory Diaw,Le Havre Athletic Club,1800000.0,1.8,dob_exact
+Abdoulaye Seck,2DF,Maccabi Haifa,1992-06-04,22,4,Abdoulaye Seck,,1500000.0,1.5,dob_exact
+Idrissa Gueye,3MF,Everton,1989-09-26,131,7,Idrissa Gueye,Everton Football Club,1000000.0,1.0,dob_exact
+Bara Sapoko Ndiaye,3MF,Bayern Munich,2007-12-31,1,0,Bara Sapoko Ndiaye,FC Bayern München,,,dob_exact
+El Hadji Malick Diouf,2DF,West Ham United,2004-12-29,20,1,El Hadji Malick Diouf,West Ham United Football Club,,,name(100.0%)

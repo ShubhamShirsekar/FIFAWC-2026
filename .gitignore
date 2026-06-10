@@ -1,5 +1,3 @@
-.venv
-
 # Ignore everything
 *
 
@@ -20,6 +18,11 @@
 !/src/referee-analysis/**
 !/src/bubble-detector/
 !/src/bubble-detector/**
+!/src/wc-squad-valuations/
+!/src/wc-squad-valuations/**
 
 # Keep the virtual environment ignored
 .venv
+
+# Include the README.md file
+!README.md

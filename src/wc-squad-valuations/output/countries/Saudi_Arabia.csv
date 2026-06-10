@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Saud Abdulhamid,2DF,Lens,1999-07-18,55,1,Saud Abdulhamid,Racing Club de Lens,3000000.0,3.0,dob_exact
+Salem Al-Dawsari (captain),4FW,Al-Hilal,1991-08-19,110,27,Salem Al-Dawsari,Al-Hilal Saudi Football Club,2000000.0,2.0,dob_exact
+Saleh Al-Shehri,4FW,Al-Ittihad,1993-11-01,55,18,Saleh Al-Shehri,Al-Ittihad Football Club,650000.0,0.65,dob_exact
+Nawaf Al-Aqidi,1GK,Al-Nassr,2000-05-10,22,0,Nawaf Al-Aqidi,Al-Nassr Football Club,,,dob_exact
+Ali Majrashi,2DF,Al-Ahli,1999-10-02,21,0,Mohammed Sultan Al-Dawsari,Al-Taawoun Football Club,,,dob_exact
+Ali Lajami,2DF,Al-Hilal,1996-04-24,22,1,Ali Lajami,Al-Hilal Saudi Football Club,,,dob_exact
+Abdulelah Al-Amri,2DF,Al-Nassr,1997-01-15,43,1,Abdulelah Al-Amri,Al-Nassr Football Club,,,dob_exact
+Hassan Al-Tambakti,2DF,Al-Hilal,1999-02-09,52,1,Hassan Tambakti,Al-Hilal Saudi Football Club,,,dob_exact
+Nasser Al-Dawsari,3MF,Al-Hilal,1998-12-19,44,0,Nasser Al-Dawsari,Al-Hilal Saudi Football Club,,,dob_exact
+Musab Al-Juwayr,3MF,Al-Qadsiah,2003-06-20,35,6,Musab Al-Juwayr,Al-Qadsiah Saudi Football Club,,,dob_exact
+Ayman Yahya,4FW,Al-Nassr,2001-05-14,27,0,Ayman Yahya,Al-Nassr Football Club,,,dob_exact
+Firas Al-Buraikan,4FW,Al-Ahli,2000-05-14,70,15,Firas Al-Buraikan,Al-Ahli Saudi Football Club,,,dob_exact
+Nawaf Boushal,2DF,Al-Nassr,1999-09-16,25,0,Nawaf Boushal,Al-Nassr Football Club,,,dob_exact
+Hassan Kadesh,2DF,Al-Ittihad,1992-09-26,21,2,Hassan Kadesh,Al-Ittihad Football Club,,,dob_exact
+Abdullah Al-Khaibari,3MF,Al-Nassr,1996-08-16,40,0,Abdullah Al-Khaibari,Al-Nassr Football Club,,,dob_exact
+Ziyad Al-Johani,3MF,Al-Ahli,2001-11-11,12,0,Ziyad Al-Johani,Al-Ahli Saudi Football Club,,,dob_exact
+Khalid Al-Ghannam,4FW,Al-Ettifaq,2000-11-08,7,0,Khalid Al-Ghannam,Al-Ettifaq Football Club,,,name(100.0%)
+Alaa Al-Hejji,3MF,Neom,1995-12-03,3,0,Alaa Hejji,Neom Sports Club,,,dob+name(60.86956521739131%)
+Abdullah Al-Hamdan,4FW,Al-Nassr,1999-09-13,50,12,Abdullah Al-Hamdan,Al-Nassr Football Club,,,name(100.0%)
+Sultan Mandash,4FW,Al-Hilal,1994-10-17,7,2,Sultan Mandash,Al-Hilal Saudi Football Club,,,dob+name(100.0%)
+Mohammed Al-Owais,1GK,Al-Ula,1991-10-10,64,0,Mohammed Al-Owais,Al-Hilal Saudi Football Club,,,dob_exact
+Ahmed Al-Kassar,1GK,Al-Qadsiah,1991-05-08,9,0,Ahmed Al-Kassar,Al-Qadsiah Saudi Football Club,,,dob_exact
+Mohamed Kanno,3MF,Al-Hilal,1994-09-22,77,8,Mohamed Kanno,Al-Hilal Saudi Football Club,,,dob_exact
+Moteb Al-Harbi,2DF,Al-Hilal,2000-02-20,13,0,Moteb Al-Harbi,Al-Hilal Saudi Football Club,,,name(100.0%)
+Jehad Thakri,2DF,Al-Qadsiah,2001-07-21,8,0,Jehad Thakri,Al-Qadsiah Saudi Football Club,,,dob_exact
+Mohammed Abu Al-Shamat,2DF,Al-Qadsiah,2002-08-11,7,0,Mohammed Abu Al-Shamat,Al-Qadsiah Saudi Football Club,,,dob+name(100.0%)

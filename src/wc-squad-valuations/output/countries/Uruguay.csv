@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Federico Valverde,3MF,Real Madrid,1998-07-22,73,9,Federico Valverde,Real Madrid Club de Fútbol,120000000.0,120.0,dob_exact
+Ronald Araújo,2DF,Barcelona,1999-03-07,27,1,Ronald Araujo,Futbol Club Barcelona,70000000.0,70.0,dob_exact
+Darwin Núñez,4FW,Al-Hilal,1999-06-24,38,13,Darwin Núñez,Al-Hilal Saudi Football Club,70000000.0,70.0,dob_exact
+Manuel Ugarte,3MF,Manchester United,2001-04-11,36,1,Manuel Ugarte,Manchester United Football Club,30000000.0,30.0,dob_exact
+Rodrigo Bentancur,3MF,Tottenham Hotspur,1997-06-25,74,3,Rodrigo Bentancur,Tottenham Hotspur Football Club,27000000.0,27.0,dob_exact
+José Giménez (captain),2DF,Atlético Madrid,1995-01-20,99,8,José María Giménez,Club Atlético de Madrid S.A.D.,22000000.0,22.0,dob_exact
+Maximiliano Araújo,3MF,Sporting CP,2000-02-15,28,3,Maxi Araújo,Sporting Clube de Portugal,22000000.0,22.0,dob_exact
+Rodrigo Zalazar,3MF,Braga,1999-08-12,8,2,Rodrigo Zalazar,Sporting Clube de Braga,20000000.0,20.0,dob_exact
+Mathías Olivera,2DF,Napoli,1997-10-31,35,2,Mathías Olivera,Società Sportiva Calcio Napoli,18000000.0,18.0,dob_exact
+Santiago Bueno,2DF,Wolverhampton Wanderers,1998-11-09,8,0,Santiago Bueno,Wolverhampton Wanderers Football Club,10000000.0,10.0,dob+name(100.0%)
+Matías Viña,2DF,River Plate,1997-11-09,43,1,Matías Viña,Club Atlético River Plate,10000000.0,10.0,dob_exact
+Emiliano Martínez,3MF,Palmeiras,1999-08-17,10,0,Emiliano Martínez,Sociedade Esportiva Palmeiras,9000000.0,9.0,dob_exact
+Juan Manuel Sanabria,3MF,Real Salt Lake,2000-03-29,5,1,Juan Manuel Sanabria,Real Salt Lake,7000000.0,7.0,dob_exact
+Facundo Pellistri,4FW,Panathinaikos,2001-12-20,39,2,Facundo Pellistri,Panathinaikos Athlitikos Omilos,7000000.0,7.0,dob_exact
+Rodrigo Aguirre,4FW,UANL,1994-10-01,10,3,Rodrigo Aguirre,Club Tigres UANL Sinergia Deportiva S.A. de C.V.,4500000.0,4.5,dob_exact
+Sergio Rochet,1GK,Internacional,1993-03-23,35,0,Sergio Rochet,Sport Club Internacional,3500000.0,3.5,dob_exact
+Guillermo Varela,2DF,Flamengo,1993-03-24,28,0,Guillermo Varela,Clube de Regatas do Flamengo,2000000.0,2.0,dob+name(100.0%)
+Fernando Muslera,1GK,Estudiantes,1986-06-16,134,0,Fernando Muslera,Club Estudiantes de La Plata,750000.0,0.75,dob_exact
+Sebastián Cáceres,2DF,América,1999-08-18,24,0,Sebastián Cáceres,Club de Futbol América S. A. de C. V.,,,dob_exact
+Nicolás de la Cruz,3MF,Flamengo,1997-06-01,34,5,Nicolás de la Cruz,Clube de Regatas do Flamengo,,,dob_exact
+Giorgian de Arrascaeta,3MF,Flamengo,1994-06-01,60,13,Giorgian de Arrascaeta,Clube de Regatas do Flamengo,,,dob_exact
+Santiago Mele,1GK,Monterrey,1997-09-06,8,0,Santiago Mele,Club de Fútbol Monterrey Rayados A.C.,,,dob_exact
+Agustín Canobbio,3MF,Fluminense,1998-10-01,15,1,Agustín Canobbio,Fluminense Football Club,,,dob_exact
+Brian Rodríguez,4FW,América,2000-05-20,32,4,Brian Rodríguez,Club de Futbol América S. A. de C. V.,,,dob_exact
+Federico Viñas,4FW,Oviedo,1998-06-30,11,2,Federico Viñas,Real Oviedo S.A.D.,,,dob_exact
+Joaquín Piquerez,3MF,Palmeiras,1998-08-24,19,0,Joaquín Piquerez,Sociedade Esportiva Palmeiras,,,dob+name(100.0%)

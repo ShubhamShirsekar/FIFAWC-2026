@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Chris Wood (captain),4FW,Nottingham Forest,1991-12-07,90,45,Chris Wood,Nottingham Forest Football Club,8000000.0,8.0,dob_exact
+Marko Stamenić,3MF,Swansea City,2002-02-19,39,3,Marko Stamenić,Swansea City,3000000.0,3.0,dob_exact
+Liberato Cacace,2DF,Wrexham,2000-09-27,37,1,Liberato Cacace,,3000000.0,3.0,dob_exact
+Callum McCowatt,3MF,Silkeborg,1999-04-30,32,4,Callum McCowatt,Silkeborg Idrætsforening,2000000.0,2.0,dob_exact
+Tyler Bindon,2DF,Sheffield United,2005-01-27,25,3,Tyler Bindon,Sheffield United,1500000.0,1.5,dob_exact
+Joe Bell,3MF,Viking,1999-04-27,32,1,Joe Bell,Viking Fotballklubb,1200000.0,1.2,dob_exact
+Ryan Thomas,3MF,PEC Zwolle,1994-12-20,25,3,Ryan Thomas,Prins Hendrik Ende Desespereert Nimmer Combinatie Zwolle,900000.0,0.9,dob_exact
+Sarpreet Singh,3MF,Wellington Phoenix,1999-02-20,28,3,Sarpreet Singh,Wellington Phoenix Football Club,600000.0,0.6,dob_exact
+Ben Old,3MF,Saint-Étienne,2002-08-13,24,2,Ben Old,AS Saint-Étienne,600000.0,0.6,dob_exact
+Kosta Barbarouses,4FW,Western Sydney Wanderers,1990-02-19,76,10,Kosta Barbarouses,Western Sydney Wanderers,500000.0,0.5,dob_exact
+Matthew Garbett,3MF,Peterborough United,2002-04-13,37,5,Matthew Garbett,,500000.0,0.5,dob_exact
+Elijah Just,3MF,Motherwell,2000-05-01,44,9,Elijah Just,Motherwell Football Club,350000.0,0.35,dob_exact
+Callan Elliot,2DF,Auckland FC,1999-07-07,11,0,Callan Elliot,Auckland Football Club,300000.0,0.3,dob_exact
+Michael Woud,1GK,Auckland FC,1999-01-16,6,0,Michael Woud,Auckland Football Club,250000.0,0.25,dob_exact
+Nando Pijnaker,2DF,Auckland FC,1999-02-25,25,0,Nando Pijnaker,Auckland Football Club,175000.0,0.17,dob_exact
+Max Crocombe,1GK,Millwall,1993-08-12,24,0,Max Crocombe,,,,dob_exact
+Tim Payne,2DF,Wellington Phoenix,1994-01-10,51,3,Tim Payne,Wellington Phoenix Football Club,,,dob_exact
+Francis de Vries,2DF,Auckland FC,1994-11-28,20,1,Francis de Vries,Auckland Football Club,,,dob_exact
+Michael Boxall,2DF,Minnesota United FC,1988-08-18,63,1,Michael Boxall,Minnesota United FC,,,dob_exact
+Alex Paulsen,1GK,Lechia Gdańsk,2002-07-04,8,0,Alex Paulsen,Klub Sportowy Lechia Gdańsk,,,dob_exact
+Alex Rufer,3MF,Wellington Phoenix,1996-06-12,26,0,Alex Rufer,Wellington Phoenix Football Club,,,dob_exact
+Finn Surman,2DF,Portland Timbers,2003-09-23,19,2,Finn Surman,Portland Timbers,,,dob_exact
+Ben Waine,4FW,Port Vale,2001-06-11,31,9,Ben Waine,,,,dob_exact
+Jesse Randall,4FW,Auckland FC,2002-08-19,11,2,Jesse Randall,Auckland Football Club,,,dob_exact
+Lachlan Bayliss,3MF,Newcastle Jets,2002-07-24,4,0,Lachlan Bayliss,Newcastle United Jets Football Club,,,dob_exact
+Tommy Smith,2DF,Braintree Town,1990-03-31,56,2,Tommy Smith,,,,dob_exact

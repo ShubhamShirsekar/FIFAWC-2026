@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Nestory Irankunda,4FW,Watford,2006-02-09,15,5,Nestory Irankunda,Watford FC,6000000.0,6.0,dob_exact
+Harry Souttar,2DF,Leicester City,1998-10-22,38,11,Harry Souttar,Leicester City,6000000.0,6.0,dob_exact
+Jordan Bos,2DF,Feyenoord,2002-10-29,27,4,Jordan Bos,Feyenoord Rotterdam,5000000.0,5.0,dob_exact
+Cristian Volpato,4FW,Sassuolo,2003-11-15,1,0,Cristian Volpato,Unione Sportiva Sassuolo Calcio,4500000.0,4.5,dob_exact
+Mathew Ryan (captain),1GK,Levante,1992-04-08,104,0,Mathew Ryan,Levante Unión Deportiva S.A.D.,2000000.0,2.0,dob_exact
+Mohamed Touré,4FW,Norwich City,2004-03-26,10,2,Mohamed Touré,Norwich City,1700000.0,1.7,dob_exact
+Jackson Irvine,3MF,FC St. Pauli,1993-03-07,82,14,Jackson Irvine,Fußball-Club St. Pauli von 1910,1500000.0,1.5,dob_exact
+Aiden O'Neill,3MF,New York City FC,1998-07-04,31,0,Aiden O'Neill,New York City Football Club,1500000.0,1.5,dob_exact
+Awer Mabil,4FW,Castellón,1995-09-15,38,10,Awer Mabil,Cádiz CF,1300000.0,1.3,dob_exact
+Cammy Devlin,3MF,Heart of Midlothian,1998-06-07,5,0,Cammy Devlin,Heart of Midlothian Football Club,1200000.0,1.2,dob+name(100.0%)
+Mathew Leckie,4FW,Melbourne City,1991-02-04,80,14,Mathew Leckie,Melbourne City Football Club,700000.0,0.7,dob_exact
+Ajdin Hrustic,4FW,Heracles Almelo,1996-07-05,37,4,Ajdin Hrustic,Heracles Almelo,600000.0,0.6,dob_exact
+Paul Izzo,1GK,Randers,1995-01-06,4,0,Paul Izzo,Randers Fodbold Club,600000.0,0.6,dob_exact
+Aziz Behich,2DF,Melbourne City,1990-12-16,84,3,Aziz Behich,Melbourne City Football Club,550000.0,0.55,dob_exact
+Cameron Burgess,2DF,Swansea City,1995-10-21,27,0,Cameron Burgess,Swansea City,500000.0,0.5,dob_exact
+Tete Yengi,4FW,Machida Zelvia,2000-11-28,1,1,Tete Yengi,Zelvia,400000.0,0.4,dob_exact
+Miloš Degenek,2DF,APOEL,1994-04-28,57,1,Milos Degenek,,,,dob_exact
+Alessandro Circati,2DF,Parma,2003-10-10,13,1,Alessandro Circati,Parma Calcio 1913,,,dob_exact
+Jacob Italiano,2DF,Grazer AK,2001-07-30,5,0,Jacob Italiano,Grazer Athletiksport Klub 1902,,,dob_exact
+Jason Geria,2DF,Albirex Niigata,1993-05-10,14,0,Jason Geria,Albirex Niigata,,,dob_exact
+Connor Metcalfe,3MF,FC St. Pauli,1999-11-05,36,1,Connor Metcalfe,Fußball-Club St. Pauli von 1910,,,dob_exact
+Kai Trewin,2DF,New York City FC,2001-05-18,6,0,Kai Trewin,New York City Football Club,,,dob_exact
+Patrick Beach,1GK,Melbourne City,2003-08-06,2,0,Patrick Beach,Melbourne City Football Club,,,dob_exact
+Nishan Velupillay,4FW,Melbourne Victory,2001-05-07,7,3,Nishan Velupillay,Melbourne Victory FC,,,dob_exact
+Paul Okon-Engstler,3MF,Sydney FC,2005-01-24,6,0,Paul Okon-Engstler,Sydney Football Club,,,dob_exact
+Lucas Herrington,2DF,Colorado Rapids,2007-09-05,4,0,Lucas Herrington,Colorado Rapids,,,dob_exact

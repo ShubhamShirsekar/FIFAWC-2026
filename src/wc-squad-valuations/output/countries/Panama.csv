@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Michael Amir Murillo,2DF,Beşiktaş,1996-02-11,94,9,Amir Murillo,Beşiktaş Jimnastik Kulübü,10000000.0,10.0,dob_exact
+José Luis Rodríguez,3MF,Juárez,1998-06-19,70,8,José Luis Rodríguez,Fútbol Club Juárez,2000000.0,2.0,dob_exact
+Andrés Andrade,2DF,LASK,1998-10-16,50,1,Andrés Andrade,Linzer Athletik-Sport-Klub,1000000.0,1.0,dob_exact
+Edgardo Fariña,2DF,Pari Nizhny Novgorod,2001-10-19,18,0,Edgardo Fariña,FK Nizhny Novgorod,1000000.0,1.0,dob_exact
+Ismael Díaz,3MF,León,1997-05-12,57,17,Ismael Díaz,Club León Fútbol Club,1000000.0,1.0,dob_exact
+Roderick Miller,2DF,Turan Tovuz,1992-04-03,50,2,Roderick Miller,CD Feirense,200000.0,0.2,dob_exact
+Luis Mejía,1GK,Nacional,1991-03-16,56,0,,,0.0,0.0,unmatched
+César Samudio,1GK,Marathón,1994-02-23,5,0,,,0.0,0.0,unmatched
+Cecilio Waterman,4FW,Universidad de Concepción,1991-04-13,55,15,,,0.0,0.0,unmatched
+José Fajardo,4FW,Universidad Católica,1993-08-18,68,17,,,0.0,0.0,unmatched
+César Blackman,2DF,Slovan Bratislava,1998-04-02,40,3,César Blackman,,,,dob_exact
+José Córdoba,2DF,Norwich City,2001-06-03,32,1,José Córdoba,Norwich City,,,dob_exact
+Fidel Escobar,2DF,Saprissa,1995-01-09,99,4,Fidel Escobar,,,,dob_exact
+Cristian Martínez,3MF,Ironi Kiryat Shmona,1997-02-06,66,2,Cristian Martínez,,,,dob_exact
+Adalberto Carrasquilla,3MF,UNAM,1998-11-28,73,3,Adalberto Carrasquilla,Club Universidad Nacional A. C.,,,dob_exact
+Tomás Rodríguez,4FW,Saprissa,1999-03-09,13,4,Tomás Rodríguez,,,,dob_exact
+Yoel Bárcenas,3MF,Mazatlán,1993-10-23,104,10,Yoel Bárcenas,Mazatlán Futbol Club,,,dob_exact
+Jiovany Ramos,2DF,Puerto Cabello,1997-01-26,23,2,Jiovany Ramos,,,,dob_exact
+Carlos Harvey,2DF,Minnesota United FC,2000-02-03,28,3,Carlos Harvey,Minnesota United FC,,,dob_exact
+Eric Davis,2DF,Plaza Amador,1991-03-31,107,9,Éric Davis,,,,dob_exact
+Alberto Quintero,3MF,Plaza Amador,1987-12-18,141,7,Alberto Quintero,,,,dob_exact
+Aníbal Godoy (captain),3MF,San Diego FC,1990-02-10,159,4,Aníbal Godoy,San Diego Football Club,,,dob_exact
+César Yanis,3MF,Cobresal,1996-01-28,56,5,César Yanis,,,,dob_exact
+Orlando Mosquera,1GK,Al-Fayha,1994-12-25,48,0,Orlando Mosquera,Al-Fayha FC,,,dob+name(100.0%)
+Azarias Londoño,4FW,Universidad Católica,2001-06-21,11,0,Azarias Londoño,,,,dob_exact
+Jorge Gutiérrez,2DF,Deportivo La Guaira,1998-09-01,18,0,Jorge Gutiérrez,,,,dob_exact

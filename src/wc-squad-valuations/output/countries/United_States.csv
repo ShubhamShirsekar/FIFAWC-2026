@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Christian Pulisic,4FW,Milan,1998-09-18,86,33,Christian Pulisic,Associazione Calcio Milan,60000000.0,60.0,dob_exact
+Malik Tillman,3MF,Bayer Leverkusen,2002-05-28,30,3,Malik Tillman,Bayer 04 Leverkusen Fußball,35000000.0,35.0,dob+name(100.0%)
+Antonee Robinson,2DF,Fulham,1997-08-08,54,5,Antonee Robinson,Fulham Football Club,30000000.0,30.0,dob_exact
+Chris Richards,2DF,Crystal Palace,2000-03-28,36,3,Chris Richards,Crystal Palace Football Club,25000000.0,25.0,dob_exact
+Tyler Adams,3MF,Bournemouth,1999-02-14,54,2,Tyler Adams,Association Football Club Bournemouth,25000000.0,25.0,dob_exact
+Folarin Balogun,4FW,Monaco,2001-07-03,27,9,Folarin Balogun,Association sportive de Monaco Football Club,22000000.0,22.0,dob_exact
+Weston McKennie,3MF,Juventus,1998-08-28,66,12,Weston McKennie,Juventus Football Club,22000000.0,22.0,dob_exact
+Timothy Weah,4FW,Marseille,2000-02-22,51,7,Timothy Weah,Olympique de Marseille,20000000.0,20.0,dob_exact
+Sergiño Dest,2DF,PSV Eindhoven,2000-11-03,39,3,Sergiño Dest,Eindhovense Voetbalvereniging Philips Sport Vereniging,18000000.0,18.0,dob_exact
+Ricardo Pepi,4FW,PSV Eindhoven,2003-01-09,37,13,Ricardo Pepi,Eindhovense Voetbalvereniging Philips Sport Vereniging,15000000.0,15.0,dob_exact
+Brenden Aaronson,4FW,Leeds United,2000-10-22,58,9,Brenden Aaronson,Leeds United Association Football Club,12000000.0,12.0,dob_exact
+Matt Turner,1GK,New England Revolution,1994-06-24,54,0,Matt Turner,New England Revolution,7000000.0,7.0,dob_exact
+Haji Wright,4FW,Coventry City,1998-03-27,20,7,Haji Wright,,7000000.0,7.0,dob_exact
+Joe Scally,2DF,Borussia Mönchengladbach,2002-12-31,26,0,Joe Scally,Borussia Verein für Leibesübungen 1900 Mönchengladbach,7000000.0,7.0,dob_exact
+Giovanni Reyna,3MF,Borussia Mönchengladbach,2002-11-13,38,9,Giovanni Reyna,Borussia Verein für Leibesübungen 1900 Mönchengladbach,6000000.0,6.0,dob_exact
+Mark McKenzie,2DF,Toulouse,1999-02-25,29,0,Mark McKenzie,Toulouse Football Club,6000000.0,6.0,dob_exact
+Auston Trusty,2DF,Celtic,1998-08-12,8,0,Auston Trusty,The Celtic Football Club,5000000.0,5.0,dob_exact
+Tim Ream (captain),2DF,Charlotte FC,1987-10-05,82,1,Tim Ream,Charlotte Football Club,800000.0,0.8,dob_exact
+Alejandro Zendejas,4FW,América,1998-02-07,14,2,Alejandro Bedoya,Philadelphia Union,250000.0,0.25,name(76.47058823529412%)
+Miles Robinson,2DF,FC Cincinnati,1997-03-14,40,3,Miles Robinson,Football Club Cincinnati,,,dob_exact
+Sebastian Berhalter,3MF,Vancouver Whitecaps FC,2001-05-10,13,1,Sebastian Berhalter,Vancouver Whitecaps FC,,,dob_exact
+Cristian Roldan,3MF,Seattle Sounders FC,1995-06-03,47,0,Cristian Roldán,Seattle Sounders FC,,,dob_exact
+Alex Freeman,2DF,Villarreal,2004-08-09,17,2,Alex Freeman,Villarreal Club de Fútbol S.A.D.,,,dob_exact
+Max Arfsten,2DF,Columbus Crew,2001-04-19,20,1,Max Arfsten,Columbus Crew,,,dob+name(100.0%)
+Matt Freese,1GK,New York City FC,1998-09-02,15,0,Matt Freese,New York City Football Club,,,dob_exact
+Chris Brady,1GK,Chicago Fire FC,2004-03-03,1,0,Chris Brady,Chicago Fire Soccer Club,,,dob_exact

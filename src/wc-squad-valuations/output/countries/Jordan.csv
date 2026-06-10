@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Musa Al-Taamari,4FW,Rennes,1997-06-10,92,24,Mousa Tamari,Stade Rennais Football Club,6000000.0,6.0,dob_exact
+Mohammad Taha,2DF,Al-Hussein,2005-07-13,2,0,,,0.0,0.0,unmatched
+Anas Badawi,2DF,Al-Faisaly,1997-09-13,1,0,,,0.0,0.0,unmatched
+Yazeed Abulaila,1GK,Al-Hussein,1993-01-08,76,0,Yazeed Abulaila,,,,dob_exact
+Mohammad Abu Hashish,2DF,Al-Karma,1995-05-09,56,1,Mohammad Abu Hasheesh,,,,dob_exact
+Abdallah Nasib,2DF,Al-Zawraa,1994-02-25,65,3,Abdallah Nasib,,,,dob_exact
+Husam Abu Dahab,2DF,Al-Faisaly,2000-05-13,18,0,Husam Abu Dahab,,,,dob_exact
+Yazan Al-Arab,2DF,FC Seoul,1996-01-31,80,3,Yazan Al-Arab,Football Club Seoul,,,dob_exact
+Amer Jamous,3MF,Al-Zawraa,2002-07-03,19,1,Amer Jamous,,,,dob_exact
+Mohammad Abu Zrayq,4FW,Raja Casablanca,1997-12-30,41,5,Shararh,,,,dob_exact
+Noor Al-Rawabdeh,3MF,Selangor,1997-02-24,68,3,Noor Al-Rawabdeh,,,,dob_exact
+Ali Olwan,4FW,Al-Sailiya,2000-03-26,66,29,Ali Olwan,,,,dob_exact
+Odeh Al-Fakhouri,4FW,Pyramids,2005-11-22,10,1,Odeh Fakhoury,,,,name(82.75862068965517%)
+Nour Bani Attiah,1GK,Al-Faisaly,1993-01-25,5,0,Noureddin Bani Attiah,,,,dob_exact
+Mahmoud Al-Mardi,4FW,Al-Hussein,1993-10-06,89,9,Mahmoud Al-Mardi,,,,dob_exact
+Rajaei Ayed,3MF,Al-Hussein,1993-07-25,72,0,Rajaei Ayed,,,,dob_exact
+Ibrahim Sadeh,3MF,Al-Karma,2000-04-27,57,3,Ibrahim Saadeh,,,,dob_exact
+Mo Abualnadi,2DF,Selangor,2001-02-08,18,0,Mohammad Abualnadi,,,,dob_exact
+Salim Obaid,2DF,Al-Hussein,1992-01-17,11,0,Saleem Obaid,,,,dob_exact
+Saed Al-Rosan,2DF,Al-Hussein,1997-02-01,21,2,Saed Al-Rosan,,,,dob_exact
+Mohannad Abu Taha,3MF,Al-Quwa Al-Jawiya,2003-02-02,29,1,Mohannad Abu Taha,,,,dob_exact
+Nizar Al-Rashdan,3MF,Qatar SC,1999-03-23,47,4,Nizar Al-Rashdan,,,,dob_exact
+Abdallah Al-Fakhouri,1GK,Al-Wehdat,2000-01-22,11,0,Abdallah Al-Fakhouri,,,,dob_exact
+Ihsan Haddad (captain),2DF,Al-Hussein,1994-02-05,92,2,Ehsan Haddad,,,,dob_exact
+Ali Azaizeh,4FW,Al-Shabab,2004-04-13,4,0,Ali Azaizeh,Al-Shabab Club,,,dob_exact
+Mohammad Al-Dawoud,3MF,Al-Wehdat,1992-04-12,13,1,Mohammad Al-Dawoud,,,,name(100.0%)

@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Ryan Gravenberch,3MF,Liverpool,2002-05-16,27,1,Ryan Gravenberch,Liverpool Football Club,90000000.0,90.0,dob+name(100.0%)
+Cody Gakpo,4FW,Liverpool,1999-05-07,50,21,Cody Gakpo,Liverpool Football Club,70000000.0,70.0,dob_exact
+Frenkie de Jong,3MF,Barcelona,1997-05-12,66,2,Frenkie de Jong,Futbol Club Barcelona,70000000.0,70.0,dob_exact
+Tijjani Reijnders,3MF,Manchester City,1998-07-29,32,7,Tijjani Reijnders,Manchester City Football Club,65000000.0,65.0,dob+name(100.0%)
+Micky van de Ven,2DF,Tottenham Hotspur,2001-04-19,21,1,Micky van de Ven,Tottenham Hotspur Football Club,55000000.0,55.0,dob_exact
+Jorrel Hato,2DF,Chelsea,2006-03-07,8,0,Jorrel Hato,Chelsea Football Club,35000000.0,35.0,dob_exact
+Jan Paul van Hecke,2DF,Brighton & Hove Albion,2000-06-08,12,0,Jan Paul van Hecke,Brighton and Hove Albion Football Club,35000000.0,35.0,dob_exact
+Bart Verbruggen,1GK,Brighton & Hove Albion,2002-08-18,29,0,Bart Verbruggen,Brighton and Hove Albion Football Club,35000000.0,35.0,dob_exact
+Justin Kluivert,3MF,Bournemouth,1999-05-05,12,0,Justin Kluivert,Association Football Club Bournemouth,32000000.0,32.0,dob+name(100.0%)
+Lutsharel Geertruida,2DF,Sunderland,2000-07-18,21,0,Lutsharel Geertruida,Sunderland Association Football Club,32000000.0,32.0,dob+name(100.0%)
+Teun Koopmeiners,3MF,Juventus,1998-02-28,28,3,Teun Koopmeiners,Juventus Football Club,28000000.0,28.0,dob_exact
+Quinten Timber,3MF,Marseille,2001-06-17,11,1,Quinten Timber,Olympique de Marseille,28000000.0,28.0,dob+name(100.0%)
+Denzel Dumfries,2DF,Inter Milan,1996-04-18,72,11,Denzel Dumfries,Football Club Internazionale Milano S.p.A.,25000000.0,25.0,dob+name(100.0%)
+Mats Wieffer,2DF,Brighton & Hove Albion,1999-11-16,15,1,Mats Wieffer,Brighton and Hove Albion Football Club,25000000.0,25.0,dob_exact
+Noa Lang,4FW,Galatasaray,1999-06-17,15,3,Noa Lang,Galatasaray Spor Kulübü,25000000.0,25.0,dob_exact
+Donyell Malen,4FW,Roma,1999-01-19,53,13,Donyell Malen,Associazione Sportiva Roma,25000000.0,25.0,dob_exact
+Crysencio Summerville,4FW,West Ham United,2001-10-30,2,0,Crysencio Summerville,West Ham United Football Club,22000000.0,22.0,dob+name(100.0%)
+Brian Brobbey,4FW,Sunderland,2002-02-01,12,1,Brian Brobbey,Sunderland Association Football Club,20000000.0,20.0,dob_exact
+Virgil van Dijk (captain),2DF,Liverpool,1991-07-08,92,12,Virgil van Dijk,Liverpool Football Club,18000000.0,18.0,dob_exact
+Nathan Aké,2DF,Manchester City,1995-02-18,59,5,Nathan Aké,Manchester City Football Club,18000000.0,18.0,dob+name(100.0%)
+Guus Til,3MF,PSV Eindhoven,1997-12-22,7,1,Guus Til,Eindhovense Voetbalvereniging Philips Sport Vereniging,15000000.0,15.0,dob_exact
+Memphis Depay,4FW,Corinthians,1994-02-13,109,55,Memphis Depay,Sport Club Corinthians Paulista,10000000.0,10.0,dob_exact
+Mark Flekken,1GK,Bayer Leverkusen,1993-06-13,12,0,Mark Flekken,Bayer 04 Leverkusen Fußball,8000000.0,8.0,dob_exact
+Marten de Roon,3MF,Atalanta,1991-03-29,43,1,Marten de Roon,Atalanta Bergamasca Calcio S.p.a.,7000000.0,7.0,dob_exact
+Wout Weghorst,4FW,Ajax,1992-08-07,52,14,Wout Weghorst,AFC Ajax Amsterdam,3500000.0,3.5,dob+name(100.0%)
+Robin Roefs,1GK,Sunderland,2003-01-17,1,0,Robin Roefs,Sunderland Association Football Club,600000.0,0.6,dob_exact

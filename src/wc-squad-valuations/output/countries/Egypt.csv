@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Omar Marmoush,4FW,Manchester City,1999-02-07,49,11,Omar Marmoush,Manchester City Football Club,65000000.0,65.0,dob_exact
+Mohamed Salah (captain),4FW,Liverpool,1992-06-15,116,67,Mohamed Salah,Liverpool Football Club,30000000.0,30.0,dob_exact
+Zizo,4FW,Al Ahly,1996-01-10,63,5,Zizo,Moreirense Futebol Clube,5000000.0,5.0,dob_exact
+Trézéguet,4FW,Al Ahly,1994-10-01,96,23,Trezeguet,,4500000.0,4.5,dob_exact
+Mohamed Abdelmonem,2DF,Nice,1999-02-01,36,3,Mohamed Abdelmonem,Olympique Gymnaste Club Nice Côte d'Azur,3000000.0,3.0,dob_exact
+Emam Ashour,3MF,Al Ahly,1998-02-20,29,0,Emam Ashour,Fodbold Club Midtjylland,2000000.0,2.0,dob_exact
+Haissem Hassan,4FW,Oviedo,2002-02-08,4,0,Haissem Hassan,Real Oviedo S.A.D.,1500000.0,1.5,dob_exact
+Karim Hafez,2DF,Pyramids,1996-03-12,9,0,Karim Hafez,Yeni Malatyaspor,600000.0,0.6,dob_exact
+Ramy Rabia,2DF,Al Ain,1993-05-20,44,5,Ramy Rabia,,400000.0,0.4,dob_exact
+Mostafa Shobeir,1GK,Al Ahly,2000-05-15,9,0,Mostafa Shebeita,Lierse SK (- 2018),100000.0,0.1,name(83.87096774193549%)
+Hamza Abdelkarim,4FW,Barcelona B,2008-01-01,2,0,,,0.0,0.0,unmatched
+Mostafa Ziko,3MF,Pyramids,1997-04-27,2,2,,,0.0,0.0,unmatched
+El Mahdy Soliman,1GK,Zamalek,1987-06-08,0,0,,,0.0,0.0,unmatched
+Mohanad Lasheen,3MF,Pyramids,1996-05-29,23,0,,,0.0,0.0,unmatched
+Tarek Alaa,2DF,ZED,2002-01-05,3,0,,,0.0,0.0,unmatched
+Mohamed El Shenawy,1GK,Al Ahly,1988-12-18,76,0,Mohamed El Shenawy,,,,dob_exact
+Yasser Ibrahim,2DF,Al Ahly,1993-02-10,17,1,Yasser Ibrahim,,,,dob_exact
+Mohamed Hany,2DF,Al Ahly,1996-02-02,42,0,Mohamed Hany,,,,name(100.0%)
+Hossam Abdelmaguid,2DF,Zamalek,2001-04-30,13,0,Hossam Abdelmaguid,,,,dob_exact
+Ahmed Fatouh,2DF,Zamalek,1998-03-22,39,1,Ahmed Fatouh,,,,dob_exact
+Hamdy Fathy,3MF,Al-Wakrah,1994-09-29,63,3,Hamdy Fathy,,,,dob_exact
+Nabil Emad,3MF,Al-Najma,1996-04-06,12,0,Nabil Dunga,Al-Najma Sport Club,,,dob_exact
+Marwan Attia,3MF,Al Ahly,1998-08-01,34,1,Marwan Hamdi,,,,name(75.0%)
+Ibrahim Adel,4FW,Nordsjælland,2001-04-23,24,3,Ibrahim Adel,Fodbold Club Nordsjælland,,,dob_exact
+Mahmoud Saber,3MF,ZED,2001-07-30,15,1,Mahmoud Saber,,,,dob_exact
+Mohamed Alaa,1GK,El Gouna,1999-01-01,0,0,Mohamed Awad,,,,name(83.33333333333334%)

@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Vitinha,3MF,Paris Saint-Germain,2000-02-13,37,0,Vitinha,Paris Saint-Germain Football Club,110000000.0,110.0,dob_exact
+João Neves,3MF,Paris Saint-Germain,2004-09-27,21,3,João Neves,Paris Saint-Germain Football Club,110000000.0,110.0,dob_exact
+Rafael Leão,4FW,Milan,1999-06-10,44,5,Rafael Leão,Associazione Calcio Milan,90000000.0,90.0,dob_exact
+Nuno Mendes,2DF,Paris Saint-Germain,2002-06-19,43,1,Nuno Mendes,Paris Saint-Germain Football Club,75000000.0,75.0,dob+name(100.0%)
+Rúben Dias,2DF,Manchester City,1997-05-14,75,3,Rúben Dias,Manchester City Football Club,60000000.0,60.0,dob_exact
+Pedro Neto,4FW,Chelsea,2000-03-09,24,2,Pedro Neto,Chelsea Football Club,60000000.0,60.0,dob_exact
+Gonçalo Inácio,2DF,Sporting CP,2001-08-25,21,2,Gonçalo Inácio,Sporting Clube de Portugal,45000000.0,45.0,dob_exact
+Rúben Neves,3MF,Al-Hilal,1997-03-13,66,1,Rúben Neves,Al-Hilal Saudi Football Club,40000000.0,40.0,dob_exact
+Bruno Fernandes,3MF,Manchester United,1994-09-08,88,29,Bruno Fernandes,Manchester United Football Club,40000000.0,40.0,dob_exact
+Diogo Costa,1GK,Porto,1999-09-19,42,0,Diogo Costa,Futebol Clube do Porto,40000000.0,40.0,dob_exact
+Matheus Nunes,3MF,Manchester City,1998-08-27,19,2,Matheus Nunes,Manchester City Football Club,38000000.0,38.0,dob_exact
+Gonçalo Ramos,4FW,Paris Saint-Germain,2001-06-20,24,10,Gonçalo Ramos,Paris Saint-Germain Football Club,35000000.0,35.0,dob_exact
+Francisco Trincão,4FW,Sporting CP,1999-12-29,17,3,Francisco Trincão,Sporting Clube de Portugal,35000000.0,35.0,dob+name(100.0%)
+Francisco Conceição,4FW,Juventus,2002-12-14,16,3,Francisco Conceição,Juventus Football Club,30000000.0,30.0,dob_exact
+Diogo Dalot,2DF,Manchester United,1999-03-18,34,3,Diogo Dalot,Manchester United Football Club,28000000.0,28.0,dob+name(100.0%)
+Tomás Araújo,2DF,Benfica,2002-05-16,4,0,Tomás Araújo,Sport Lisboa e Benfica,28000000.0,28.0,dob_exact
+Bernardo Silva,3MF,Manchester City,1994-08-10,108,14,Bernardo Silva,Manchester City Football Club,27000000.0,27.0,dob_exact
+João Cancelo,2DF,Barcelona,1994-05-27,67,12,João Cancelo,Futbol Club Barcelona,25000000.0,25.0,dob_exact
+João Félix,4FW,Al-Nassr,1999-11-10,53,12,João Félix,Al-Nassr Football Club,25000000.0,25.0,dob+name(100.0%)
+Renato Veiga,2DF,Villarreal,2003-07-29,12,1,Renato Veiga,Villarreal Club de Fútbol S.A.D.,25000000.0,25.0,dob_exact
+Samú Costa,2DF,Mallorca,2000-11-27,5,0,Samú Costa,Real Club Deportivo Mallorca S.A.D.,15000000.0,15.0,dob+name(100.0%)
+Cristiano Ronaldo (captain),4FW,Al-Nassr,1985-02-05,227,143,Cristiano Ronaldo,Al-Nassr Football Club,15000000.0,15.0,dob_exact
+Rui Silva,1GK,Sporting CP,1994-02-07,3,0,Rui Silva,Sporting Clube de Portugal,8000000.0,8.0,dob_exact
+Nélson Semedo,2DF,Fenerbahçe,1993-11-16,49,0,Nélson Semedo,Fenerbahçe Spor Kulübü,7500000.0,7.5,dob_exact
+Gonçalo Guedes,4FW,Real Sociedad,1996-11-29,34,8,Gonçalo Guedes,Real Sociedad de Fútbol S.A.D.,6000000.0,6.0,dob_exact
+José Sá,1GK,Wolverhampton Wanderers,1993-01-17,5,0,José Sá,Wolverhampton Wanderers Football Club,5000000.0,5.0,dob_exact

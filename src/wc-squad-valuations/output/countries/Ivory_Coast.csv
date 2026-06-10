@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Amad Diallo,4FW,Manchester United,2002-07-11,19,6,Amad Diallo,Manchester United Football Club,50000000.0,50.0,dob_exact
+Ousmane Diomande,2DF,Sporting CP,2003-12-04,15,1,Ousmane Diomande,Sporting Clube de Portugal,45000000.0,45.0,dob_exact
+Yan Diomande,4FW,RB Leipzig,2006-11-14,10,3,Yan Diomande,RasenBallsport Leipzig,45000000.0,45.0,dob+name(100.0%)
+Evan Ndicka,2DF,Roma,1999-08-20,28,0,Evan Ndicka,Associazione Sportiva Roma,30000000.0,30.0,dob_exact
+Evann Guessand,4FW,Crystal Palace,2001-07-01,21,4,Evann Guessand,Crystal Palace Football Club,28000000.0,28.0,dob_exact
+Wilfried Singo,2DF,Galatasaray,2000-12-25,34,1,Wilfried Singo,Galatasaray Spor Kulübü,28000000.0,28.0,dob+name(100.0%)
+Bazoumana Touré,4FW,TSG Hoffenheim,2006-03-02,6,2,Bazoumana Touré,Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs,25000000.0,25.0,dob_exact
+Odilon Kossounou,2DF,Atalanta,2001-01-04,35,0,Odilon Kossounou,Atalanta Bergamasca Calcio S.p.a.,22000000.0,22.0,dob+name(100.0%)
+Simon Adingra,4FW,Monaco,2002-01-01,29,5,Simon Adingra,Association sportive de Monaco Football Club,22000000.0,22.0,dob+name(100.0%)
+Ibrahim Sangaré,3MF,Nottingham Forest,1997-12-02,58,12,Ibrahim Sangaré,Nottingham Forest Football Club,22000000.0,22.0,dob_exact
+Franck Kessié (captain),3MF,Al-Ahli,1996-12-19,103,15,Franck Kessié,Al-Ahli Saudi Football Club,20000000.0,20.0,dob_exact
+Guéla Doué,2DF,Strasbourg,2002-10-17,20,3,Guéla Doué,Racing Club de Strasbourg Alsace,18000000.0,18.0,dob+name(100.0%)
+Elye Wahi,4FW,Nice,2003-01-02,2,0,Elye Wahi,Olympique Gymnaste Club Nice Côte d'Azur,12000000.0,12.0,dob_exact
+Emmanuel Agbadou,2DF,Beşiktaş,1997-06-17,20,2,Emmanuel Agbadou,Beşiktaş Jimnastik Kulübü,9000000.0,9.0,dob_exact
+Nicolas Pépé,4FW,Villarreal,1995-05-29,55,12,Nicolas Pépé,Villarreal Club de Fútbol S.A.D.,8500000.0,8.5,dob_exact
+Seko Fofana,3MF,Porto,1995-05-07,32,7,Seko Fofana,Futebol Clube do Porto,8000000.0,8.0,dob_exact
+Ghislain Konan,2DF,Gil Vicente,1995-12-27,54,0,Ghislain Konan,Gil Vicente Futebol Clube,6500000.0,6.5,dob_exact
+Oumar Diakité,4FW,Cercle Brugge,2003-12-20,29,6,Oumar Diakité,Cercle Brugge Koninklijke Sportvereniging,5000000.0,5.0,dob_exact
+Parfait Guiagon,3MF,Charleroi,2001-02-22,5,0,Parfait Guiagon,Royal Charleroi Sporting Club,4000000.0,4.0,dob_exact
+Christopher Opéri,2DF,İstanbul Başakşehir,1997-04-29,12,0,Christopher Operi,İstanbul Başakşehir Futbol Kulübü,4000000.0,4.0,dob_exact
+Alban Lafont,1GK,Panathinaikos,1999-01-23,4,0,Alban Lafont,Panathinaikos Athlitikos Omilos,3000000.0,3.0,dob_exact
+Yahia Fofana,1GK,Çaykur Rizespor,2000-08-21,35,0,Yahia Fofana,Çaykur Rizespor Kulübü,2500000.0,2.5,dob_exact
+Jean Michaël Seri,3MF,Maribor,1991-07-19,65,4,Jean Michaël Seri,Al-Orobah FC,1500000.0,1.5,dob_exact
+Mohamed Koné,1GK,Charleroi,2002-03-07,0,0,Mohamed Koné,Royal Charleroi Sporting Club,800000.0,0.8,dob_exact
+Ange-Yoan Bonny,4FW,Inter Milan,2003-10-25,1,0,Ange-Yoan Bonny,Football Club Internazionale Milano S.p.A.,,,dob_exact
+Christ Inao Oulaï,3MF,Trabzonspor,2006-04-06,9,0,Christ Inao Oulaï,Trabzonspor Kulübü,,,dob_exact

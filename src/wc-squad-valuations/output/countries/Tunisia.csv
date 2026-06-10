@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Hannibal Mejbri,3MF,Burnley,2003-01-21,45,1,Hannibal,Burnley Football Club,9000000.0,9.0,dob_exact
+Montassar Talbi,2DF,Lorient,1998-05-26,64,4,Montassar Talbi,Football Club Lorient-Bretagne Sud,7000000.0,7.0,dob_exact
+Ismaël Gharbi,3MF,FC Augsburg,2004-04-10,17,2,Ismaël Gharbi,Fußball-Club Augsburg 1907,7000000.0,7.0,dob_exact
+Ellyes Skhiri (captain),3MF,Eintracht Frankfurt,1995-05-10,83,4,Ellyes Skhiri,Eintracht Frankfurt Fußball AG,6000000.0,6.0,dob_exact
+Elias Achouri,4FW,Copenhagen,1999-02-10,30,4,Elias Achouri,Football Club København,3500000.0,3.5,dob_exact
+Ali Abdi,2DF,Nice,1993-12-20,46,7,Ali Abdi,Olympique Gymnaste Club Nice Côte d'Azur,2500000.0,2.5,dob_exact
+Anis Ben Slimane,3MF,Norwich City,2001-03-16,41,4,Anis Slimane,Sheffield United,2500000.0,2.5,dob_exact
+Rani Khedira,3MF,Union Berlin,1994-01-27,3,0,Rani Khedira,1. Fußballclub Union Berlin,2000000.0,2.0,dob_exact
+Yan Valery,2DF,Young Boys,1999-02-22,22,0,Yan Valery,Berner Sport Club Young Boys,2000000.0,2.0,dob_exact
+Mortadha Ben Ouanes,2DF,Kasımpaşa,1994-07-02,18,0,Mortadha Ben Ouanes,Kasımpaşa A.Ş.,1500000.0,1.5,dob_exact
+Dylan Bronn,2DF,Servette,1995-06-19,52,2,Dylan Bronn,Servette Football Club 1890 SA,1300000.0,1.3,dob_exact
+Raed Chikhaoui,2DF,US Monastir,2004-06-09,0,0,Haykeul Chikhaoui,FC Sochaux-Montbéliard,1000000.0,1.0,name(77.41935483870968%)
+Omar Rekik,2DF,Maribor,2001-12-20,6,0,Omar Rekik,Sparta Rotterdam,600000.0,0.6,dob_exact
+Sebastian Tounekti,3MF,Celtic,2002-07-13,12,1,Sebastian Tounekti,The Celtic Football Club,300000.0,0.3,dob_exact
+Firas Chaouat,4FW,Club Africain,1996-05-08,30,6,Souheib Dhaflaoui,Fodbold Club Nordsjælland,250000.0,0.25,dob_exact
+Mouhib Chamakh,1GK,Club Africain,2001-08-25,2,0,,,0.0,0.0,unmatched
+Khalil Ayari,3MF,Paris Saint-Germain,2005-02-02,4,0,,,0.0,0.0,unmatched
+Mohamed Amine Ben Hamida,2DF,Espérance de Tunis,1995-12-15,13,0,,,0.0,0.0,unmatched
+Adem Arous,2DF,Kasımpaşa,2004-07-17,2,0,Adem Arous,Kasımpaşa A.Ş.,,,dob_exact
+Elias Saad,4FW,Hannover 96,1999-12-27,15,4,Elias Saad,Fußball-Club St. Pauli von 1910,,,dob_exact
+Hazem Mastouri,4FW,Dynamo Makhachkala,1997-06-18,19,4,Hazem Mastouri,Dinamo Makhachkala,,,dob_exact
+Hadj Mahmoud,3MF,Lugano,2000-04-24,9,0,Mohamed Belhadj Mahmoud,FC Lugano,,,dob_exact
+Aymen Dahmen,1GK,CS Sfaxien,1997-01-28,37,0,Aymen Dahmen,,,,dob+name(100.0%)
+Rayan Elloumi,4FW,Vancouver Whitecaps FC,2007-09-17,4,0,Rayan Elloumi,Vancouver Whitecaps FC,,,dob_exact
+Sabri Ben Hessen,1GK,Étoile du Sahel,1996-06-13,2,0,Sabri Ben Hessen,,,,dob_exact
+Moutaz Neffati,2DF,IFK Norrköping,2004-09-04,5,0,Moutaz Neffati,IFK Norrköping,,,dob_exact

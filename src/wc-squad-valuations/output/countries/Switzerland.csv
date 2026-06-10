@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Gregor Kobel,1GK,Borussia Dortmund,1997-12-06,21,0,Gregor Kobel,Borussia Dortmund,40000000.0,40.0,dob+name(100.0%)
+Dan Ndoye,4FW,Nottingham Forest,2000-10-25,31,8,Dan Ndoye,Nottingham Forest Football Club,40000000.0,40.0,dob_exact
+Ardon Jashari,3MF,Milan,2002-07-30,8,0,Ardon Jashari,Associazione Calcio Milan,32000000.0,32.0,dob+name(100.0%)
+Johan Manzambi,3MF,SC Freiburg,2005-10-14,12,3,Johan Manzambi,Sport-Club Freiburg,30000000.0,30.0,dob_exact
+Denis Zakaria,3MF,Monaco,1996-11-20,65,3,Denis Zakaria,Association sportive de Monaco Football Club,25000000.0,25.0,dob_exact
+Manuel Akanji,2DF,Inter Milan,1995-07-19,81,4,Manuel Akanji,Football Club Internazionale Milano S.p.A.,22000000.0,22.0,dob_exact
+Noah Okafor,4FW,Leeds United,2000-05-24,25,2,Noah Okafor,Leeds United Association Football Club,18000000.0,18.0,dob_exact
+Breel Embolo,4FW,Rennes,1997-02-14,86,24,Breel Embolo,Stade Rennais Football Club,12000000.0,12.0,dob_exact
+Luca Jaquez,2DF,VfB Stuttgart,2003-06-02,3,0,Luca Jaquez,Verein für Bewegungsspiele Stuttgart 1893,10000000.0,10.0,dob_exact
+Granit Xhaka (captain),3MF,Sunderland,1992-09-27,146,17,Granit Xhaka,Sunderland Association Football Club,10000000.0,10.0,dob_exact
+Rubén Vargas,4FW,Sevilla,1998-08-05,61,11,Rubén Vargas,Sevilla Fútbol Club S.A.D.,9000000.0,9.0,dob+name(100.0%)
+Zeki Amdouni,4FW,Burnley,2000-12-04,29,11,Zeki Amdouni,Burnley Football Club,9000000.0,9.0,dob_exact
+Djibril Sow,3MF,Sevilla,1997-02-06,52,0,Djibril Sow,Sevilla Fútbol Club S.A.D.,9000000.0,9.0,dob_exact
+Nico Elvedi,2DF,Borussia Mönchengladbach,1996-09-30,67,3,Nico Elvedi,Borussia Verein für Leibesübungen 1900 Mönchengladbach,8000000.0,8.0,dob_exact
+Fabian Rieder,3MF,FC Augsburg,2002-02-16,28,1,Fabian Rieder,Fußball-Club Augsburg 1907,8000000.0,8.0,dob_exact
+Aurèle Amenda,2DF,Eintracht Frankfurt,2003-07-31,7,0,Aurèle Amenda,Eintracht Frankfurt Fußball AG,6000000.0,6.0,dob_exact
+Michel Aebischer,3MF,Pisa,1997-01-06,40,2,Michel Aebischer,Pisa Sporting Club,4500000.0,4.5,dob_exact
+Cedric Itten,4FW,Fortuna Düsseldorf,1996-12-27,15,5,Cedric Itten,Fortuna Düsseldorf,4500000.0,4.5,dob_exact
+Remo Freuler,3MF,Bologna,1992-04-15,88,11,Remo Freuler,Bologna Football Club 1909,4000000.0,4.0,dob_exact
+Ricardo Rodriguez,2DF,Real Betis,1992-08-25,138,9,Ricardo Rodríguez,Real Betis Balompié S.A.D.,3500000.0,3.5,dob_exact
+Yvon Mvogo,1GK,Lorient,1994-06-06,13,0,Yvon Mvogo,Football Club Lorient-Bretagne Sud,3000000.0,3.0,dob_exact
+Eray Cömert,2DF,Valencia,1998-02-04,22,0,Eray Cömert,Valencia Club de Fútbol S. A. D.,2000000.0,2.0,dob_exact
+Silvan Widmer,2DF,Mainz 05,1993-03-05,60,5,Silvan Widmer,1. Fußball- und Sportverein Mainz 05,800000.0,0.8,dob_exact
+Miro Muheim,2DF,Hamburger SV,1998-03-24,10,0,Miro Muheim,Hamburger Sport Verein,,,dob_exact
+Christian Fassnacht,4FW,Young Boys,1993-11-11,23,5,Christian Fassnacht,Berner Sport Club Young Boys,,,dob_exact
+Marvin Keller,1GK,Young Boys,2002-07-03,1,0,Marvin Keller,Berner Sport Club Young Boys,,,dob_exact

@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Zidane Iqbal,3MF,Utrecht,2003-04-27,25,2,Zidane Iqbal,Football Club Utrecht,3000000.0,3.0,dob_exact
+Ali Al-Hamadi,4FW,Luton Town,2002-03-01,20,5,Ali Al-Hamadi,Luton Town,2000000.0,2.0,dob+name(100.0%)
+Aimar Sher,3MF,Sarpsborg 08,2002-12-20,7,0,Aimar Sher,Sarpsborg 08 Fotballforening,750000.0,0.75,dob_exact
+Kevin Yakob,3MF,AGF,2000-10-10,9,0,Kevin Yakob,Aarhus Gymnastik Forening,600000.0,0.6,dob_exact
+Hussein Ali,2DF,Pogoń Szczecin,2002-03-01,27,1,Hussein Ali,Morski Klub Sportowy Pogoń Szczecin,400000.0,0.4,dob+name(100.0%)
+Frans Putros,2DF,Persib,1993-07-14,28,0,Frans Dhia Putros,,400000.0,0.4,dob_exact
+Mohanad Ali,4FW,Dibba,2000-06-20,72,27,Mohanad Ali,,350000.0,0.35,dob_exact
+Fahad Talib,1GK,Al-Talaba,1994-10-21,21,0,Fahad Talib,,,,dob_exact
+Rebin Sulaka,2DF,Port,1992-04-12,56,1,Rebin Sulaka,,,,dob_exact
+Zaid Tahseen,2DF,Pakhtakor,2001-01-29,28,1,Zaid Tahseen,,,,dob_exact
+Akam Hashim,2DF,Al-Zawraa,1998-08-16,14,1,Akam Hashem,,,,dob_exact
+Manaf Younis,2DF,Al-Shorta,1996-11-16,34,1,Manaf Younis,,,,dob_exact
+Youssef Amyn,3MF,AEK Larnaca,2003-08-21,27,2,Youssef Amyn,,,,dob_exact
+Ibrahim Bayesh,3MF,Al Dhafra,2000-05-01,76,8,Ibrahim Bayesh,,,,name(100.0%)
+Ahmed Qasem,4FW,Nashville SC,2003-07-12,3,0,Ahmed Qasem,Nashville SC,,,dob_exact
+Jalal Hassan (captain),1GK,Al-Zawraa,1991-05-18,102,0,Jalal Hassan,,,,dob_exact
+Ali Yousif,4FW,Al-Talaba,1996-01-19,7,1,Ali Yousif,,,,dob_exact
+Ahmed Maknzi,2DF,Al-Karma,2001-09-24,7,0,Ahmed Hasan,,,,dob_exact
+Amir Al-Ammari,3MF,Cracovia,1997-07-27,51,3,Amir Al-Ammari,Klub Sportowy Cracovia Spółka Akcyjna,,,dob_exact
+Ali Jasim,4FW,Al-Najma,2004-01-20,36,2,Ali Jasim,Al-Najma Sport Club,,,dob_exact
+Aymen Hussein,4FW,Al-Karma,1996-03-22,95,33,Aymen Hussein,,,,dob_exact
+Marko Farji,4FW,Venezia,2004-03-16,12,0,Marko Farji,Venezia FC,,,dob_exact
+Ahmed Basil,1GK,Al-Shorta,1996-08-19,16,0,Ahmed Basil Fadhil,,,,dob_exact
+Merchas Doski,2DF,Viktoria Plzeň,1999-12-07,31,1,Merchas Doski,"FC Viktoria Plzeň, a.s.",,,dob_exact
+Zaid Ismail,3MF,Al-Talaba,2002-01-03,6,0,Zaid Ismail,,,,dob_exact
+Mustafa Saadoon,2DF,Al-Shorta,2001-05-25,17,0,Mustafa Saadoon,,,,dob_exact

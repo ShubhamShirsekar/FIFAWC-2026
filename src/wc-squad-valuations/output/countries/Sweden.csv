@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Alexander Isak,4FW,Liverpool,1999-09-21,58,17,Alexander Isak,Liverpool Football Club,120000000.0,120.0,dob_exact
+Viktor Gyökeres,4FW,Arsenal,1998-06-04,33,20,Viktor Gyökeres,Arsenal Football Club,70000000.0,70.0,dob_exact
+Anthony Elanga,4FW,Newcastle United,2002-04-27,30,6,Anthony Elanga,Newcastle United Football Club,50000000.0,50.0,dob_exact
+Lucas Bergvall,3MF,Tottenham Hotspur,2006-02-02,10,0,Lucas Bergvall,Tottenham Hotspur Football Club,40000000.0,40.0,dob+name(100.0%)
+Yasin Ayari,3MF,Brighton & Hove Albion,2003-10-06,21,3,Yasin Ayari,Brighton and Hove Albion Football Club,30000000.0,30.0,dob_exact
+Isak Hien,2DF,Atalanta,1999-01-13,29,0,Isak Hien,Atalanta Bergamasca Calcio S.p.a.,25000000.0,25.0,dob_exact
+Daniel Svensson,2DF,Borussia Dortmund,2002-02-12,13,0,Daniel Svensson,Borussia Dortmund,22000000.0,22.0,dob_exact
+Victor Lindelöf (captain),2DF,Aston Villa,1994-07-17,76,3,Victor Lindelöf,Aston Villa Football Club,15000000.0,15.0,dob_exact
+Gabriel Gudmundsson,2DF,Leeds United,1999-04-29,24,0,Gabriel Gudmundsson,Leeds United Association Football Club,15000000.0,15.0,dob_exact
+Mattias Svanberg,3MF,VfL Wolfsburg,1999-01-05,41,2,Mattias Svanberg,Verein für Leibesübungen Wolfsburg,12000000.0,12.0,dob_exact
+Benjamin Nygren,3MF,Celtic,2001-07-08,11,3,Benjamin Nygren,The Celtic Football Club,6500000.0,6.5,dob_exact
+Hjalmar Ekdal,2DF,Burnley,1998-10-21,13,0,Hjalmar Ekdal,Burnley Football Club,6000000.0,6.0,dob_exact
+Carl Starfelt,2DF,Celta Vigo,1995-06-01,18,0,Carl Starfelt,Real Club Celta de Vigo S. A. D.,6000000.0,6.0,dob_exact
+Gustaf Lagerbielke,2DF,Braga,2000-04-10,11,2,Gustaf Lagerbielke,Sporting Clube de Braga,5000000.0,5.0,dob_exact
+Eric Smith,2DF,FC St. Pauli,1997-01-08,2,0,Eric Smith,Fußball-Club St. Pauli von 1910,5000000.0,5.0,dob_exact
+Jesper Karlström,3MF,Udinese,1995-06-21,25,0,Jesper Karlström,Udinese Calcio,4000000.0,4.0,dob_exact
+Alexander Bernhardsson,2DF,Holstein Kiel,1998-09-08,11,0,Alexander Bernhardsson,Holstein Kiel,3000000.0,3.0,dob+name(100.0%)
+Ken Sema,3MF,Pafos,1993-09-30,33,5,Ken Sema,,2500000.0,2.5,dob_exact
+Gustaf Nilsson,4FW,Club Brugge,1997-05-23,10,4,Gustaf Nilsson,Club Brugge Koninklijke Voetbalvereniging,2500000.0,2.5,dob_exact
+Kristoffer Nordfeldt,1GK,AIK,1989-06-23,21,0,Kristoffer Nordfeldt,Allmänna Idrottsklubben,300000.0,0.3,dob_exact
+Jacob Widell Zetterström,1GK,Derby County,1998-07-11,3,0,Jacob Widell Zetterström,,,,dob_exact
+Herman Johansson,2DF,FC Dallas,1997-10-16,3,0,Herman Johansson,FC Dallas,,,dob_exact
+Viktor Johansson,1GK,Stoke City,1998-09-14,12,0,Viktor Johansson,Stoke City,,,dob+name(100.0%)
+Besfort Zeneli,3MF,Union Saint-Gilloise,2002-11-21,8,0,Besfort Zeneli,Royale Union Saint-Gilloise,,,dob_exact
+Elliot Stroud,2DF,Mjällby AIF,2002-06-22,1,0,Elliot Stroud,Mjällby Almänna Idrottsförening,,,dob_exact
+Taha Ali,4FW,Malmö FF,1998-07-01,2,0,Taha Ali,Malmö Fotbollförening,,,dob_exact

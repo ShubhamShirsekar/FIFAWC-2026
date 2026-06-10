@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Luis Díaz,4FW,Bayern Munich,1997-01-13,74,22,Luis Díaz,FC Bayern München,70000000.0,70.0,dob+name(100.0%)
+Daniel Muñoz,2DF,Crystal Palace,1996-05-26,46,3,Daniel Muñoz,Crystal Palace Football Club,27000000.0,27.0,dob_exact
+Cucho Hernández,4FW,Real Betis,1999-04-20,9,2,Cucho Hernández,Real Betis Balompié S.A.D.,18000000.0,18.0,dob_exact
+Davinson Sánchez,2DF,Galatasaray,1996-06-12,79,4,Davinson Sánchez,Galatasaray Spor Kulübü,18000000.0,18.0,dob_exact
+Jhon Lucumí,2DF,Bologna,1998-06-26,37,1,Jhon Lucumí,Bologna Football Club 1909,17000000.0,17.0,dob_exact
+Jhon Córdoba,4FW,Krasnodar,1993-05-11,21,6,Jhon Córdoba,FK Krasnodar,10000000.0,10.0,dob_exact
+Jorge Carrascal,3MF,Flamengo,1998-05-25,24,2,Jorge Carrascal,Clube de Regatas do Flamengo,9000000.0,9.0,dob_exact
+Jefferson Lerma,3MF,Crystal Palace,1994-10-25,65,5,Jefferson Lerma,Crystal Palace Football Club,8000000.0,8.0,dob_exact
+James Rodríguez (captain),3MF,Minnesota United FC,1991-07-12,126,31,James Rodríguez,Minnesota United FC,6000000.0,6.0,dob_exact
+Andrés Gómez,4FW,Vasco da Gama,2002-09-12,8,2,Andrés Gómez,Club de Regatas Vasco da Gama,5000000.0,5.0,dob_exact
+Kevin Castaño,3MF,River Plate,2000-09-29,25,0,Kevin Castaño,Club Atlético River Plate,5000000.0,5.0,dob_exact
+Deiver Machado,2DF,Nantes,1993-09-02,15,0,Deiver Machado,Football Club de Nantes,4000000.0,4.0,dob_exact
+Luis Suárez,4FW,Sporting CP,1997-12-02,12,5,Luis Suárez,Sporting Clube de Portugal,3500000.0,3.5,dob_exact
+David Ospina,1GK,Atlético Nacional,1988-08-31,130,0,David Ospina,Atlético Nacional,3000000.0,3.0,dob+name(100.0%)
+Yerry Mina,2DF,Cagliari,1994-09-23,54,8,Yerry Mina,Cagliari Calcio,3000000.0,3.0,dob_exact
+Gustavo Puerta,2DF,Racing Santander,2003-07-23,6,1,Gustavo Puerta,,3000000.0,3.0,dob_exact
+Santiago Arias,2DF,Independiente,1992-01-13,68,0,Santiago Arias,Club Atlético Independiente de Avellaneda,2500000.0,2.5,dob_exact
+Juan Fernando Quintero,3MF,River Plate,1993-01-18,49,6,Juan Fernando Quintero,Club Atlético River Plate,2500000.0,2.5,dob_exact
+Johan Mojica,2DF,Mallorca,1992-08-21,45,1,Johan Mojica,Real Club Deportivo Mallorca S.A.D.,1800000.0,1.8,dob_exact
+Richard Ríos,3MF,Benfica,2000-06-02,32,2,Richard Ríos,Sport Lisboa e Benfica,,,dob_exact
+Jhon Arias,3MF,Palmeiras,1997-09-21,38,6,Jhon Arias,Sociedade Esportiva Palmeiras,,,dob_exact
+Camilo Vargas,1GK,Atlas,1989-03-09,42,0,Camilo Vargas,Club de Futbol Rojinegros S.A. de C.V.,,,dob_exact
+Juan Portilla,3MF,Athletico Paranaense,1998-09-12,10,0,Juan Portilla,Clube Atlético Paranaense,,,dob_exact
+Willer Ditta,2DF,Cruz Azul,1998-01-23,5,0,Willer Ditta,Club de Fútbol Cruz Azul S.A. de C.V.,,,dob_exact
+Jaminton Campaz,4FW,Rosario Central,2000-05-24,10,1,Jáminton Campaz,Club Atlético Rosario Central,,,dob_exact
+Álvaro Montero,1GK,Vélez Sarsfield,1995-03-29,12,0,Álvaro Montero,Club Atlético Vélez Sársfield,,,dob_exact

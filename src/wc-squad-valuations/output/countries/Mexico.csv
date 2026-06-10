@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Santiago Giménez,4FW,Milan,2001-04-18,47,6,Santiago Gimenez,Associazione Calcio Milan,40000000.0,40.0,dob_exact
+Edson Álvarez (captain),2DF,Fenerbahçe,1997-10-24,98,7,Edson Álvarez,Fenerbahçe Spor Kulübü,22000000.0,22.0,dob_exact
+Johan Vásquez,2DF,Genoa,1998-10-22,46,3,Johan Vásquez,Genoa Cricket and Football Club,10000000.0,10.0,dob_exact
+Luis Chávez,3MF,Dynamo Moscow,1996-01-15,45,5,Luis Chávez,FK Dinamo Moskva,9000000.0,9.0,dob_exact
+César Montes,2DF,Lokomotiv Moscow,1997-02-24,67,4,César Montes,"Футбольный клуб ""Локомотив"" Москва",7000000.0,7.0,dob+name(100.0%)
+Orbelín Pineda,3MF,AEK Athens,1996-03-24,92,12,Orbelín Pineda,Athlitiki Enosi Konstantinoupoleos,7000000.0,7.0,dob_exact
+Álvaro Fidalgo,3MF,Real Betis,1997-04-09,4,0,Álvaro Fidalgo,Real Betis Balompié S.A.D.,7000000.0,7.0,dob_exact
+César Huerta,4FW,Anderlecht,2000-12-03,26,3,César Huerta,Royal Sporting Club Anderlecht,5000000.0,5.0,dob+name(100.0%)
+Raúl Jiménez,4FW,Fulham,1991-05-05,124,45,Raúl Jiménez,Fulham Football Club,4000000.0,4.0,dob_exact
+Jorge Sánchez,2DF,PAOK,1997-12-10,59,3,Jorge Sánchez,Panthessalonikios Athlitikos Omilos Konstantinoupoliton,3500000.0,3.5,dob_exact
+Guillermo Ochoa,1GK,AEL Limassol,1985-07-13,152,0,Guillermo Ochoa,,1000000.0,1.0,dob_exact
+Raúl Rangel,1GK,Guadalajara,2000-02-25,14,0,Raúl Rangel,Club Deportivo Guadalajara S. A. de C. V.,,,dob_exact
+Érik Lira,3MF,Cruz Azul,2000-05-08,25,0,Érik Lira,Club de Fútbol Cruz Azul S.A. de C.V.,,,dob_exact
+Luis Romo,3MF,Guadalajara,1995-06-05,63,4,Luis Romo,Club Deportivo Guadalajara S. A. de C. V.,,,dob_exact
+Alexis Vega,4FW,Toluca,1997-11-25,52,7,Alexis Vega,"Deportivo Toluca Futbol Club, S. A. de C. V.",,,dob_exact
+Carlos Acevedo,1GK,Santos Laguna,1996-04-19,7,0,Carlos Acevedo,Club Santos Laguna S. A. de C. V.,,,dob_exact
+Armando González,4FW,Guadalajara,2003-04-20,7,1,Armando González,Club Deportivo Guadalajara S. A. de C. V.,,,dob_exact
+Israel Reyes,2DF,América,2000-05-23,34,2,Israel Reyes,Club de Futbol América S. A. de C. V.,,,dob+name(100.0%)
+Julián Quiñones,4FW,Al-Qadsiah,1997-03-24,22,2,Julián Quiñones,Al-Qadsiah Saudi Football Club,,,dob_exact
+Obed Vargas,3MF,Atlético Madrid,2005-08-05,6,0,Obed Vargas,Club Atlético de Madrid S.A.D.,,,dob_exact
+Gilberto Mora,3MF,Tijuana,2008-10-14,8,0,Gilberto Mora,Club Tijuana Xoloitzcuintles de Caliente,,,dob_exact
+Mateo Chávez,2DF,AZ,2004-05-12,10,0,Mateo Chávez,Alkmaar Zaanstreek,,,dob_exact
+Guillermo Martínez,4FW,Pumas,1995-03-15,12,3,Guillermo Martínez,Club Universidad Nacional A. C.,,,dob_exact
+Jesús Gallardo,2DF,Toluca,1994-08-15,121,3,Jesús Gallardo,"Deportivo Toluca Futbol Club, S. A. de C. V.",,,dob_exact
+Roberto Alvarado,4FW,Guadalajara,1998-09-07,67,5,Roberto Alvarado,Club Deportivo Guadalajara S. A. de C. V.,,,dob+name(100.0%)
+Brian Gutiérrez,3MF,Guadalajara,2003-06-17,7,2,Brian Gutiérrez,Club Deportivo Guadalajara S. A. de C. V.,,,dob_exact

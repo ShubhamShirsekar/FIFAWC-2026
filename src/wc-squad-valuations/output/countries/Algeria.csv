@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Rayan Aït-Nouri,2DF,Manchester City,2001-06-06,28,0,Rayan Aït-Nouri,Manchester City Football Club,40000000.0,40.0,dob_exact
+Mohamed Amoura,4FW,VfL Wolfsburg,2000-05-09,45,19,Mohamed Amoura,Verein für Leibesübungen Wolfsburg,32000000.0,32.0,dob_exact
+Amine Gouiri,4FW,Marseille,2000-02-16,22,8,Amine Gouiri,Olympique de Marseille,28000000.0,28.0,dob_exact
+Riyad Mahrez (captain),4FW,Al-Ahli,1991-02-21,114,38,Riyad Mahrez,Al-Ahli Saudi Football Club,18000000.0,18.0,dob_exact
+Farès Chaïbi,3MF,Eintracht Frankfurt,2002-11-28,29,3,Farès Chaïbi,Eintracht Frankfurt Fußball AG,15000000.0,15.0,dob_exact
+Hicham Boudaoui,3MF,Nice,1999-09-23,32,0,Hicham Boudaoui,Olympique Gymnaste Club Nice Côte d'Azur,12000000.0,12.0,dob_exact
+Houssem Aouar,3MF,Al-Ittihad,1998-06-30,20,6,Houssem Aouar,Al-Ittihad Football Club,10000000.0,10.0,dob_exact
+Ramiz Zerrouki,3MF,Twente,1998-05-26,52,3,Ramiz Zerrouki,Football Club Twente,9000000.0,9.0,dob_exact
+Rafik Belghali,2DF,Hellas Verona,2002-06-07,12,1,Rafik Belghali,Verona Hellas Football Club,7000000.0,7.0,dob_exact
+Ramy Bensebaini,2DF,Borussia Dortmund,1995-04-16,81,7,Ramy Bensebaini,Borussia Dortmund,7000000.0,7.0,dob_exact
+Yacine Titraoui,3MF,Charleroi,2003-08-26,5,0,Yassine Titraoui,Royal Charleroi Sporting Club,5000000.0,5.0,name(90.32258064516128%)
+Nabil Bentaleb,3MF,Lille,1994-11-24,59,6,Nabil Bentaleb,Lille Olympique Sporting Club,5000000.0,5.0,dob_exact
+Anis Hadj Moussa,4FW,Feyenoord,2002-02-11,14,1,Anis Hadj Moussa,Feyenoord Rotterdam,2000000.0,2.0,dob_exact
+Luca Zidane,1GK,Granada,1998-05-13,7,0,Luca Zidane,Granada CF,2000000.0,2.0,dob_exact
+Jaouen Hadjam,2DF,Young Boys,2003-03-26,17,3,Jaouen Hadjam,Berner Sport Club Young Boys,2000000.0,2.0,dob_exact
+Aïssa Mandi,2DF,Lille,1991-10-22,117,7,Aïssa Mandi,Lille Olympique Sporting Club,1800000.0,1.8,dob_exact
+Zineddine Belaïd,2DF,JS Kabylie,1999-03-20,10,1,Zineddine Belaid,,1200000.0,1.2,dob_exact
+Ibrahim Maza,3MF,Bayer Leverkusen,2005-11-24,16,2,Ibrahim Maza,Bayer 04 Leverkusen Fußball,600000.0,0.6,dob_exact
+Nadhir Benbouali,4FW,Győri ETO,2000-04-17,3,1,Nadhir Benbouali,Royal Charleroi Sporting Club,600000.0,0.6,dob_exact
+Melvin Mastil,1GK,Stade Nyonnais,2000-02-19,1,0,,,0.0,0.0,unmatched
+Farès Ghedjemis,4FW,Frosinone,2002-09-06,1,1,,,0.0,0.0,unmatched
+Achref Abada,2DF,USM Alger,1999-06-15,7,1,Achref Abada,,,,dob_exact
+Mohamed Amine Tougai,2DF,Espérance de Tunis,2000-01-22,29,2,Mohamed Amine Tougai,,,,dob_exact
+Oussama Benbot,1GK,USM Alger,1994-10-11,2,0,Oussama Benbout,,,,dob_exact
+Adil Boulbina,4FW,Al-Duhail,2003-05-02,11,6,Adil Boulbina,,,,dob_exact
+Samir Chergui,2DF,Paris FC,1999-02-06,4,0,Samir Chergui,Paris Football Club,,,dob_exact

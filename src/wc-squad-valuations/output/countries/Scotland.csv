@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Scott McTominay,3MF,Napoli,1996-12-08,70,15,Scott McTominay,Società Sportiva Calcio Napoli,45000000.0,45.0,dob_exact
+Andy Robertson (captain),2DF,Liverpool,1994-03-11,94,4,Andrew Robertson,Liverpool Football Club,30000000.0,30.0,dob_exact
+Aaron Hickey,2DF,Brentford,2002-06-10,21,0,Aaron Hickey,Brentford Football Club,28000000.0,28.0,dob_exact
+Lewis Ferguson,3MF,Bologna,1999-08-24,24,1,Lewis Ferguson,Bologna Football Club 1909,20000000.0,20.0,dob_exact
+Ché Adams,4FW,Torino,1996-07-13,47,13,Ché Adams,Torino Calcio,18000000.0,18.0,dob_exact
+John McGinn,3MF,Aston Villa,1994-10-18,86,20,John McGinn,Aston Villa Football Club,15000000.0,15.0,dob_exact
+Ben Gannon-Doak,4FW,Bournemouth,2005-11-11,14,1,Ben Gannon-Doak,Association Football Club Bournemouth,10000000.0,10.0,dob_exact
+Nathan Patterson,2DF,Everton,2001-10-16,26,1,Nathan Patterson,Everton Football Club,10000000.0,10.0,dob_exact
+Ryan Christie,3MF,Bournemouth,1995-02-22,68,10,Ryan Christie,Association Football Club Bournemouth,9000000.0,9.0,dob_exact
+Scott McKenna,2DF,Dinamo Zagreb,1996-11-12,50,1,Scott McKenna,GNK Dinamo Zagreb,9000000.0,9.0,dob_exact
+Kieran Tierney,2DF,Celtic,1997-06-05,56,2,Kieran Tierney,The Celtic Football Club,8000000.0,8.0,dob_exact
+George Hirst,4FW,Ipswich Town,1999-02-15,10,1,George Hirst,Ipswich Town,8000000.0,8.0,dob_exact
+John Souttar,2DF,Rangers,1996-09-25,24,2,John Souttar,Rangers Football Club,3500000.0,3.5,dob_exact
+Jack Hendry,2DF,Al-Ettifaq,1995-05-07,38,3,Jack Hendry,Al-Ettifaq Football Club,3000000.0,3.0,dob_exact
+Ross Stewart,4FW,Southampton,1996-07-11,3,0,Ross Stewart,Southampton FC,2800000.0,2.8,dob_exact
+Lawrence Shankland,4FW,Heart of Midlothian,1995-08-10,20,7,Lawrence Shankland,Heart of Midlothian Football Club,2500000.0,2.5,dob_exact
+Lyndon Dykes,4FW,Charlton Athletic,1995-10-07,51,10,Lyndon Dykes,,2500000.0,2.5,dob_exact
+Angus Gunn,1GK,Nottingham Forest,1996-01-22,22,0,Angus Gunn,Nottingham Forest Football Club,2500000.0,2.5,dob_exact
+Anthony Ralston,2DF,Celtic,1998-11-16,27,1,Anthony Ralston,The Celtic Football Club,1500000.0,1.5,dob_exact
+Grant Hanley,2DF,Hibernian,1991-11-20,68,2,Grant Hanley,Hibernian Football Club,1500000.0,1.5,dob_exact
+Kenny McLean,3MF,Norwich City,1992-01-08,58,3,Kenny McLean,Norwich City,1200000.0,1.2,dob_exact
+Liam Kelly,1GK,Rangers,1996-01-23,3,0,Liam Kelly,Rangers Football Club,800000.0,0.8,dob_exact
+Findlay Curtis,4FW,Kilmarnock,2006-06-09,3,1,Findlay Curtis,Rangers Football Club,750000.0,0.75,name(100.0%)
+Tyler Fletcher,3MF,Manchester United,2007-03-19,2,0,Steven Fletcher,Dundee United Football Club,200000.0,0.2,name(75.86206896551724%)
+Craig Gordon,1GK,Heart of Midlothian,1982-12-31,84,0,Craig Gordon,Heart of Midlothian Football Club,50000.0,0.05,dob_exact
+Dominic Hyam,2DF,Wrexham,1995-12-20,4,0,,,0.0,0.0,unmatched

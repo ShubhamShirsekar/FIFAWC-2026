@@ -1,0 +1,27 @@
+name,position,club,dob,caps,goals,tm_name,tm_club,value_eur,value_m,match_method
+Achraf Hakimi (captain),2DF,Paris Saint-Germain,1998-11-04,96,11,Achraf Hakimi,Paris Saint-Germain Football Club,80000000.0,80.0,dob_exact
+Ayyoub Bouaddi,3MF,Lille,2007-10-02,3,0,Ayyoub Bouaddi,Lille Olympique Sporting Club,40000000.0,40.0,dob_exact
+Brahim Díaz,4FW,Real Madrid,1999-08-03,26,14,Brahim Díaz,Real Madrid Club de Fútbol,40000000.0,40.0,dob_exact
+Ismael Saibari,3MF,PSV Eindhoven,2001-01-28,31,9,Ismael Saibari,Eindhovense Voetbalvereniging Philips Sport Vereniging,32000000.0,32.0,dob_exact
+Bilal El Khannouss,3MF,VfB Stuttgart,2004-05-10,37,3,Bilal El Khannouss,Verein für Bewegungsspiele Stuttgart 1893,30000000.0,30.0,dob_exact
+Sofyan Amrabat,3MF,Real Betis,1996-08-21,75,0,Sofyan Amrabat,Real Betis Balompié S.A.D.,22000000.0,22.0,dob_exact
+Noussair Mazraoui,2DF,Manchester United,1997-11-14,45,2,Noussair Mazraoui,Manchester United Football Club,22000000.0,22.0,dob_exact
+Nayef Aguerd,2DF,Marseille,1996-03-30,64,2,Nayef Aguerd,Olympique de Marseille,22000000.0,22.0,dob_exact
+Chemsdine Talbi,3MF,Sunderland,2005-05-09,5,0,Chemsdine Talbi,Sunderland Association Football Club,22000000.0,22.0,dob_exact
+Abde Ezzalzouli,4FW,Real Betis,2001-12-17,37,2,Abde Ezzalzouli,Real Betis Balompié S.A.D.,20000000.0,20.0,dob_exact
+Chadi Riad,2DF,Crystal Palace,2003-06-17,6,1,Chadi Riad,Crystal Palace Football Club,12000000.0,12.0,dob_exact
+Anass Salah-Eddine,2DF,PSV Eindhoven,2002-01-18,9,0,Anass Salah-Eddine,Eindhovense Voetbalvereniging Philips Sport Vereniging,12000000.0,12.0,dob+name(100.0%)
+Issa Diop,2DF,Fulham,1997-01-09,4,0,Issa Diop,Fulham Football Club,10000000.0,10.0,dob+name(100.0%)
+Azzedine Ounahi,3MF,Girona,2000-04-19,49,9,Azzedine Ounahi,Girona Fútbol Club S. A. D.,10000000.0,10.0,dob_exact
+Yassine Bounou,1GK,Al-Hilal,1991-04-05,90,0,Yassine Bounou,Al-Hilal Saudi Football Club,9000000.0,9.0,dob_exact
+Neil El Aynaoui,3MF,Roma,2001-07-02,16,2,Neil El Aynaoui,Associazione Sportiva Roma,8000000.0,8.0,dob_exact
+Samir El Mourabet,3MF,Strasbourg,2005-10-06,4,0,Samir El Mourabet,Racing Club de Strasbourg Alsace,8000000.0,8.0,dob+name(100.0%)
+Ayoub El Kaabi,4FW,Olympiacos,1993-06-25,71,35,Ayoub El Kaabi,Olympiakos Syndesmos Filathlon Peiraios,5000000.0,5.0,dob_exact
+Zakaria El Ouahdi,2DF,Genk,2001-12-31,3,0,Zakaria El Ouahdi,Koninklijke Racing Club Genk,4500000.0,4.5,dob_exact
+Munir Mohamedi,1GK,RS Berkane,1989-05-10,53,0,Munir El Kajoui,,1000000.0,1.0,dob_exact
+Redouane Halhal,2DF,Mechelen,2003-03-05,3,0,Redouane Halhal,Yellow-Red Koninklijke Voetbalclub Mechelen,100000.0,0.1,dob_exact
+Ahmed Reda Tagnaouti,1GK,AS FAR,1996-04-05,3,0,,,0.0,0.0,unmatched
+Soufiane Rahimi,4FW,Al Ain,1996-06-02,37,12,Soufiane Rahimi,,,,dob_exact
+Gessime Yassine,3MF,Strasbourg,2005-11-22,5,0,Gessime Yassine,Racing Club de Strasbourg Alsace,,,dob_exact
+Youssef Belammari,2DF,Al Ahly,1998-09-20,19,0,Youssef Belammari,,,,dob_exact
+Ayoube Amaimouni,4FW,Eintracht Frankfurt,2004-11-30,2,0,Ayoube Amaimouni-Echghouyab,Eintracht Frankfurt Fußball AG,,,dob_exact
