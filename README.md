@@ -1,4 +1,4 @@
-# FifaWC
+# FIFA WC 2026 - Data Analytics and Machine Learning Projects
 
 Analytics tools for FIFA World Cup 2026, covering player market valuation and referee officiating behavior.
 
